@@ -1,6 +1,6 @@
-﻿Date,Country,Main indicators
-2019-02-20,JN,Trade Balance Adjusted
-2019-02-20,GE,PPI YoY
-2019-02-20,EC,Consumer Confidence
-2019-02-20,US,FOMC Meeting Minutes
+﻿Country,Indicators,Date
+JN,Trade Balance Adjusted,2019-02-20
+GE,PPI YoY,2019-02-20
+EC,Consumer Confidence,2019-02-20
+US,FOMC Meeting Minutes,2019-02-20
 
