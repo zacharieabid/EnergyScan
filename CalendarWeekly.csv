@@ -1,45 +1,45 @@
-Date	Country	Main indicators & events	Time	Period	Consensus	T-1
-Monday 18 Feb.						
--	JN	Core Machine Orders MoM	0:50	Dec	2.30%	0.00%
-Tuesday 19 Feb.						
--	EC	ECB Current Account SA	10:00	Dec	--	20.3b
--	IT	Industrial Orders MoM	10:00	Dec	--	-0.20%
--	UK	Jobless Claims Change	10:30	Jan	--	20.8k
--	UK	Weekly Earnings ex Bonus 3M/YoY	10:30	Dec	--	3.30%
--	EC	Construction Output MoM	11:00	Dec	--	-0.10%
--	GE	ZEW Survey Expectations	11:00	Feb	--	-15
--	US	Fed's Mester on Eco. Outlook and Mon. Policy	14:50			
--	US	NAHB Housing Market Index	16:00	Feb	59	58
-Wednesday 20 Feb.						
--	JN	Trade Balance Adjusted	0:50	Jan	--	-�183.6b
--	GE	PPI YoY	8:00	Jan	--	2.70%
--	EC	Consumer Confidence	16:00	Feb A	--	-7.9
--	US	FOMC Meeting Minutes	20:00			
-Thursday 21 Feb.						
--	JN	Nikkei Japan PMI Mfg	1:30	Feb P	--	50.3
--	GE	CPI EU Harmonized YoY	8:00	Jan F	--	1.70%
--	FR	Business Confidence	8:45	Feb	--	102
--	FR	CPI EU Harmonized YoY	8:45	Jan F	--	1.40%
--	EC	Markit Eurozone Man. PMI	10:00	Feb P	50.5	50.5
--	EC	Markit Eurozone Services PMI	10:00	Feb P	51.4	51.2
--	UK	PSNB ex Banking Groups	10:30	Jan	--	3.0b
--	EC	ECB Accounts of January Meeting	13:30			
--	US	Fed's Bostic on Eco. and Mon. Policy	13:50			
--	US	Philadelphia Fed Business Outlook	14:30	Feb	14.5	17
--	US	Initial Jobless Claims	14:30		--	--
--	US	Cap Goods Orders Nondef Ex Air	14:30	Dec P	0.20%	-0.60%
--	US	Bloomberg Consumer Comfort	15:45		--	--
--	US	Markit US Manufacturing PMI	15:45	Feb P	55	54.9
--	US	Markit US Services PMI	15:45	Feb P	--	54.2
--	US	Leading Index	16:00	Jan	0.20%	-0.10%
--	US	Existing Home Sales MoM	16:00	Jan	0.20%	-6.40%
--	US	EIA Natural Gas Storage Change	16:30		--	--
--	US	DOE U.S. Crude Oil Inventories	17:00		--	3633k
-Friday 22 Feb.						
--	JN	Natl CPI YoY	0:30	Jan	0.30%	0.30%
--	CH	New Home Prices MoM	2:30	Jan	--	0.80%
--	GE	GDP SA QoQ	8:00	4Q F	--	0.00%
--	GE	IFO Business Climate	10:00	Feb	99	99.1
--	EC	CPI YoY	11:00	Jan F	1.40%	1.60%
--	EC	ECB President Draghi Speaks in Bologna	16:30			
--	US	Baker Hughes U.S. Rotary Oil Rigs	19:00		--	--
+﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
+Monday 18 Feb.,,,,,,
+--,JN,Core Machine Orders MoM,00:50,Dec,2.3%,0.0%
+Tuesday 19 Feb.,,,,,,
+--,EC,ECB Current Account SA,10:00,Dec,--,20.3b
+--,IT,Industrial Orders MoM,10:00,Dec,--,-0.2%
+--,UK,Jobless Claims Change,10:30,Jan,--,20.8k
+--,UK,Weekly Earnings ex Bonus 3M/YoY,10:30,Dec,--,3.3%
+--,EC,Construction Output MoM,11:00,Dec,--,-0.1%
+--,GE,ZEW Survey Expectations,11:00,Feb,--,-15.0
+--,US,Fed's Mester on Eco. Outlook and Mon. Policy,14:50,,,
+--,US,NAHB Housing Market Index,16:00,Feb,59.0,58.0
+Wednesday 20 Feb.,,,,,,
+--,JN,Trade Balance Adjusted,00:50,Jan,--,-¥183.6b
+--,GE,PPI YoY,08:00,Jan,--,2.7%
+--,EC,Consumer Confidence,16:00,Feb A,--,-7.9
+--,US,FOMC Meeting Minutes,20:00,,,
+Thursday 21 Feb.,,,,,,
+--,JN,Nikkei Japan PMI Mfg,01:30,Feb P,--,50.3
+--,GE,CPI EU Harmonized YoY,08:00,Jan F,--,1.7%
+--,FR,Business Confidence,08:45,Feb,--,102.0
+--,FR,CPI EU Harmonized YoY,08:45,Jan F,--,1.4%
+--,EC,Markit Eurozone Man. PMI,10:00,Feb P,50.5,50.5
+--,EC,Markit Eurozone Services PMI,10:00,Feb P,51.4,51.2
+--,UK,PSNB ex Banking Groups,10:30,Jan,--,3.0b
+--,EC,ECB Accounts of January Meeting,13:30,,,
+--,US,Fed's Bostic on Eco. and Mon. Policy,13:50,,,
+--,US,Philadelphia Fed Business Outlook,14:30,Feb,14.5,17.0
+--,US,Initial Jobless Claims,14:30,,--,--
+--,US,Cap Goods Orders Nondef Ex Air,14:30,Dec P,0.2%,-0.6%
+--,US,Bloomberg Consumer Comfort,15:45,,--,--
+--,US,Markit US Manufacturing PMI,15:45,Feb P,55.0,54.9
+--,US,Markit US Services PMI,15:45,Feb P,--,54.2
+--,US,Leading Index,16:00,Jan,0.2%,-0.1%
+--,US,Existing Home Sales MoM,16:00,Jan,0.2%,-6.4%
+--,US,EIA Natural Gas Storage Change,16:30,,--,--
+--,US,DOE U.S. Crude Oil Inventories,17:00,,--,3633k
+Friday 22 Feb.,,,,,,
+--,JN,Natl CPI YoY,00:30,Jan,0.3%,0.3%
+--,CH,New Home Prices MoM,02:30,Jan,--,0.8%
+--,GE,GDP SA QoQ,08:00,4Q F,--,0.0%
+--,GE,IFO Business Climate,10:00,Feb,99.0,99.1
+--,EC,CPI YoY,11:00,Jan F,1.4%,1.6%
+--,EC,ECB President Draghi Speaks in Bologna,16:30,,,
+--,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,,--,--
