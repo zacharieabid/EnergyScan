@@ -1,54 +1,40 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2019-03-25,JN,All Industry Activity Index MoM,05:30,Jan,-0.4%,-0.4%
-2019-03-25,US,Fed's Evans Gives Speech in Hong Kong,06:00,--,--,--
-2019-03-25,GE,IFO Business Climate,10:00,Mar,98.7,98.5
-2019-03-25,PO,ECB's Coeure Speaks in Lisbon,10:30,--,--,--
-2019-03-25,US,Chicago Fed Nat Activity Index,13:30,Feb,-0.3,-0.4
-2019-03-25,US,Dallas Fed Manf. Activity,15:30,Mar,9.6,13.1
-2019-03-26,GE,GfK Consumer Confidence,08:00,Apr,10.8,10.8
-2019-03-26,FR,Business Confidence,08:45,Mar,103.0,103.0
-2019-03-26,FR,GDP QoQ,08:45,4Q F,0.3%,0.3%
-2019-03-26,US,Housing Starts MoM,13:30,Feb,-1.6%,18.6%
-2019-03-26,US,FHFA House Price Index MoM,14:00,Jan,0.4%,0.3%
-2019-03-26,US,S&P CoreLogic CS 20-City YoY NSA,14:00,Jan,--,4.2%
-2019-03-26,US,Richmond Fed Manufact. Index,15:00,Mar,12.0,16.0
-2019-03-26,US,Conf. Board Consumer Confidence,15:00,Mar,132.0,131.4
-2019-03-27,CH,Industrial Profits YoY,02:30,--,--,-1.9%
-2019-03-27,FR,Consumer Confidence,08:45,Mar,96.0,95.0
-2019-03-27,FR,PPI YoY,08:45,Feb,--,1.4%
-2019-03-27,EC,ECB Mario Draghi Speaks in Frankfurt,09:00,--,--,--
-2019-03-27,IT,Economic Sentiment,10:00,Mar,--,98.3
-2019-03-27,UK,CBI Retailing Reported Sales,12:00,Mar,5.0,0.0
-2019-03-27,US,Trade Balance,13:30,Jan,-$57.3b,-$59.8b
-2019-03-27,US,Current Account Balance,15:00,4Q,-$130.0b,-$124.8b
-2019-03-27,US,DOE U.S. Crude Oil Inventories,15:30,--,--,-9589k
-2019-03-28,EC,M3 Money Supply YoY,10:00,Feb,3.9%,3.8%
-2019-03-28,EC,Economic Confidence,11:00,Mar,106.0,106.1
-2019-03-28,US,GDP Annualized QoQ,13:30,4Q T,2.3%,2.6%
-2019-03-28,US,Initial Jobless Claims,13:30,--,--,221k
-2019-03-28,GE,CPI EU Harmonized YoY,14:00,Mar P,1.7%,1.7%
-2019-03-28,US,Bloomberg Consumer Comfort,14:45,--,--,61.5
-2019-03-28,US,Pending Home Sales NSA YoY,15:00,Feb,--,-3.2%
-2019-03-28,US,EIA Natural Gas Storage Change,15:30,--,--,-47.0
-2019-03-28,US,Kansas City Fed Manf. Activity,16:00,Mar,--,1.0
-2019-03-29,JN,Jobless Rate,00:30,Feb,2.5%,2.5%
-2019-03-29,JN,Tokyo CPI YoY,00:30,Mar,0.9%,0.6%
-2019-03-29,JN,Industrial Production MoM,00:50,Feb P,1.3%,-3.4%
-2019-03-29,JN,Retail Sales MoM,00:50,Feb P,0.8%,-2.3%
-2019-03-29,UK,GfK Consumer Confidence,01:01,Mar,-14.0,-13.0
-2019-03-29,JN,Housing Starts YoY,06:00,Feb,-0.1%,1.1%
-2019-03-29,GE,Import Price Index YoY,08:00,Feb,1.8%,0.8%
-2019-03-29,GE,Retail Sales MoM,08:00,Feb,-1.0%,3.3%
-2019-03-29,FR,Consumer Spending MoM,08:45,Feb,0.1%,1.2%
-2019-03-29,FR,CPI EU Harmonized YoY,08:45,Mar P,1.4%,1.6%
-2019-03-29,GE,Unemployment Change (000's),09:55,Mar,-10k,-21k
-2019-03-29,UK,Mortgage Approvals,10:30,Feb,65.0k,66.8k
-2019-03-29,UK,GDP QoQ,10:30,4Q F,0.2%,0.2%
-2019-03-29,UK,Current Account Balance,10:30,4Q,-22.5b,-26.5b
-2019-03-29,EC,ECB Coeure Speaks in Paris,10:45,--,--,--
-2019-03-29,EC,CPI Estimate YoY,11:00,Mar,1.5%,1.5%
-2019-03-29,US,Personal Spending,13:30,Jan,0.3%,-0.5%
-2019-03-29,US,New Home Sales MoM,15:00,Feb,2.5%,-6.9%
-2019-03-29,US,U. of Mich. Sentiment,15:00,Mar F,97.8,97.8
-2019-03-29,US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
-2019-03-29,CH,BoP Current Account Balance,--,4Q F,--,$54.6b
+2019-03-31,CH,Manufacturing PMI,03:00,Mar,49.6,49.2
+2019-04-01,JN,Tankan Large Mfg Index,01:50,1Q,13.0,19.0
+2019-04-01,JN,Nikkei Japan PMI Mfg,02:30,Mar F,--,48.9
+2019-04-01,CH,Caixin China PMI Mfg,03:45,Mar,50.0,49.9
+2019-04-01,EC,Markit Eurozone Man. PMI,10:00,Mar F,47.6,47.6
+2019-04-01,UK,Markit UK PMI Manufacturing SA,10:30,Mar,51.3,52.0
+2019-04-01,EC,CPI Estimate YoY,11:00,Mar,1.5%,1.5%
+2019-04-01,US,Retail Sales Control Group,14:30,Feb,0.4%,1.1%
+2019-04-01,US,Markit US Manufacturing PMI,15:45,Mar F,52.5,52.5
+2019-04-01,US,ISM Manufacturing,16:00,Mar,54.3,54.2
+2019-04-01,US,Construction Spending MoM,16:00,Feb,-0.1%,1.3%
+2019-04-01,US,Business Inventories,16:00,Jan,0.4%,0.6%
+2019-04-02,EC,PPI YoY,11:00,Feb,3.1%,3.0%
+2019-04-02,US,Cap Goods Orders Nondef Ex Air,14:30,Feb P,0.3%,0.8%
+2019-04-02,US,Wards Total Vehicle Sales,--,Mar,16.65m,16.56m
+2019-04-03,JN,Nikkei Japan PMI Services,02:30,Mar,--,52.3
+2019-04-03,CH,Caixin China PMI Services,03:45,Mar,52.3,51.1
+2019-04-03,EC,Markit Eurozone Services PMI,10:00,Mar F,52.7,52.7
+2019-04-03,UK,Markit/CIPS UK Services PMI,10:30,Mar,51.0,51.3
+2019-04-03,EC,Retail Sales MoM,11:00,Feb,0.1%,1.3%
+2019-04-03,US,ADP Employment Change,14:15,Mar,180k,183k
+2019-04-03,US,Markit US Services PMI,15:45,Mar F,--,54.8
+2019-04-03,US,ISM Non-Manufacturing Index,16:00,Mar,58.0,59.7
+2019-04-03,US,DOE U.S. Crude Oil Inventories,16:30,--,--,2800k
+2019-04-04,GE,Factory Orders MoM,08:00,Feb,0.3%,-2.6%
+2019-04-04,EC,ECB Publishes Account of March Meeting,13:30,--,--,--
+2019-04-04,US,Initial Jobless Claims,14:30,--,--,211k
+2019-04-04,US,Bloomberg Consumer Comfort,15:45,--,--,60.0
+2019-04-04,US,EIA Natural Gas Storage Change,16:30,--,--,-36.0
+2019-04-05,JN,Household Spending YoY,01:30,Feb,1.9%,2.0%
+2019-04-05,JN,Leading Index CI,07:00,Feb P,97.2,96.5
+2019-04-05,GE,Industrial Production SA MoM,08:00,Feb,0.5%,-0.8%
+2019-04-05,FR,Trade Balance,08:45,Feb,-4400m,-4195m
+2019-04-05,UK,Halifax House Price 3Mths/Year,09:30,Mar,2.3%,2.8%
+2019-04-05,UK,Unit Labor Costs YoY,10:30,4Q,--,2.8%
+2019-04-05,US,Change in Nonfarm Payrolls,14:30,Mar,175k,20k
+2019-04-05,US,Average Hourly Earnings YoY,14:30,Mar,3.4%,3.4%
+2019-04-05,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2019-04-05,US,Consumer Credit,21:00,Feb,$17.500b,$17.049b
