@@ -1,39 +1,64 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-Monday 22 Apr.,--,--,--,--,--
-US,Chicago Fed Nat Activity Index,14:30,Mar,2.6,-0.3
-US,Existing Home Sales MoM,16:00,Mar,-3.8%,11.8%
-Tuesday 23 Apr.,--,--,--,--,--
-JN,Nationwide Dept Sales YoY,07:30,Mar,--,0.4%
-JN,Machine Tool Orders YoY,08:00,Mar F,--,-28.5%
-EC,Govt Debt/GDP Ratio,11:00,2018,--,86.8%
-US,Richmond Fed Manufact. Index,16:00,Apr,10.0,10.0
-EC,Consumer Confidence,16:00,Apr A,-7.0,-7.2
-US,New Home Sales MoM,16:00,Mar,-3.0%,4.9%
-Wednesday 24 Apr.,--,--,--,--,--
-JN,All Industry Activity Index MoM,06:30,Feb,-0.3%,-0.2%
-FR,Business Confidence,08:45,Apr,104.0,104.0
-GE,IFO Business Climate,10:00,Apr,99.9,99.6
-EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-UK,PSNB ex Banking Groups,10:30,Mar,0.4b,0.2b
-CA,Bank of Canada Rate Decision,16:00,--,1.75%,1.75%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-1396k
-Thursday 25 Apr.,--,--,--,--,--
-UK,CBI Business Optimism,12:00,Apr,-16.0,-23.0
-US,Initial Jobless Claims,14:30,--,--,192k
-US,Cap Goods Orders Nondef Ex Air,14:30,Mar P,0.1%,-0.1%
+Saturday 27 Apr.,--,--,--,--,--
+CH,Industrial Profits YoY,03:30,Mar,--,--
+Sunday 28 Apr.,--,--,--,--,--
+SP,Spain Holds General Elections,08:00,--,--,--
+Monday 29 Apr.,--,--,--,--,--
+EC,M3 Money Supply YoY,10:00,Mar,4.1%,4.3%
+UK,BoE Governor Carney Speaks in London,10:10,--,--,--
+EC,Economic Confidence,11:00,Apr,105.1,105.5
+US,Personal Spending,14:30,Mar,0.7%,--
+US,Dallas Fed Manf. Activity,16:30,Apr,--,8.3
+Tuesday 30 Apr.,--,--,--,--,--
+UK,GfK Consumer Confidence,01:01,Apr,-13.0,-13.0
+CH,Non-manufacturing PMI,03:00,Apr,55.0,54.8
+CH,Manufacturing PMI,03:00,Apr,50.7,50.5
+FR,GDP QoQ,07:30,1Q P,0.3%,0.3%
+GE,GfK Consumer Confidence,08:00,May,10.4,10.4
+FR,Budget Balance YTD,08:45,Mar,--,-36.9b
+FR,PPI YoY,08:45,Mar,--,2.1%
+FR,Consumer Spending MoM,08:45,Mar,--,-0.4%
+FR,CPI EU Harmonized YoY,08:45,Apr P,1.3%,1.3%
+GE,Unemployment Change (000's),09:55,Apr,-7k,-7k
+EC,Unemployment Rate,11:00,Mar,7.8%,7.8%
+EC,GDP SA QoQ,11:00,1Q A,0.3%,0.2%
+IT,GDP WDA QoQ,12:00,1Q P,0.1%,-0.1%
+GE,CPI EU Harmonized YoY,14:00,Apr P,1.7%,1.4%
+US,S&P CoreLogic CS 20-City YoY NSA,15:00,Feb,--,3.6%
+US,Pending Home Sales MoM,16:00,Mar,1.0%,-1.0%
+US,Conf. Board Consumer Confidence,16:00,Apr,126.1,124.1
+Wednesday 01 May,--,--,--,--,--
+JN,Nikkei Japan PMI Mfg,02:30,Apr F,--,49.5
+UK,Nationwide House Px NSA YoY,08:00,Apr,0.7%,0.7%
+UK,Mortgage Approvals,10:30,Mar,64.0k,64.3k
+UK,Markit UK PMI Manufacturing SA,10:30,Apr,53.0,55.1
+US,ADP Employment Change,14:15,Apr,180k,129k
+US,Markit US Manufacturing PMI,15:45,Apr F,--,52.4
+US,ISM Manufacturing,16:00,Apr,55.0,55.3
+US,Construction Spending MoM,16:00,Mar,0.2%,1.0%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,5479k
+US,FOMC Rate Decision (Upper Bound),20:00,--,2.5%,2.5%
+US,Fed Chair Powell Holds Press Conference,20:30,--,--,--
+US,Wards Total Vehicle Sales,--,Apr,17.00m,17.50m
+Thursday 02 May,--,--,--,--,--
+CH,Caixin China PMI Mfg,03:45,Apr,51.0,50.8
+UK,U.K. Local Elections,07:00,--,--,--
+GE,Retail Sales MoM,08:00,Mar,-1.0%,0.9%
+EC,Markit Eurozone Manuf. PMI,10:00,Apr F,47.8,47.8
+UK,Bank of England Bank Rate,13:00,--,0.75%,0.75%
+UK,BOE's Carney speaks at press conference ,13:30,--,--,--
+US,Initial Jobless Claims,14:30,--,--,230k
+US,Unit Labor Costs,14:30,1Q P,2.4%,2.0%
+US,Bloomberg Consumer Comfort,15:45,--,--,60.8
+US,Cap Goods Orders Nondef Ex Air,16:00,Mar F,--,1.3%
 US,EIA Natural Gas Storage Change,16:30,--,--,92.0
-US,Kansas City Fed Manf. Activity,17:00,Apr,9.0,10.0
-JN,BOJ Policy Balance Rate,--,--,--,-0.1%
-EC,EU/Japan Summit,--,--,--,--
-Friday 26 Apr.,--,--,--,--,--
-JN,Jobless Rate,01:30,Mar,2.4%,2.3%
-JN,Tokyo CPI YoY,01:30,Apr,1.1%,0.9%
-JN,Industrial Production MoM,01:50,Mar P,0.1%,0.7%
-JN,Retail Sales MoM,01:50,Mar,0.0%,0.2%
-JN,Housing Starts YoY,07:00,Mar,5.6%,4.2%
-FR,Consumer Confidence,08:45,Apr,96.0,96.0
-FR,Total Jobseekers,12:00,1Q,--,3418.6k
-UK,CBI Retailing Reported Sales,12:00,Apr,0.0,-18.0
-US,GDP Annualized QoQ,14:30,1Q A,2.2%,2.2%
-US,U. of Mich. Sentiment,16:00,Apr F,97.0,96.9
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,825.0
+Friday 03 May,--,--,--,--,--
+UK,Markit/CIPS UK Services PMI,10:30,Apr,50.2,48.9
+EC,PPI YoY,11:00,Mar,--,3.0%
+EC,CPI Estimate YoY,11:00,Apr,1.5%,1.4%
+US,Advance Goods Trade Balance,14:30,Mar,-$74.0b,--
+US,Change in Nonfarm Payrolls,14:30,Apr,181k,196k
+US,Average Hourly Earnings YoY,14:30,Apr,3.3%,3.2%
+US,Markit US Services PMI,15:45,Apr F,--,52.9
+US,ISM Non-Manufacturing Index,16:00,Apr,57.2,56.1
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
