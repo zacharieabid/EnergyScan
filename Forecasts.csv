@@ -1,133 +1,133 @@
 ﻿Name,Quarter,Value,ForecastDate
-EURUSD,Q1 18,1.2295,2019-04-12
-EURUSD,Q2 18,1.192433333,2019-04-12
-EURUSD,Q3 18,1.163133333,2019-04-12
-EURUSD,Q4 18,1.141133333,2019-04-12
-EURUSD,Q1 19,1.135766667,2019-04-12
-EURUSD,Q2 19,1.131666667,2019-04-12
-EURUSD,Q3 19,1.153333333,2019-04-12
-EURUSD,Q4 19,1.173333333,2019-04-12
-EURUSD,Q1 20,1.186666667,2019-04-12
-EURUSD,Q2 20,1.196666667,2019-04-12
-EURUSD,Q3 20,1.206666667,2019-04-12
-EURUSD,Q4 20,1.216666667,2019-04-12
-EURGBP,Q1 18,0.883233333,2019-04-12
-EURGBP,Q2 18,0.876066667,2019-04-12
-EURGBP,Q3 18,0.892333333,2019-04-12
-EURGBP,Q4 18,0.8872,2019-04-12
-EURGBP,Q1 19,0.872,2019-04-12
-EURGBP,Q2 19,0.857862648,2019-04-12
-EURGBP,Q3 19,0.85645894,2019-04-12
-EURGBP,Q4 19,0.846175184,2019-04-12
-EURGBP,Q1 20,0.839627679,2019-04-12
-EURGBP,Q2 20,0.834888551,2019-04-12
-EURGBP,Q3 20,0.830279863,2019-04-12
-EURGBP,Q4 20,0.825796302,2019-04-12
-Brent,Q1 18,67.1762,2019-04-12
-Brent,Q2 18,74.90343333,2019-04-12
-Brent,Q3 18,75.96766667,2019-04-12
-Brent,Q4 18,68.0844,2019-04-12
-Brent,Q1 19,63.9,2019-04-12
-Brent,Q2 19,65,2019-04-12
-Brent,Q3 19,62,2019-04-12
-Brent,Q4 19,62,2019-04-12
-Brent,Q1 20,62.5,2019-04-12
-Brent,Q2 20,64,2019-04-12
-Brent,Q3 20,65.5,2019-04-12
-Brent,Q4 20,67,2019-04-12
-TTF month ahead,Q1 18,18.57546667,2019-04-12
-TTF month ahead,Q2 18,20.873,2019-04-12
-TTF month ahead,Q3 18,24.6521,2019-04-12
-TTF month ahead,Q4 18,24.94506667,2019-04-12
-TTF month ahead,Q1 19,18.45883333,2019-04-12
-TTF month ahead,Q2 19,16.66666667,2019-04-12
-TTF month ahead,Q3 19,17.5,2019-04-12
-TTF month ahead,Q4 19,19.83333333,2019-04-12
-TTF month ahead,Q1 20,19.60667115,2019-04-12
-TTF month ahead,Q2 20,18.58534639,2019-04-12
-TTF month ahead,Q3 20,20.2016957,2019-04-12
-TTF month ahead,Q4 20,23.06673844,2019-04-12
-TTF year ahead,Q1 18,17.07166667,2019-04-12
-TTF year ahead,Q2 18,19.48666667,2019-04-12
-TTF year ahead,Q3 18,22.71716667,2019-04-12
-TTF year ahead,Q4 18,23.43,2019-04-12
-TTF year ahead,Q1 19,19.74,2019-04-12
-TTF year ahead,Q2 19,19.16666667,2019-04-12
-TTF year ahead,Q3 19,19,2019-04-12
-TTF year ahead,Q4 19,19.5,2019-04-12
-TTF year ahead,Q1 20,19.57460625,2019-04-12
-TTF year ahead,Q2 20,18.89046169,2019-04-12
-TTF year ahead,Q3 20,18.59261085,2019-04-12
-TTF year ahead,Q4 20,20.14241961,2019-04-12
-German power year ahead,Q1 18,34.95749206,2019-04-12
-German power year ahead,Q2 18,40.30557143,2019-04-12
-German power year ahead,Q3 18,48.59,2019-04-12
-German power year ahead,Q4 18,52.91,2019-04-12
-German power year ahead,Q1 19,48.55666667,2019-04-12
-German power year ahead,Q2 19,47.06666667,2019-04-12
-German power year ahead,Q3 19,47.33333333,2019-04-12
-German power year ahead,Q4 19,48.4,2019-04-12
-German power year ahead,Q1 20,49,2019-04-12
-German power year ahead,Q2 20,47.5,2019-04-12
-German power year ahead,Q3 20,46.4,2019-04-12
-German power year ahead,Q4 20,47.7,2019-04-12
-France power year ahead,Q1 18,39.96050794,2019-04-12
-France power year ahead,Q2 18,44.98085714,2019-04-12
-France power year ahead,Q3 18,53.54333333,2019-04-12
-France power year ahead,Q4 18,57.67333333,2019-04-12
-France power year ahead,Q1 19,51.35666667,2019-04-12
-France power year ahead,Q2 19,50.06666667,2019-04-12
-France power year ahead,Q3 19,50.33333333,2019-04-12
-France power year ahead,Q4 19,51.4,2019-04-12
-France power year ahead,Q1 20,51,2019-04-12
-France power year ahead,Q2 20,49.5,2019-04-12
-France power year ahead,Q3 20,48.4,2019-04-12
-France power year ahead,Q4 20,49.2,2019-04-12
-Belgium power year ahead,Q1 18,38.52436508,2019-04-12
-Belgium power year ahead,Q2 18,44.89834921,2019-04-12
-Belgium power year ahead,Q3 18,56.55625332,2019-04-12
-Belgium power year ahead,Q4 18,64.38666667,2019-04-12
-Belgium power year ahead,Q1 19,52.07333333,2019-04-12
-Belgium power year ahead,Q2 19,49.96666667,2019-04-12
-Belgium power year ahead,Q3 19,50.23333333,2019-04-12
-Belgium power year ahead,Q4 19,51.3,2019-04-12
-Belgium power year ahead,Q1 20,52,2019-04-12
-Belgium power year ahead,Q2 20,50.5,2019-04-12
-Belgium power year ahead,Q3 20,49.4,2019-04-12
-Belgium power year ahead,Q4 20,50.7,2019-04-12
-Netherlands power year ahead,Q1 18,39.02352381,2019-04-12
-Netherlands power year ahead,Q2 18,44.78319841,2019-04-12
-Netherlands power year ahead,Q3 18,54.56,2019-04-12
-Netherlands power year ahead,Q4 18,59.00333333,2019-04-12
-Netherlands power year ahead,Q1 19,51.81666667,2019-04-12
-Netherlands power year ahead,Q2 19,50.56666667,2019-04-12
-Netherlands power year ahead,Q3 19,50.83333333,2019-04-12
-Netherlands power year ahead,Q4 19,51.9,2019-04-12
-Netherlands power year ahead,Q1 20,52.2,2019-04-12
-Netherlands power year ahead,Q2 20,50.7,2019-04-12
-Netherlands power year ahead,Q3 20,49.6,2019-04-12
-Netherlands power year ahead,Q4 20,50.9,2019-04-12
-EUA next year,Q1 18,9.87,2019-04-12
-EUA next year,Q2 18,14.69,2019-04-12
-EUA next year,Q3 18,19.40333333,2019-04-12
-EUA next year,Q4 18,18.63666667,2019-04-12
-EUA next year,Q1 19,22.63333333,2019-04-12
-EUA next year,Q2 19,23,2019-04-12
-EUA next year,Q3 19,23.33333333,2019-04-12
-EUA next year,Q4 19,24.5,2019-04-12
-EUA next year,Q1 20,24.66666667,2019-04-12
-EUA next year,Q2 20,24.33333333,2019-04-12
-EUA next year,Q3 20,23.33333333,2019-04-12
-EUA next year,Q4 20,24,2019-04-12
-API 2 coal year ahead,Q1 18,80.69333333,2019-04-12
-API 2 coal year ahead,Q2 18,85.34666667,2019-04-12
-API 2 coal year ahead,Q3 18,91.11566667,2019-04-12
-API 2 coal year ahead,Q4 18,90.47266667,2019-04-12
-API 2 coal year ahead,Q1 19,79.33933333,2019-04-12
-API 2 coal year ahead,Q2 19,73.66666667,2019-04-12
-API 2 coal year ahead,Q3 19,75.33333333,2019-04-12
-API 2 coal year ahead,Q4 19,77,2019-04-12
-API 2 coal year ahead,Q1 20,78,2019-04-12
-API 2 coal year ahead,Q2 20,75,2019-04-12
-API 2 coal year ahead,Q3 20,75.33333333,2019-04-12
-API 2 coal year ahead,Q4 20,78.33333333,2019-04-12
+EURUSD,Q1 18,1.2295,2019-06-14
+EURUSD,Q2 18,1.192433333,2019-06-14
+EURUSD,Q3 18,1.163133333,2019-06-14
+EURUSD,Q4 18,1.141133333,2019-06-14
+EURUSD,Q1 19,1.135766667,2019-06-14
+EURUSD,Q2 19,1.127366667,2019-06-14
+EURUSD,Q3 19,1.153333333,2019-06-14
+EURUSD,Q4 19,1.173333333,2019-06-14
+EURUSD,Q1 20,1.186666667,2019-06-14
+EURUSD,Q2 20,1.196666667,2019-06-14
+EURUSD,Q3 20,1.206666667,2019-06-14
+EURUSD,Q4 20,1.216666667,2019-06-14
+EURGBP,Q1 18,0.883233333,2019-06-14
+EURGBP,Q2 18,0.876066667,2019-06-14
+EURGBP,Q3 18,0.892333333,2019-06-14
+EURGBP,Q4 18,0.8872,2019-06-14
+EURGBP,Q1 19,0.872,2019-06-14
+EURGBP,Q2 19,0.865445455,2019-06-14
+EURGBP,Q3 19,0.85645894,2019-06-14
+EURGBP,Q4 19,0.846175184,2019-06-14
+EURGBP,Q1 20,0.839627679,2019-06-14
+EURGBP,Q2 20,0.834888551,2019-06-14
+EURGBP,Q3 20,0.830279863,2019-06-14
+EURGBP,Q4 20,0.825796302,2019-06-14
+Brent,Q1 18,67.1762,2019-06-14
+Brent,Q2 18,74.90343333,2019-06-14
+Brent,Q3 18,75.96766667,2019-06-14
+Brent,Q4 18,68.0844,2019-06-14
+Brent,Q1 19,63.9,2019-06-14
+Brent,Q2 19,68.9772,2019-06-14
+Brent,Q3 19,65,2019-06-14
+Brent,Q4 19,65,2019-06-14
+Brent,Q1 20,66,2019-06-14
+Brent,Q2 20,67.5,2019-06-14
+Brent,Q3 20,69,2019-06-14
+Brent,Q4 20,71,2019-06-14
+TTF month ahead,Q1 18,18.57546667,2019-06-14
+TTF month ahead,Q2 18,20.873,2019-06-14
+TTF month ahead,Q3 18,24.6521,2019-06-14
+TTF month ahead,Q4 18,24.94506667,2019-06-14
+TTF month ahead,Q1 19,18.45883333,2019-06-14
+TTF month ahead,Q2 19,13.1611,2019-06-14
+TTF month ahead,Q3 19,11.16666667,2019-06-14
+TTF month ahead,Q4 19,16.66666667,2019-06-14
+TTF month ahead,Q1 20,20.16666667,2019-06-14
+TTF month ahead,Q2 20,17.33333333,2019-06-14
+TTF month ahead,Q3 20,17.16666667,2019-06-14
+TTF month ahead,Q4 20,19.5,2019-06-14
+TTF year ahead,Q1 18,17.07166667,2019-06-14
+TTF year ahead,Q2 18,19.48666667,2019-06-14
+TTF year ahead,Q3 18,22.71716667,2019-06-14
+TTF year ahead,Q4 18,23.43,2019-06-14
+TTF year ahead,Q1 19,19.74,2019-06-14
+TTF year ahead,Q2 19,19.07,2019-06-14
+TTF year ahead,Q3 19,19.33333333,2019-06-14
+TTF year ahead,Q4 19,19.5,2019-06-14
+TTF year ahead,Q1 20,18.9318748,2019-06-14
+TTF year ahead,Q2 20,18.06990108,2019-06-14
+TTF year ahead,Q3 20,17.77885054,2019-06-14
+TTF year ahead,Q4 20,19.33534781,2019-06-14
+German power year ahead,Q1 18,34.95749206,2019-06-14
+German power year ahead,Q2 18,40.30557143,2019-06-14
+German power year ahead,Q3 18,48.59,2019-06-14
+German power year ahead,Q4 18,52.91,2019-06-14
+German power year ahead,Q1 19,48.55666667,2019-06-14
+German power year ahead,Q2 19,48.78666667,2019-06-14
+German power year ahead,Q3 19,50.6,2019-06-14
+German power year ahead,Q4 19,48.66666667,2019-06-14
+German power year ahead,Q1 20,49,2019-06-14
+German power year ahead,Q2 20,47.5,2019-06-14
+German power year ahead,Q3 20,46.4,2019-06-14
+German power year ahead,Q4 20,47.7,2019-06-14
+France power year ahead,Q1 18,39.96050794,2019-06-14
+France power year ahead,Q2 18,44.98085714,2019-06-14
+France power year ahead,Q3 18,53.54333333,2019-06-14
+France power year ahead,Q4 18,57.67333333,2019-06-14
+France power year ahead,Q1 19,51.35666667,2019-06-14
+France power year ahead,Q2 19,51.77666667,2019-06-14
+France power year ahead,Q3 19,53.6,2019-06-14
+France power year ahead,Q4 19,51.66666667,2019-06-14
+France power year ahead,Q1 20,51,2019-06-14
+France power year ahead,Q2 20,49.5,2019-06-14
+France power year ahead,Q3 20,48.4,2019-06-14
+France power year ahead,Q4 20,49.2,2019-06-14
+Belgium power year ahead,Q1 18,38.52436508,2019-06-14
+Belgium power year ahead,Q2 18,44.89834921,2019-06-14
+Belgium power year ahead,Q3 18,56.55625332,2019-06-14
+Belgium power year ahead,Q4 18,64.38666667,2019-06-14
+Belgium power year ahead,Q1 19,52.07333333,2019-06-14
+Belgium power year ahead,Q2 19,51.71333333,2019-06-14
+Belgium power year ahead,Q3 19,53.5,2019-06-14
+Belgium power year ahead,Q4 19,51.56666667,2019-06-14
+Belgium power year ahead,Q1 20,52,2019-06-14
+Belgium power year ahead,Q2 20,50.5,2019-06-14
+Belgium power year ahead,Q3 20,49.4,2019-06-14
+Belgium power year ahead,Q4 20,50.7,2019-06-14
+Netherlands power year ahead,Q1 18,39.02352381,2019-06-14
+Netherlands power year ahead,Q2 18,44.78319841,2019-06-14
+Netherlands power year ahead,Q3 18,54.56,2019-06-14
+Netherlands power year ahead,Q4 18,59.00333333,2019-06-14
+Netherlands power year ahead,Q1 19,51.81666667,2019-06-14
+Netherlands power year ahead,Q2 19,51.89,2019-06-14
+Netherlands power year ahead,Q3 19,54.1,2019-06-14
+Netherlands power year ahead,Q4 19,52.16666667,2019-06-14
+Netherlands power year ahead,Q1 20,52.2,2019-06-14
+Netherlands power year ahead,Q2 20,50.7,2019-06-14
+Netherlands power year ahead,Q3 20,49.6,2019-06-14
+Netherlands power year ahead,Q4 20,50.9,2019-06-14
+EUA next year,Q1 18,9.87,2019-06-14
+EUA next year,Q2 18,14.69,2019-06-14
+EUA next year,Q3 18,19.40333333,2019-06-14
+EUA next year,Q4 18,18.63666667,2019-06-14
+EUA next year,Q1 19,22.60333333,2019-06-14
+EUA next year,Q2 19,25.63,2019-06-14
+EUA next year,Q3 19,27.66666667,2019-06-14
+EUA next year,Q4 19,24.66666667,2019-06-14
+EUA next year,Q1 20,25,2019-06-14
+EUA next year,Q2 20,24.33333333,2019-06-14
+EUA next year,Q3 20,23.33333333,2019-06-14
+EUA next year,Q4 20,24,2019-06-14
+API 2 coal year ahead,Q1 18,80.69333333,2019-06-14
+API 2 coal year ahead,Q2 18,85.34666667,2019-06-14
+API 2 coal year ahead,Q3 18,91.11566667,2019-06-14
+API 2 coal year ahead,Q4 18,90.47266667,2019-06-14
+API 2 coal year ahead,Q1 19,79.33933333,2019-06-14
+API 2 coal year ahead,Q2 19,68.98333333,2019-06-14
+API 2 coal year ahead,Q3 19,68,2019-06-14
+API 2 coal year ahead,Q4 19,72,2019-06-14
+API 2 coal year ahead,Q1 20,73,2019-06-14
+API 2 coal year ahead,Q2 20,70,2019-06-14
+API 2 coal year ahead,Q3 20,70.33333333,2019-06-14
+API 2 coal year ahead,Q4 20,73.33333333,2019-06-14
