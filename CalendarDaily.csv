@@ -1,37 +1,4 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2019-06-24,GE,IFO Business Climate,10:00,Jun,97.3,97.9
-2019-06-24,US,Chicago Fed Nat Activity Index,14:30,May,0.1,-0.5
-2019-06-24,US,Dallas Fed Manf. Activity,16:30,Jun,1.0,-5.3
-2019-06-24,GE,Import Price Index YoY,24-30,May,-0.3%,1.4%
-2019-06-25,JN,BOJ Minutes of April Policy Meeting,01:50,--,--,--
-2019-06-25,FR,Business Confidence,08:45,Jun,106.0,106.0
-2019-06-25,UK,CBI Retailing Reported Sales,12:00,Jun,0.0,-27.0
-2019-06-25,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Apr,2.5%,2.7%
-2019-06-25,US,Richmond Fed Manufact. Index,16:00,Jun,7.0,5.0
-2019-06-25,US,New Home Sales MoM,16:00,May,1.8%,-6.9%
-2019-06-25,US,Conf. Board Consumer Confidence,16:00,Jun,132.0,134.1
-2019-06-25,US,Powell Discusses Eco. Outlook and Mon. Policy,19:00,--,--,--
-2019-06-26,GE,GfK Consumer Confidence,08:00,Jul,10.0,10.1
-2019-06-26,FR,Consumer Confidence,08:45,Jun,100.0,99.0
-2019-06-26,IT,Deficit to GDP YTD,10:00,1Q,--,2.1%
-2019-06-26,UK,BOE's Carney and others Speak,11:15,--,--,--
-2019-06-26,US,Cap Goods Orders Nondef Ex Air,14:30,May P,0.0%,-1.0%
-2019-06-26,US,Advance Goods Trade Balance,14:30,May,-$71.7b,-$72.1b
-2019-06-26,US,Wholesale Inventories MoM,14:30,May P,--,0.8%
-2019-06-26,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-3106k
-2019-06-27,JN,Retail Sales MoM,01:50,May,0.6%,0.0%
-2019-06-27,CH,Industrial Profits YoY,03:30,May,--,-3.7%
-2019-06-27,IT,Consumer Confidence Index,10:00,Jun,111.5,111.8
-2019-06-27,IT,Manufacturing Confidence,10:00,Jun,101.3,102.0
-2019-06-27,EC,Economic Confidence,11:00,Jun,104.5,105.1
-2019-06-27,GE,CPI EU Harmonized YoY,14:00,Jun P,1.3%,1.3%
-2019-06-27,US,GDP Annualized QoQ,14:30,1Q T,3.2%,3.1%
-2019-06-27,US,Initial Jobless Claims,14:30,--,--,216k
-2019-06-27,US,Bloomberg Consumer Comfort,15:45,--,--,61.8
-2019-06-27,US,Pending Home Sales MoM,16:00,May,1.0%,-1.5%
-2019-06-27,US,EIA Natural Gas Storage Change,16:30,--,--,115.0
-2019-06-27,US,Kansas City Fed Manf. Activity,17:00,Jun,--,4.0
-2019-06-27,GE,Retail Sales MoM,27-03,May,0.5%,-2.0%
 2019-06-28,UK,GfK Consumer Confidence,01:01,Jun,-11.0,-10.0
 2019-06-28,JN,Jobless Rate,01:30,May,2.4%,2.4%
 2019-06-28,JN,Tokyo CPI YoY,01:30,Jun,1.0%,1.1%
@@ -48,3 +15,50 @@
 2019-06-28,US,PCE Core Deflator YoY,14:30,May,1.6%,1.6%
 2019-06-28,US,U. of Mich. Sentiment,16:00,Jun F,97.1,97.9
 2019-06-28,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2019-06-30,CH,Manufacturing PMI,03:00,Jun,49.5,49.4
+2019-06-30,CH,Non-manufacturing PMI,03:00,Jun,54.2,54.3
+2019-07-01,JN,Tankan Large Mfg Index,01:50,2Q,9.0,12.0
+2019-07-01,JN,Markit Japan PMI Mfg,02:30,Jun F,--,49.5
+2019-07-01,CH,Caixin China PMI Mfg,03:45,Jun,50.0,50.2
+2019-07-01,JN,Consumer Confidence Index,07:00,Jun,--,39.4
+2019-07-01,US,Fed Clarida Speaks on Monetary Policy,08:15,--,--,--
+2019-07-01,EC,ECB Vice Pdt Guindos Speaks in Frankfurt,08:45,--,--,--
+2019-07-01,GE,Unemployment Change (000's),09:55,Jun,0.0k,60.0k
+2019-07-01,EC,Markit Eurozone Manuf. PMI,10:00,Jun F,47.8,47.8
+2019-07-01,EC,M3 Money Supply YoY,10:00,May,--,4.7%
+2019-07-01,UK,Net Lending Sec. on Dwellings,10:30,May,--,4.3b
+2019-07-01,UK,Markit UK PMI Manufacturing SA,10:30,Jun,49.2,49.4
+2019-07-01,EC,Unemployment Rate,11:00,May,7.6%,7.6%
+2019-07-01,US,Markit US Manufacturing PMI,15:45,Jun F,--,50.1
+2019-07-01,US,ISM Manufacturing,16:00,Jun,51.2,52.1
+2019-07-01,US,Construction Spending MoM,16:00,May,-0.1%,0.0%
+2019-07-01,GE,Retail Sales MoM,01-03,May,0.5%,-2.0%
+2019-07-02,JN,Monetary Base YoY,01:50,Jun,--,3.6%
+2019-07-02,UK,Nationwide House Px NSA YoY,08:00,Jun,0.5%,0.6%
+2019-07-02,FR,Budget Balance YTD,08:45,May,--,-67.2b
+2019-07-02,EC,PPI YoY,11:00,May,--,2.6%
+2019-07-02,US,Fed's Williams Speaks on Global Eco. & Policy Outlook,12:35,--,--,--
+2019-07-02,US,Wards Total Vehicle Sales,--,Jun,17.00m,17.30m
+2019-07-03,JN,Markit Japan PMI Services,02:30,Jun,--,51.7
+2019-07-03,CH,Caixin China PMI Services,03:45,Jun,52.6,52.7
+2019-07-03,EC,Markit Eurozone Services PMI,10:00,Jun F,53.4,53.4
+2019-07-03,UK,Markit/CIPS UK Services PMI,10:30,Jun,--,51.0
+2019-07-03,US,ADP Employment Change,14:15,Jun,140k,27k
+2019-07-03,US,Trade Balance,14:30,May,-$51.2b,-$50.8b
+2019-07-03,US,Initial Jobless Claims,14:30,--,--,227k
+2019-07-03,US,Bloomberg Consumer Comfort,15:45,--,--,--
+2019-07-03,US,Markit US Services PMI,15:45,Jun F,--,50.7
+2019-07-03,US,Cap Goods Orders Nondef Ex Air,16:00,May F,--,0.4%
+2019-07-03,US,ISM Non-Manufacturing Index,16:00,Jun,56.0,56.9
+2019-07-03,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-12788k
+2019-07-03,US,EIA Natural Gas Storage Change,18:00,--,--,--
+2019-07-03,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2019-07-04,EC,ECB Chief Economist Lane Speaks in Frankfurt,09:00,--,--,--
+2019-07-04,EC,Retail Sales MoM,11:00,May,--,-0.4%
+2019-07-05,JN,Household Spending YoY,01:30,May,0.7%,1.3%
+2019-07-05,JN,Leading Index CI,07:00,May P,--,95.9
+2019-07-05,GE,Factory Orders MoM,08:00,May,0.0%,0.3%
+2019-07-05,FR,Current Account Balance,08:45,May,--,-0.8b
+2019-07-05,UK,Unit Labor Costs YoY,10:30,1Q,--,3.1%
+2019-07-05,US,Change in Nonfarm Payrolls,14:30,Jun,160k,75k
+2019-07-05,US,Average Hourly Earnings YoY,14:30,Jun,3.1%,3.1%
