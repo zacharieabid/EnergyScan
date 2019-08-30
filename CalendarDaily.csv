@@ -1,103 +1,55 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2019-08-26,GE,IFO Business Climate,10:00,Aug,95.3,95.7
-2019-08-26,US,Chicago Fed Nat Activity Index,14:30,Jul,--,-0.02
-2019-08-26,US,Cap Goods Orders Nondef Ex Air,14:30,Jul P,0.1%,1.5%
-2019-08-26,US,Dallas Fed Manf. Activity,16:30,Aug,-1.0,-6.3
-2019-08-27,JN,PPI Services YoY,01:50,Jul,0.6%,0.7%
-2019-08-27,CH,Industrial Profits YoY,03:30,Jul,--,-3.1%
-2019-08-27,GE,GDP SA QoQ,08:00,2Q F,-0.1%,-0.1%
-2019-08-27,FR,Consumer Confidence,08:45,Aug,102.0,102.0
-2019-08-27,FR,Business Confidence,08:45,Aug,104.0,105.0
-2019-08-27,FR,Survey of Industrial Investment,08:45,--,--,--
-2019-08-27,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jun,--,2.4%
-2019-08-27,US,Richmond Fed Manufact. Index,16:00,Aug,2.0,-12.0
-2019-08-27,US,Conf. Board Consumer Confidence,16:00,Aug,130.0,135.7
-2019-08-28,GE,Import Price Index YoY,08:00,Jul,-1.8%,-2.0%
-2019-08-28,GE,GfK Consumer Confidence,08:00,Sep,9.5,9.7
-2019-08-28,EC,M3 Money Supply YoY,10:00,Jul,4.7%,4.5%
-2019-08-28,IT,Economic Sentiment,10:00,Aug,--,101.2
-2019-08-28,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-2732k
-2019-08-29,FR,Consumer Spending MoM,08:45,Jul,--,-0.1%
-2019-08-29,FR,GDP QoQ,08:45,2Q F,0.2%,0.2%
-2019-08-29,GE,Unemployment Change (000's),09:55,Aug,3.5k,1.0k
-2019-08-29,EC,Economic Confidence,11:00,Aug,102.4,102.7
-2019-08-29,GE,CPI EU Harmonized YoY,14:00,Aug P,1.2%,1.1%
-2019-08-29,US,GDP Annualized QoQ,14:30,2Q S,2.0%,2.1%
-2019-08-29,US,Advance Goods Trade Balance,14:30,Jul,-$74.0b,-$74.2b
-2019-08-29,US,Initial Jobless Claims,14:30,--,--,209k
-2019-08-29,US,Bloomberg Consumer Comfort,15:45,--,--,61.5
-2019-08-29,US,Pending Home Sales MoM,16:00,Jul,0.0%,2.8%
-2019-08-29,US,EIA Natural Gas Storage Change,16:30,--,--,59.0
-2019-08-30,UK,GfK Consumer Confidence,01:01,Aug,-12.0,-11.0
-2019-08-30,JN,Jobless Rate,01:30,Jul,2.3%,2.3%
-2019-08-30,JN,Tokyo CPI YoY,01:30,Aug,0.6%,0.9%
-2019-08-30,JN,Retail Sales MoM,01:50,Jul,-0.9%,0.0%
-2019-08-30,JN,Industrial Production MoM,01:50,Jul P,0.30%,-3.30%
-2019-08-30,JN,Housing Starts YoY,07:00,Jul,-5.4%,0.3%
-2019-08-30,GE,Retail Sales MoM,08:00,Jul,-1.3%,3.5%
-2019-08-30,FR,Budget Balance YTD,08:45,Jul,--,-77.3b
-2019-08-30,FR,PPI YoY,08:45,Jul,--,0.2%
-2019-08-30,FR,CPI EU Harmonized YoY,08:45,Aug P,1.2%,1.3%
-2019-08-30,UK,Mortgage Approvals,10:30,Jul,66.1k,66.4k
-2019-08-30,EC,Unemployment Rate,11:00,Jul,7.5%,7.5%
-2019-08-30,EC,CPI Estimate YoY,11:00,Aug,1.0%,1.1%
-2019-08-30,IT,GDP WDA QoQ,12:00,2Q F,0.0%,0.0%
-2019-08-30,US,Personal Spending,14:30,Jul,0.5%,0.3%
-2019-08-30,US,PCE Core Deflator YoY,14:30,Jul,1.6%,1.6%
-2019-08-30,US,U. of Mich. Sentiment,16:00,Aug F,92.5,92.1
-2019-08-30,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+2019-08-31,CH,Manufacturing PMI,03:00,Aug,49.6,49.7
+2019-08-31,CH,Non-manufacturing PMI,03:00,Aug,53.7,53.7
+2019-09-01,CH,Manufacturing PMI,03:00,Jun,49.5,49.4
+2019-09-01,CH,Non-manufacturing PMI,03:00,Jun,54.2,54.3
+2019-09-02,JN,Capital Spending YoY,01:50,2Q,1.7%,6.1%
+2019-09-02,JN,Jibun Bank Japan PMI Mfg,02:30,Aug F,--,49.5
+2019-09-02,CH,Caixin China PMI Mfg,03:45,Aug,49.8,49.9
+2019-09-02,EC,Markit Eurozone Manuf. PMI,10:00,Aug F,47.0,47.0
+2019-09-02,UK,Markit UK PMI Manufacturing SA,10:30,Aug,48.3,48.0
+2019-09-03,EC,PPI YoY,11:00,Jul,--,0.7%
+2019-09-03,US,Markit US Manufacturing PMI,15:45,Aug F,--,49.9
+2019-09-03,US,ISM Manufacturing,16:00,Aug,51.5,51.2
+2019-09-03,US,Construction Spending MoM,16:00,Jul,0.3%,-1.3%
+2019-09-03,US,Fed's Rosengren Speaks in Easton,23:00,--,--,--
+2019-09-03,UK,U.K. House of Commons Returns From Summer Recess,,--,--,--
+2019-09-04,JN,Jibun Bank Japan PMI Services,02:30,Aug F,--,53.4
+2019-09-04,CH,Caixin China PMI Services,03:45,Aug,51.7,51.6
+2019-09-04,EC,Markit Eurozone Services PMI,10:00,Aug F,53.4,53.4
+2019-09-04,UK,Markit/CIPS UK Services PMI,10:30,Aug,51.0,51.4
+2019-09-04,UK,Official Reserves Changes,10:30,Aug,--,$1749m
+2019-09-04,EC,Retail Sales MoM,11:00,Jul,-0.4%,1.1%
+2019-09-04,US,Trade Balance,14:30,Jul,-$55.2b,-$55.2b
+2019-09-04,US,Fed's Williams Speaks in New York,15:25,--,--,--
+2019-09-04,CA,Bank of Canada Rate Decision,16:00,,1.75%,1.75%
+2019-09-04,US,"Fed's Bowman, Bullard in St. Louis",18:30,--,--,--
+2019-09-04,US,Fed's Kashkari Speaks in Minneapolis,19:00,--,--,--
+2019-09-04,US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
+2019-09-04,US,Fed's Evans Speaks on North American Trade,21:15,--,--,--
+2019-09-04,US,Wards Total Vehicle Sales,--,Aug,16.90m,16.82m
+2019-09-05,GE,Factory Orders MoM,08:00,Jul,-1.4%,2.5%
+2019-09-05,US,ADP Employment Change,14:15,Aug,143k,156k
+2019-09-05,US,Unit Labor Costs,14:30,2Q F,2.5%,2.4%
+2019-09-05,US,Initial Jobless Claims,14:30,--,--,215k
+2019-09-05,US,Bloomberg Consumer Comfort,15:45,--,--,62.5
+2019-09-05,US,Markit US Services PMI,15:45,Aug F,--,50.9
+2019-09-05,US,Cap Goods Orders Nondef Ex Air,16:00,Jul F,--,0.4%
+2019-09-05,US,ISM Non-Manufacturing Index,16:00,Aug,53.6,53.7
+2019-09-05,US,EIA Natural Gas Storage Change,16:30,--,--,60.0
+2019-09-05,US,DOE U.S. Crude Oil Inventories,17:00,--,--,-10027k
+2019-09-06,JN,Household Spending YoY,01:30,Jul,0.9%,2.7%
+2019-09-06,JN,Leading Index CI,07:00,Jul P,93.2,93.3
+2019-09-06,GE,Industrial Production SA MoM,08:00,Jul,0.4%,-1.5%
+2019-09-06,FR,Current Account Balance,08:45,Jul,--,-0.8b
+2019-09-06,UK,Halifax House Price 3Mths/Year,09:30,Aug,3.4%,4.1%
+2019-09-06,EC,Employment QoQ,11:00,2Q F,--,0.2%
+2019-09-06,EC,GDP SA QoQ,11:00,2Q F,0.2%,0.2%
+2019-09-06,US,Change in Nonfarm Payrolls,14:30,Aug,165k,164k
+2019-09-06,US,Average Hourly Earnings YoY,14:30,Aug,3.0%,3.2%
+2019-09-06,US,Powell Speaks in Zurich on Economic Outlook,18:30,--,--,--
+2019-09-06,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2019-09-06,IT,Italy Sovereign Debt to be rated by Moody's,,--,--,--
 ,,,,,,
 ,,,,,,
 ,,,,,,
