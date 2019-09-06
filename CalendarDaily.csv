@@ -1,102 +1,80 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2019-08-31,CH,Manufacturing PMI,03:00,Aug,49.6,49.7
-2019-08-31,CH,Non-manufacturing PMI,03:00,Aug,53.7,53.7
-2019-09-01,CH,Manufacturing PMI,03:00,Jun,49.5,49.4
-2019-09-01,CH,Non-manufacturing PMI,03:00,Jun,54.2,54.3
-2019-09-02,JN,Capital Spending YoY,01:50,2Q,1.7%,6.1%
-2019-09-02,JN,Jibun Bank Japan PMI Mfg,02:30,Aug F,--,49.5
-2019-09-02,CH,Caixin China PMI Mfg,03:45,Aug,49.8,49.9
-2019-09-02,EC,Markit Eurozone Manuf. PMI,10:00,Aug F,47.0,47.0
-2019-09-02,UK,Markit UK PMI Manufacturing SA,10:30,Aug,48.3,48.0
-2019-09-03,EC,PPI YoY,11:00,Jul,--,0.7%
-2019-09-03,US,Markit US Manufacturing PMI,15:45,Aug F,--,49.9
-2019-09-03,US,ISM Manufacturing,16:00,Aug,51.5,51.2
-2019-09-03,US,Construction Spending MoM,16:00,Jul,0.3%,-1.3%
-2019-09-03,US,Fed's Rosengren Speaks in Easton,23:00,--,--,--
-2019-09-03,UK,U.K. House of Commons Returns From Summer Recess,,--,--,--
-2019-09-04,JN,Jibun Bank Japan PMI Services,02:30,Aug F,--,53.4
-2019-09-04,CH,Caixin China PMI Services,03:45,Aug,51.7,51.6
-2019-09-04,EC,Markit Eurozone Services PMI,10:00,Aug F,53.4,53.4
-2019-09-04,UK,Markit/CIPS UK Services PMI,10:30,Aug,51.0,51.4
-2019-09-04,UK,Official Reserves Changes,10:30,Aug,--,$1749m
-2019-09-04,EC,Retail Sales MoM,11:00,Jul,-0.4%,1.1%
-2019-09-04,US,Trade Balance,14:30,Jul,-$55.2b,-$55.2b
-2019-09-04,US,Fed's Williams Speaks in New York,15:25,--,--,--
-2019-09-04,CA,Bank of Canada Rate Decision,16:00,,1.75%,1.75%
-2019-09-04,US,"Fed's Bowman, Bullard in St. Louis",18:30,--,--,--
-2019-09-04,US,Fed's Kashkari Speaks in Minneapolis,19:00,--,--,--
-2019-09-04,US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
-2019-09-04,US,Fed's Evans Speaks on North American Trade,21:15,--,--,--
-2019-09-04,US,Wards Total Vehicle Sales,--,Aug,16.90m,16.82m
-2019-09-05,GE,Factory Orders MoM,08:00,Jul,-1.4%,2.5%
-2019-09-05,US,ADP Employment Change,14:15,Aug,143k,156k
-2019-09-05,US,Unit Labor Costs,14:30,2Q F,2.5%,2.4%
-2019-09-05,US,Initial Jobless Claims,14:30,--,--,215k
-2019-09-05,US,Bloomberg Consumer Comfort,15:45,--,--,62.5
-2019-09-05,US,Markit US Services PMI,15:45,Aug F,--,50.9
-2019-09-05,US,Cap Goods Orders Nondef Ex Air,16:00,Jul F,--,0.4%
-2019-09-05,US,ISM Non-Manufacturing Index,16:00,Aug,53.6,53.7
-2019-09-05,US,EIA Natural Gas Storage Change,16:30,--,--,60.0
-2019-09-05,US,DOE U.S. Crude Oil Inventories,17:00,--,--,-10027k
-2019-09-06,JN,Household Spending YoY,01:30,Jul,0.9%,2.7%
-2019-09-06,JN,Leading Index CI,07:00,Jul P,93.2,93.3
-2019-09-06,GE,Industrial Production SA MoM,08:00,Jul,0.4%,-1.5%
-2019-09-06,FR,Current Account Balance,08:45,Jul,--,-0.8b
-2019-09-06,UK,Halifax House Price 3Mths/Year,09:30,Aug,3.4%,4.1%
-2019-09-06,EC,Employment QoQ,11:00,2Q F,--,0.2%
-2019-09-06,EC,GDP SA QoQ,11:00,2Q F,0.2%,0.2%
-2019-09-06,US,Change in Nonfarm Payrolls,14:30,Aug,165k,164k
-2019-09-06,US,Average Hourly Earnings YoY,14:30,Aug,3.0%,3.2%
-2019-09-06,US,Powell Speaks in Zurich on Economic Outlook,18:30,--,--,--
-2019-09-06,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2019-09-06,IT,Italy Sovereign Debt to be rated by Moody's,,--,--,--
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
-,,,,,,
+2019-09-07,CH,Foreign Reserves,--,Aug,$3100.00b,$3103.70b
+2019-09-08,CH,Trade Balance,--,Aug,$44.25b,$45.06b
+2019-09-09,JN,BoP Current Account Adjusted,01:50,Jul,¥1700.6b,¥1941.9b
+2019-09-09,JN,GDP SA QoQ,01:50,2Q F,0.3%,0.4%
+2019-09-09,GE,Trade Balance,08:00,Jul,--,16.8b
+2019-09-09,FR,Bank of France Ind. Sentiment,08:30,Aug,--,95.0
+2019-09-09,EC,Sentix Investor Confidence,10:30,Sep,-16.0,-13.7
+2019-09-09,UK,Monthly GDP (MoM),10:30,Jul,0.1%,0.0%
+2019-09-09,UK,Industrial Production MoM,10:30,Jul,0.0%,-0.1%
+2019-09-09,UK,Construction Output MoM,10:30,Jul,--,-0.7%
+2019-09-09,UK,Trade Balance GBP/Mn,10:30,Jul,-£1000m,£1779m
+2019-09-09,CH,Aggregate Financing CNY,09-15,Aug,1600.0b,1010.0b
+2019-09-10,CH,CPI YoY,03:30,Aug,2.6%,2.8%
+2019-09-10,FR,Total Payrolls,07:30,2Q,--,0.4%
+2019-09-10,JN,Machine Tool Orders YoY,08:00,Aug P,--,-33.0%
+2019-09-10,FR,Industrial Production MoM,08:45,Jul,--,-2.3%
+2019-09-10,IT,Industrial Production MoM,10:00,Jul,--,-0.2%
+2019-09-10,UK,Jobless Claims Change,10:30,Aug,--,28.0k
+2019-09-10,UK,Weekly Earnings ex Bonus 3M/YoY,10:30,Jul,3.8%,3.9%
+2019-09-10,US,NFIB Small Business Optimism,12:00,Aug,103.5,104.7
+2019-09-11,US,PPI Final Demand YoY,14:30,Aug,1.7%,1.7%
+2019-09-11,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-4771k
+2019-09-12,JN,PPI YoY,01:50,Aug,-0.8%,-0.6%
+2019-09-12,JN,Core Machine Orders YoY,01:50,Jul,-4.1%,12.5%
+2019-09-12,GE,CPI EU Harmonized YoY,08:00,Aug F,1.0%,1.0%
+2019-09-12,FR,CPI EU Harmonized YoY,08:45,Aug F,--,1.2%
+2019-09-12,EC,Industrial Production SA MoM,11:00,Jul,0.1%,-1.6%
+2019-09-12,EC,ECB Main Refinancing Rate,13:45,--,0.0%,0.0%
+2019-09-12,EC,ECB's Draghi Speaks After Policy Decision,14:30,--,--,--
+2019-09-12,US,CPI YoY,14:30,Aug,1.7%,1.8%
+2019-09-12,US,Initial Jobless Claims,14:30,--,--,217k
+2019-09-12,US,Bloomberg Consumer Comfort,15:45,--,--,63.4
+2019-09-12,US,EIA Natural Gas Storage Change,16:30,--,--,84.0
+2019-09-13,JN,Industrial Production MoM,06:30,Jul F,--,1.3%
+2019-09-13,EC,Trade Balance SA,11:00,Jul,--,17.9b
+2019-09-13,EC,Labour Costs YoY,11:00,2Q,--,2.4%
+2019-09-13,US,Import Price Index YoY,14:30,Aug,--,-1.8%
+2019-09-13,US,Retail Sales Control Group,14:30,Aug,0.3%,1.0%
+2019-09-13,US,U. of Mich. Sentiment,16:00,Sep P,90.2,89.8
+2019-09-13,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2019-09-13,EC,EU finance ministers meet in Helsinki,13-14,--,--,--
+2019-09-14,CH,CPI YoY,02:30,Feb,1.5%,1.7%
+2019-09-15,CH,Manufacturing PMI,03:00,Sep,51.1,51.3
+2019-09-15,UK,Conservative Party Conference in Birmingham,30-03,--,--,--
+2019-09-16,CH,Industrial Production YoY,04:00,Aug,5.2%,4.8%
+2019-09-16,CH,Retail Sales YoY,04:00,Aug,8.0%,7.6%
+2019-09-16,US,Empire Manufacturing,14:30,Sep,2.0,4.8
+2019-09-17,GE,ZEW Survey Expectations,11:00,Sep,--,-44.1
+2019-09-17,US,Industrial Production MoM,15:15,Aug,0.1%,-0.2%
+2019-09-17,US,NAHB Housing Market Index,16:00,Sep,66.0,66.0
+2019-09-17,US,Net Long-term TIC Flows,22:00,Jul,--,$99.1b
+2019-09-18,JN,Trade Balance Adjusted,01:50,Aug,--,-¥126.8b
+2019-09-18,EC,EU27 New Car Registrations,08:00,Aug,--,-7.8%
+2019-09-18,UK,CPI YoY,10:30,Aug,--,2.1%
+2019-09-18,UK,PPI Output NSA YoY,10:30,Aug,--,1.8%
+2019-09-18,UK,House Price Index YoY,10:30,Jul,--,0.9%
+2019-09-18,EC,Construction Output MoM,11:00,Jul,--,0.0%
+2019-09-18,EC,CPI YoY,11:00,Aug F,--,1.0%
+2019-09-18,US,Building Permits MoM,14:30,Aug,-0.9%,8.4%
+2019-09-18,US,Housing Starts MoM,14:30,Aug,5.0%,-4.0%
+2019-09-18,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+2019-09-18,US,FOMC Rate Decision (Upper Bound),20:00,--,2.00%,2.25%
+2019-09-18,US,Powell Holds Press Conference,20:30,--,--,--
+2019-09-19,JN,All Industry Activity Index MoM,06:30,Jul,--,-0.8%
+2019-09-19,EC,ECB Current Account SA,10:00,Jul,--,18.4b
+2019-09-19,UK,Retail Sales Inc Auto Fuel MoM,10:30,Aug,--,0.2%
+2019-09-19,UK,Bank of England Bank Rate,13:00,--,--,0.75%
+2019-09-19,US,Current Account Balance,14:30,2Q,--,-$130.4b
+2019-09-19,US,Philadelphia Fed Business Outlook,14:30,Sep,--,16.8
+2019-09-19,US,Initial Jobless Claims,14:30,--,--,--
+2019-09-19,US,Bloomberg Consumer Comfort,15:45,--,--,--
+2019-09-19,US,Leading Index,16:00,Aug,--,0.5%
+2019-09-19,US,Existing Home Sales MoM,16:00,Aug,-0.9%,2.5%
+2019-09-19,US,EIA Natural Gas Storage Change,16:30,--,--,--
+2019-09-19,JN,BOJ Policy Balance Rate,--,--,--,-0.1%
+2019-09-20,JN,Natl CPI YoY,01:30,Aug,--,0.5%
+2019-09-20,GE,PPI YoY,08:00,Aug,--,1.1%
+2019-09-20,FR,Wages QoQ,08:45,2Q F,--,0.5%
+2019-09-20,EC,Consumer Confidence,16:00,Sep A,--,-7.1
