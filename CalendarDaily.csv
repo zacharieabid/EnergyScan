@@ -1,42 +1,60 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2019-10-19,UK,U.K. Government Sits to Discuss Brexit,01:01,--,--,--
-2019-10-20,PO,Portugal Holds General Election,--,--,--,--
-2019-10-21,JN,Trade Balance Adjusted,01:50,Sep,-¥178.1b,-¥130.8b
-2019-10-21,CH,New Home Prices MoM,03:30,Sep,--,0.6%
-2019-10-21,JN,All Industry Activity Index MoM,06:30,Aug,0.1%,0.2%
-2019-10-21,GE,PPI YoY,08:00,Sep,-0.2%,0.3%
-2019-10-22,UK,PSNB ex Banking Groups,10:30,Sep,9.7b,6.4b
-2019-10-22,UK,CBI Business Optimism,12:00,Oct,-30.0,-32.0
-2019-10-22,US,Richmond Fed Manufact. Index,16:00,Oct,--,-9.0
-2019-10-22,US,Existing Home Sales MoM,16:00,Sep,-0.5%,1.3%
-2019-10-23,JN,Nationwide Dept Sales YoY,07:30,Sep,--,2.3%
-2019-10-23,FR,Business Confidence,08:45,Oct,105.0,106.0
-2019-10-23,US,FHFA House Price Index MoM,15:00,Aug,--,0.4%
-2019-10-23,EC,Consumer Confidence,16:00,Oct A,-6.8,-6.5
-2019-10-23,US,DOE U.S. Crude Oil Inventories,16:30,--,--,9281k
-2019-10-24,JN,Jibun Bank Japan PMI Mfg,02:30,Oct P,--,48.9
-2019-10-24,JN,Jibun Bank Japan PMI Services,02:30,Oct P,--,52.8
-2019-10-24,EC,Markit Eurozone Manuf. PMI,10:00,Oct P,46.0,45.7
-2019-10-24,EC,Markit Eurozone Services PMI,10:00,Oct P,52.0,51.6
-2019-10-24,EC,ECB Main Refinancing Rate,13:45,--,0.0%,0.0%
-2019-10-24,EC,ECB's Draghi Speaks After Policy Decision,14:30,--,--,--
-2019-10-24,US,Cap Goods Orders Nondef Ex Air,14:30,Sep P,-0.1%,-0.4%
-2019-10-24,US,Initial Jobless Claims,14:30,--,--,214k
-2019-10-24,US,Bloomberg Consumer Comfort,15:45,--,--,63.5
-2019-10-24,US,Markit US Manufacturing PMI,15:45,Oct P,--,51.1
-2019-10-24,US,Markit US Services PMI,15:45,Oct P,--,50.9
-2019-10-24,US,New Home Sales MoM,16:00,Sep,-0.4%,7.1%
-2019-10-24,US,EIA Natural Gas Storage Change,16:30,--,--,104.0
-2019-10-24,US,Kansas City Fed Manf. Activity,17:00,Oct,--,-2.0
-2019-10-25,JN,Machine Tool Orders YoY,08:00,Sep F,--,-35.5%
-2019-10-25,GE,GfK Consumer Confidence,08:00,Nov,9.8,9.9
-2019-10-25,FR,PPI YoY,08:45,Sep,--,-0.7%
-2019-10-25,GE,IFO Business Climate,10:00,Oct,94.5,94.6
-2019-10-25,EC,ECB Survey of Professional Forecasters,10:00,--,--,--
-2019-10-25,FR,Total Jobseekers,12:00,3Q,--,3377.3k
-2019-10-25,US,U. of Mich. Sentiment,16:00,Oct F,96.0,96.0
-2019-10-25,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2019-10-25,FR,France Sovereign Debt to be rated by Moody's,--,--,--,--
-2019-10-25,IT,Italy Sovereign Debt to be rated by S&P,--,--,--,--
-2019-10-25,UK,United Kingdom Sovereign Debt to be rated by S&P,--,--,--,--
-2019-10-25,FR,France Sovereign Debt to be rated by DBRS,--,--,--,--
+2019-10-27,CH,Industrial Profits YoY,02:30,Sep,--,-2.0%
+2019-10-28,JN,PPI Services YoY,00:50,Sep,0.5%,0.6%
+2019-10-28,GE,Import Price Index YoY,08:00,Sep,-3.2%,-2.7%
+2019-10-28,EC,M3 Money Supply YoY,10:00,Sep,5.6%,5.7%
+2019-10-28,UK,CBI Total Dist. Reported Sales,12:00,Oct,--,3.0
+2019-10-28,US,Chicago Fed Nat Activity Index,13:30,Sep,0.2,0.1
+2019-10-28,US,Advance Goods Trade Balance,13:30,Sep,-$73.5b,-$72.8b
+2019-10-28,US,Dallas Fed Manf. Activity,15:30,Oct,0.0,1.5
+2019-10-29,JN,Tokyo CPI YoY,00:30,Oct,0.6%,0.4%
+2019-10-29,UK,Nationwide House Px NSA YoY,08:00,Oct,0.2%,0.2%
+2019-10-29,FR,Consumer Confidence,08:45,Oct,104.0,104.0
+2019-10-29,UK,Mortgage Approvals,10:30,Sep,65.1k,65.5k
+2019-10-29,US,S&P CoreLogic CS 20-City YoY NSA,14:00,Aug,2.0%,2.0%
+2019-10-29,US,Pending Home Sales NSA YoY,15:00,Sep,--,1.1%
+2019-10-29,US,Conf. Board Consumer Confidence,15:00,Oct,127.8,125.1
+2019-10-30,JN,Retail Sales MoM,00:50,Sep,3.6%,4.8%
+2019-10-30,FR,GDP QoQ,07:30,3Q P,0.2%,0.3%
+2019-10-30,FR,Consumer Spending MoM,08:45,Sep,--,0.0%
+2019-10-30,GE,Unemployment Change (000's),09:55,Oct,0.0k,-10.0k
+2019-10-30,IT,Consumer Confidence Index,10:00,Oct,112.5,112.2
+2019-10-30,IT,Manufacturing Confidence,10:00,Oct,98.8,98.8
+2019-10-30,EC,Economic Confidence,11:00,Oct,101.0,101.7
+2019-10-30,US,ADP Employment Change,13:15,Oct,132k,135k
+2019-10-30,US,GDP Annualized QoQ,13:30,3Q A,1.6%,2.0%
+2019-10-30,GE,CPI EU Harmonized YoY,14:00,Oct P,0.9%,0.9%
+2019-10-30,CA,Bank of Canada Rate Decision,15:00,--,1.8%,1.8%
+2019-10-30,US,DOE U.S. Crude Oil Inventories,15:30,--,--,-1699k
+2019-10-30,US,FOMC Rate Decision (Upper Bound),19:00,--,2.0%,2.0%
+2019-10-31,JN,Industrial Production MoM,00:50,Sep P,0.4%,-1.2%
+2019-10-31,UK,GfK Consumer Confidence,01:01,Oct,-13.0,-12.0
+2019-10-31,CH,Manufacturing PMI,02:00,Oct,49.8,49.8
+2019-10-31,CH,Non-manufacturing PMI,02:00,Oct,53.7,53.7
+2019-10-31,JN,Vehicle Production YoY,05:00,Aug,--,11.8%
+2019-10-31,JN,Housing Starts YoY,06:00,Sep,-6.7%,-7.1%
+2019-10-31,JN,Consumer Confidence Index,06:00,Oct,35.2,35.6
+2019-10-31,GE,Retail Sales MoM,08:00,Sep,0.3%,0.5%
+2019-10-31,FR,CPI EU Harmonized YoY,08:45,Oct P,--,1.1%
+2019-10-31,EC,Unemployment Rate,11:00,Sep,7.4%,7.4%
+2019-10-31,EC,GDP SA QoQ,11:00,3Q A,0.1%,0.2%
+2019-10-31,EC,CPI Estimate YoY,11:00,Oct,0.7%,0.9%
+2019-10-31,IT,GDP WDA QoQ,12:00,3Q P,0.0%,0.0%
+2019-10-31,US,Personal Spending,13:30,Sep,0.3%,0.1%
+2019-10-31,US,Initial Jobless Claims,13:30,--,--,212k
+2019-10-31,US,PCE Core Deflator YoY,13:30,Sep,1.7%,1.8%
+2019-10-31,US,MNI Chicago PMI,14:45,Oct,49.0,47
+2019-10-31,US,Bloomberg Consumer Comfort,14:45,--,--,63.4
+2019-10-31,US,EIA Natural Gas Storage Change,15:30,--,--,87.0
+2019-11-01,JN,Jobless Rate,00:30,Sep,2.2%,2.2%
+2019-11-01,JN,Jibun Bank Japan PMI Mfg,01:30,Oct F,--,48.5
+2019-11-01,CH,Caixin China PMI Mfg,02:45,Oct,51.0,51.4
+2019-11-01,JN,Vehicle Sales YoY,06:00,Oct,--,12.8%
+2019-11-01,UK,Markit UK PMI Manufacturing SA,10:30,Oct,48.0,48.3
+2019-11-01,US,Change in Nonfarm Payrolls,13:30,Oct,95k,136k
+2019-11-01,US,Average Hourly Earnings YoY,13:30,Oct,3.0%,2.9%
+2019-11-01,US,Markit US Manufacturing PMI,14:45,Oct F,--,51.5
+2019-11-01,US,ISM Manufacturing,15:00,Oct,49.0,47.8
+2019-11-01,US,Construction Spending MoM,15:00,Sep,0.2%,0.1%
+2019-11-01,US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
+2019-11-01,US,Wards Total Vehicle Sales,--,Oct,17.05m,17.19m
