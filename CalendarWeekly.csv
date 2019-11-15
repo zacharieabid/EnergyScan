@@ -1,110 +1,44 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-Friday 01 Nov.,--,--,--,--,--
-JN,Jobless Rate,00:30,Sep,2.2%,2.2%
-JN,Jibun Bank Japan PMI Mfg,01:30,Oct F,--,48.5
-CH,Caixin China PMI Mfg,02:45,Oct,51.0,51.4
-JN,Vehicle Sales YoY,06:00,Oct,--,12.8%
-UK,Markit UK PMI Manufacturing SA,10:30,Oct,48.0,48.3
-US,Change in Nonfarm Payrolls,13:30,Oct,95k,136k
-US,Average Hourly Earnings YoY,13:30,Oct,3.0%,2.9%
-US,Markit US Manufacturing PMI,14:45,Oct F,--,51.5
-US,ISM Manufacturing,15:00,Oct,49.0,47.8
-US,Construction Spending MoM,15:00,Sep,0.2%,0.1%
-US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
-US,Wards Total Vehicle Sales,--,Oct,17.05m,17.19m
-Monday 04 Nov.,--,--,--,--,--
-EC,Markit Eurozone Manuf. PMI,10:00,Oct F,--,45.7
-EC,Sentix Investor Confidence,10:30,Nov,--,-16.8
-US,Cap Goods Orders Nondef Ex Air,16:00,Sep F,--,-0.005
-EC,ECB Lagarde Speaks in Berlin,19:30,--,--,--
-Tuesday 05 Nov.,--,--,--,--,--
-CH,Caixin China PMI Services,02:45,Oct,51.5,51.3
-UK,Markit/CIPS UK Services PMI,10:30,Oct,--,49.5
-EC,PPI YoY,11:00,Sep,--,-0.8%
-US,Trade Balance,14:30,Sep,-$54.0b,-$54.9b
-US,Markit US Services PMI,15:45,Oct F,--,51.0
-US,ISM Non-Manufacturing Index,16:00,Oct,53.9,52.6
-US,Dallas Fed's Kaplan Speaks in Dallas,18:40,--,--,--
-Wednesday 06 Nov.,--,--,--,--,--
-JN,BOJ Minutes of Sep. Meeting,00:50,--,--,--
-JN,Jibun Bank Japan PMI Services,01:30,Oct F,--,50.3
-GE,Factory Orders MoM,08:00,Sep,--,-0.6%
-EC,Markit Eurozone Services PMI,10:00,Oct F,--,51.8
-EC,Retail Sales MoM,11:00,Sep,--,0.3%
-US,Fed's Evans Speaks in New York,14:00,--,--,--
-US,Unit Labor Costs,14:30,3Q P,2.6%,2.6%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,5702k
-Thursday 07 Nov.,--,--,--,--,--
-GE,Industrial Production SA MoM,08:00,Sep,--,0.3%
-FR,Survey of Industrial Investment,08:45,--,--,--
-IT,Retail Sales MoM,10:00,Sep,--,-0.6%
-EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-EC,EU Commission Economic Forecasts,11:00,--,--,--
-UK,Bank of England Bank Rate,13:00,--,0.75%,0.75%
-UK,BOE's Carney speaks at press conference in London,13:30,--,--,--
-US,Initial Jobless Claims,14:30,--,--,--
-US,Bloomberg Consumer Comfort,15:45,--,--,--
-US,EIA Natural Gas Storage Change,16:30,--,--,--
-US,Consumer Credit,21:00,Sep,$15.000b,$17.901b
-CH,Foreign Reserves,--,Oct,--,$3092.43b
-EC,EU finance ministers meet in Brussels,7-8,--,--,--
-Friday 08 Nov.,--,--,--,--,--
-JN,Household Spending YoY,00:30,Sep,7.7%,1.0%
-JN,Leading Index CI,06:00,Sep P,--,91.9
-FR,Trade Balance,08:45,Sep,--,-5019m
-FR,Private Sector Payrolls QoQ,08:45,3Q P,--,0.2%
-FR,Industrial Production MoM,08:45,Sep,--,-0.9%
-US,U. of Mich. Sentiment,16:00,Nov P,95.0,95.5
+Monday 18 Nov.,--,--,--,--,--
+US,NAHB Housing Market Index,16:00,Nov,71.0,71.0
+US,Net Long-term TIC Flows,22:00,Sep,--,-$41.1b
+Tuesday 19 Nov.,--,--,--,--,--
+EC,EU27 New Car Registrations,08:00,Oct,--,14.5%
+EC,ECB Current Account SA,10:00,Sep,--,26.6b
+EC,Construction Output MoM,11:00,Sep,--,-0.5%
+UK,CBI Trends Total Orders,12:00,Nov,-33.0,-37.0
+US,Building Permits MoM,14:30,Oct,-0.7%,-2.7%
+US,Housing Starts MoM,14:30,Oct,4.9%,-9.4%
+Wednesday 20 Nov.,--,--,--,--,--
+JN,Trade Balance Adjusted,00:50,Oct,¥261.2b,-¥97.2b
+GE,PPI YoY,08:00,Oct,-0.4%,-0.1%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,2219k
+US,FOMC Meeting Minutes,20:00,--,--,--
+Thursday 21 Nov.,--,--,--,--,--
+JN,All Industry Activity Index MoM,05:30,Sep,1.5%,0.0%
+JN,Machine Tool Orders YoY,07:00,Oct F,--,-37.4%
+FR,Business Confidence,08:45,Nov,105.0,105.0
+UK,PSNB ex Banking Groups,10:30,Oct,9.1b,9.4b
+EC,OECD Economic Outlook,11:00,--,--,--
+EC,ECB Account of October Policy Meeting,13:30,--,--,--
+US,Philadelphia Fed Business Outlook,14:30,Nov,6.5,5.6
+US,Initial Jobless Claims,14:30,--,--,225k
+US,Bloomberg Consumer Comfort,15:45,--,--,58.0
+US,Leading Index,16:00,Oct,-0.1%,-0.1%
+EC,Consumer Confidence,16:00,Nov A,-7.3,-7.6
+US,Existing Home Sales MoM,16:00,Oct,2.1%,-2.2%
+US,EIA Natural Gas Storage Change,16:30,--,--,3.0
+Friday 22 Nov.,--,--,--,--,--
+JN,Natl CPI YoY,00:30,Oct,0.3%,0.2%
+JN,Jibun Bank Japan PMI Mfg,01:30,Nov P,--,48.4
+JN,Jibun Bank Japan PMI Services,01:30,Nov P,--,49.7
+JN,Nationwide Dept Sales YoY,06:30,Oct,--,23.1%
+GE,GDP SA QoQ,08:00,3Q F,0.1%,0.1%
+EC,ECB President Lagarde Speaks in Frankfurt,09:00,--,--,--
+EC,Markit Eurozone Man. PMI,10:00,Nov P,46.3,45.9
+EC,Markit Eurozone Services PMI,10:00,Nov P,52.4,52.2
+US,Markit US Services PMI,15:45,Nov P,51.2,50.6
+US,Markit US Manufacturing PMI,15:45,Nov P,51.5,51.3
+US,U. of Mich. Sentiment,16:00,Nov F,95.7,95.7
+US,Kansas City Fed Manf. Activity,17:00,Nov,-2.0,-3.0
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-CH,Trade Balance,--,Oct,$40.00b,$39.65b
-Saturday 09 Nov.,--,--,--,--,--
-CH,CPI YoY,02:30,Oct,3.0%,3.0%
-CH,Aggregate Financing CNY,9-15,Oct,--,2270.0b
-Monday 11 Nov.,--,--,--,--,--
-JN,Core Machine Orders MoM,00:50,Sep,--,-2.4%
-JN,BoP Current Account Adjusted,00:50,Sep,--,¥1720.3b
-IT,Industrial Production MoM,10:00,Sep,--,0.3%
-UK,GDP QoQ,10:30,3Q P,--,-0.2%
-UK,Industrial Production MoM,10:30,Sep,--,-0.6%
-UK,Trade Balance GBP/Mn,10:30,Sep,--,-£1546m
-Tuesday 12 Nov.,--,--,--,--,--
-JN,Money Stock M2 YoY,00:50,Oct,--,2.4%
-JN,Machine Tool Orders YoY,07:00,Oct P,--,-35.5%
-FR,Bank of France Ind. Sentiment,08:30,Oct,--,96.0
-UK,Jobless Claims Change,10:30,Oct,--,21.1k
-UK,Weekly Earnings ex Bonus 3M/YoY,10:30,Sep,--,3.8%
-GE,ZEW Survey Expectations,11:00,Nov,--,-22.8
-US,NFIB Small Business Optimism,12:00,Oct,--,101.8
-US,Fed's Harker Speaks in New York,18:55,--,--,--
-Wednesday 13 Nov.,--,--,--,--,--
-JN,PPI YoY,00:50,Oct,--,-1.1%
-GE,CPI EU Harmonized YoY,08:00,Oct F,--,0.9%
-UK,CPI YoY,10:30,Oct,--,1.7%
-UK,PPI Output NSA YoY,10:30,Oct,--,1.2%
-EC,Industrial Production SA MoM,11:00,Sep,--,0.4%
-US,CPI YoY,14:30,Oct,--,1.7%
-Thursday 14 Nov.,--,--,--,--,--
-JN,GDP SA QoQ,00:50,3Q P,0.1%,0.3%
-UK,RICS House Price Balance,01:01,Oct,--,-2.0%
-CH,Industrial Production YoY,03:00,Oct,5.6%,5.8%
-CH,Retail Sales YoY,03:00,Oct,--,7.8%
-FR,Mainland Unemp. Change 000s,07:30,3Q,--,-66k
-GE,GDP SA QoQ,08:00,3Q P,--,-0.1%
-FR,CPI EU Harmonized YoY,08:45,Oct F,--,0.9%
-UK,Retail Sales Inc Auto Fuel MoM,10:30,Oct,--,0.0%
-EC,Employment QoQ,11:00,3Q P,--,0.2%
-EC,GDP SA QoQ,11:00,3Q P,--,--
-US,PPI Final Demand YoY,14:30,Oct,--,1.4%
-US,Fed's Evans Speaks in Philadelphia,15:10,--,--,--
-US,DOE U.S. Crude Oil Inventories,17:00,--,--,--
-US,Fed's Bullard Speaks in Louisville,18:20,--,--,--
-Friday 15 Nov.,--,--,--,--,--
-CH,New Home Prices MoM,02:30,Oct,--,0.5%
-JN,Industrial Production MoM,05:30,Sep F,--,1.4%
-EC,Trade Balance SA,11:00,Sep,--,20.3b
-EC,CPI YoY,11:00,Oct F,--,--
-US,Empire Manufacturing,14:30,Nov,--,4.0
-US,Import Price Index YoY,14:30,Oct,--,-1.6%
-US,Retail Sales Control Group,14:30,Oct,--,0.0%
-US,Industrial Production MoM,15:15,Oct,0.0%,-0.4%
-US,Business Inventories,16:00,Sep,--,0.0%
