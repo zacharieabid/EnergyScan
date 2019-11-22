@@ -1,39 +1,50 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2019-11-18,US,NAHB Housing Market Index,16:00,Nov,71.0,71.0
-2019-11-18,US,Net Long-term TIC Flows,22:00,Sep,--,-$41.1b
-2019-11-19,EC,EU27 New Car Registrations,08:00,Oct,--,14.5%
-2019-11-19,EC,ECB Current Account SA,10:00,Sep,--,26.6b
-2019-11-19,EC,Construction Output MoM,11:00,Sep,--,-0.5%
-2019-11-19,UK,CBI Trends Total Orders,12:00,Nov,-33.0,-37.0
-2019-11-19,US,Building Permits MoM,14:30,Oct,-0.7%,-2.7%
-2019-11-19,US,Housing Starts MoM,14:30,Oct,4.9%,-9.4%
-2019-11-20,JN,Trade Balance Adjusted,00:50,Oct,¥261.2b,-¥97.2b
-2019-11-20,GE,PPI YoY,08:00,Oct,-0.4%,-0.1%
-2019-11-20,US,DOE U.S. Crude Oil Inventories,16:30,--,--,2219k
-2019-11-20,US,FOMC Meeting Minutes,20:00,--,--,--
-2019-11-21,JN,All Industry Activity Index MoM,05:30,Sep,1.5%,0.0%
-2019-11-21,JN,Machine Tool Orders YoY,07:00,Oct F,--,-37.4%
-2019-11-21,FR,Business Confidence,08:45,Nov,105.0,105.0
-2019-11-21,UK,PSNB ex Banking Groups,10:30,Oct,9.1b,9.4b
-2019-11-21,EC,OECD Economic Outlook,11:00,--,--,--
-2019-11-21,EC,ECB Account of October Policy Meeting,13:30,--,--,--
-2019-11-21,US,Philadelphia Fed Business Outlook,14:30,Nov,6.5,5.6
-2019-11-21,US,Initial Jobless Claims,14:30,--,--,225k
-2019-11-21,US,Bloomberg Consumer Comfort,15:45,--,--,58.0
-2019-11-21,US,Leading Index,16:00,Oct,-0.1%,-0.1%
-2019-11-21,EC,Consumer Confidence,16:00,Nov A,-7.3,-7.6
-2019-11-21,US,Existing Home Sales MoM,16:00,Oct,2.1%,-2.2%
-2019-11-21,US,EIA Natural Gas Storage Change,16:30,--,--,3.0
-2019-11-22,JN,Natl CPI YoY,00:30,Oct,0.3%,0.2%
-2019-11-22,JN,Jibun Bank Japan PMI Mfg,01:30,Nov P,--,48.4
-2019-11-22,JN,Jibun Bank Japan PMI Services,01:30,Nov P,--,49.7
-2019-11-22,JN,Nationwide Dept Sales YoY,06:30,Oct,--,23.1%
-2019-11-22,GE,GDP SA QoQ,08:00,3Q F,0.1%,0.1%
-2019-11-22,EC,ECB President Lagarde Speaks in Frankfurt,09:00,--,--,--
-2019-11-22,EC,Markit Eurozone Man. PMI,10:00,Nov P,46.3,45.9
-2019-11-22,EC,Markit Eurozone Services PMI,10:00,Nov P,52.4,52.2
-2019-11-22,US,Markit US Services PMI,15:45,Nov P,51.2,50.6
-2019-11-22,US,Markit US Manufacturing PMI,15:45,Nov P,51.5,51.3
-2019-11-22,US,U. of Mich. Sentiment,16:00,Nov F,95.7,95.7
-2019-11-22,US,Kansas City Fed Manf. Activity,17:00,Nov,-2.0,-3.0
-2019-11-22,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2019-11-25,GE,IFO Business Climate,10:00,Nov,95.0,94.6
+2019-11-25,UK,CBI Retailing Reported Sales,12:00,Nov,-10.0,-10.0
+2019-11-25,US,Chicago Fed Nat Activity Index,14:30,Oct,--,-0.5
+2019-11-25,US,Dallas Fed Manf. Activity,16:30,Nov,-2.9,-5.1
+2019-11-26,US,Powell Speaks in Rhode Island ,01:00,--,--,--
+2019-11-26,GE,GfK Consumer Confidence,08:00,Dec,9.6,9.6
+2019-11-26,UK,UK Finance Loans for Housing,10:30,Oct,42200.0,42310.0
+2019-11-26,US,Advance Goods Trade Balance,14:30,Oct,-$71.3b,-$70.4b
+2019-11-26,US,Wholesale Inventories MoM,14:30,Oct P,--,-0.4%
+2019-11-26,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Sep,2.1%,2.0%
+2019-11-26,US,Richmond Fed Manufact. Index,16:00,Nov,6.0,8.0
+2019-11-26,US,Conf. Board Consumer Confidence,16:00,Nov,126.8,125.9
+2019-11-26,US,New Home Sales MoM,16:00,Oct,0.8%,-0.7%
+2019-11-26,US,Fed's Brainard Discusses Policy Framework ,19:00,--,--,--
+2019-11-27,CH,Industrial Profits YoY,02:30,Oct,--,-5.3%
+2019-11-27,GE,Import Price Index YoY,08:00,Oct,-3.6%,-2.5%
+2019-11-27,FR,Consumer Confidence,08:45,Nov,103.0,104.0
+2019-11-27,IT,Consumer Confidence Index,10:00,Nov,111.5,111.7
+2019-11-27,IT,Manufacturing Confidence,10:00,Nov,99.9,99.6
+2019-11-27,US,GDP Annualized QoQ,14:30,3Q S,1.9%,1.9%
+2019-11-27,US,Cap Goods Orders Nondef Ex Air,14:30,Oct P,-0.4%,-0.6%
+2019-11-27,US,Initial Jobless Claims,14:30,--,--,227k
+2019-11-27,US,MNI Chicago PMI,15:45,Nov,47.1,43.2
+2019-11-27,US,Bloomberg Consumer Comfort,15:45,--,--,59.1
+2019-11-27,US,Personal Spending,16:00,Oct,0.3%,0.2%
+2019-11-27,US,PCE Core Deflator YoY,16:00,Oct,1.7%,1.7%
+2019-11-27,US,Pending Home Sales NSA YoY,16:00,Oct,6.2%,6.3%
+2019-11-27,US,DOE U.S. Crude Oil Inventories,16:30,--,--,1379k
+2019-11-27,US,EIA Natural Gas Storage Change,18:00,--,--,-94.0
+2019-11-27,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2019-11-27,US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
+2019-11-28,JN,Retail Sales MoM,00:50,Oct,-10.4%,7.1%
+2019-11-28,EC,M3 Money Supply YoY,10:00,Oct,5.5%,5.5%
+2019-11-28,EC,Economic Confidence,11:00,Nov,101.0,100.8
+2019-11-28,GE,CPI EU Harmonized YoY,14:00,Nov P,1.2%,0.9%
+2019-11-29,JN,Tokyo CPI YoY,00:30,Nov,0.6%,0.4%
+2019-11-29,JN,Industrial Production MoM,00:50,Oct P,-2.0%,1.7%
+2019-11-29,UK,GfK Consumer Confidence,01:01,Nov,-14.0,-14.0
+2019-11-29,JN,Housing Starts YoY,06:00,Oct,-7.4%,-4.9%
+2019-11-29,JN,Consumer Confidence Index,06:00,Nov,37.0,36.2
+2019-11-29,GE,Retail Sales MoM,08:00,Oct,0.2%,0.1%
+2019-11-29,FR,Consumer Spending MoM,08:45,Oct,0.3%,-0.4%
+2019-11-29,FR,CPI EU Harmonized YoY,08:45,Nov P,1.1%,0.9%
+2019-11-29,FR,GDP QoQ,08:45,3Q F,0.3%,0.3%
+2019-11-29,GE,Unemployment Change (000's),09:55,Nov,5.0k,6.0k
+2019-11-29,UK,Net Lending Sec. on Dwellings,10:30,Oct,3.7b,3.8b
+2019-11-29,EC,Unemployment Rate,11:00,Oct,7.5%,7.5%
+2019-11-29,EC,CPI Estimate YoY,11:00,Nov,0.9%,0.7%
+2019-11-29,IT,GDP WDA QoQ,12:00,3Q F,0.1%,0.1%
