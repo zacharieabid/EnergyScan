@@ -1,44 +1,115 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-Saturday 30 Nov,--,--,--,--,--
-CH,Manufacturing PMI,02:00,Nov,49.5,49.3
-CH,Non-manufacturing PMI,02:00,Nov,53.1,52.8
-Monday 02 Dec.,--,--,--,--,--
-CH,Caixin China PMI Mfg,02:45,Nov,51.5,51.7
-EC,Markit Eurozone Man. PMI,10:00,Nov F,46.6,46.6
-UK,Markit UK PMI Manufacturing SA,10:30,Nov F,48.3,48.3
-EC,ECB Pdt Lagarde Testifies at Eur. Parliament,15:00,--,--,--
-US,Markit US Manufacturing PMI,15:45,Nov F,52.2,52.2
-US,ISM Manufacturing,16:00,Nov,49.5,48.3
-US,Construction Spending MoM,16:00,Oct,0.4%,0.5%
-Tuesday 03 Dec.,--,--,--,--,--
-JN,Monetary Base YoY,00:50,Nov,--,3.1%
-EC,PPI YoY,11:00,Oct,--,-1.2%
-US,Wards Total Vehicle Sales,--,Nov,16.85m,16.55m
-Wednesday 04 Dec.,--,--,--,--,--
-JN,Jibun Bank Japan PMI Services,01:30,Nov F,--,50.4
-CH,Caixin China PMI Services,02:45,Nov,51.2,51.1
-EC,Markit Eurozone Services PMI,10:00,Nov F,51.5,51.5
-UK,Markit/CIPS UK Services PMI,10:30,Nov F,48.6,48.6
-US,ADP Employment Change,14:15,Nov,140k,125k
-US,Markit US Services PMI,15:45,Nov F,51.6,51.6
-CA,Bank of Canada Rate Decision,16:00,--,1.75%,1.75%
-US,ISM Non-Manufacturing Index,16:00,Nov,54.5,54.7
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,1572k
-EC,EU finance ministers meet in Brussels,04-05,--,--,--
-Thursday 05 Dec.,--,--,--,--,--
-GE,Factory Orders MoM,08:00,Oct,0.5%,1.3%
-EC,Retail Sales MoM,11:00,Oct,0.0%,0.1%
-EC,GDP SA QoQ,11:00,3Q F,0.2%,0.2%
-US,Initial Jobless Claims,14:30,,--,213k
-US,Trade Balance,14:30,Oct,-$48.9b,-$52.5b
-US,Bloomberg Consumer Comfort,15:45,,--,60.5
-US,Cap Goods Orders Nondef Ex Air,16:00,Oct F,--,1.2%
-US,EIA Natural Gas Storage Change,16:30,--,--,-28.0
-Friday 06 Dec.,--,--,--,--,--
-JN,Household Spending YoY,00:30,Oct,-3.4%,9.5%
-GE,Industrial Production SA MoM,08:00,Oct,0.3%,-0.6%
-FR,Current Account Balance,08:45,Oct,--,-2.7b
-US,Change in Nonfarm Payrolls,14:30,Nov,190k,128k
-US,Average Hourly Earnings YoY,14:30,Nov,3.0%,3.0%
-US,U. of Mich. Sentiment,16:00,Dec P,97.0,96.8
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,668.0
+Sunday 08 Dec.,--,--,--,--,--
+CH,Trade Balance,--,Nov,$44.50b,$42.81b
+Monday 09 Dec.,--,--,--,--,--
+JN,GDP Annualized SA QoQ,00:50,3Q F,0.6%,0.2%
+JN,BoP Current Account Adjusted,00:50,Oct,¥1731.1b,¥1485.2b
+GE,Trade Balance,08:00,Oct,18.8b,21.1b
+FR,Bank of France Ind. Sentiment,08:30,Nov,99.0,98.0
+EC,Sentix Investor Confidence,10:30,Dec,-5.3,-4.5
+CH,Aggregate Financing CNY,09-15,Nov,1470.0b,618.9b
+Tuesday 10 Dec.,--,--,--,--,--
+CH,CPI YoY,02:30,Nov,4.4%,3.8%
+JN,Machine Tool Orders YoY,07:00,Nov P,--,-37.4%
+FR,Industrial Production MoM,08:45,Oct,0.3%,0.3%
+IT,Industrial Production MoM,10:00,Oct,0.1%,-0.4%
+UK,Monthly GDP (MoM),10:30,Oct,0.1%,-0.1%
+UK,Industrial Production MoM,10:30,Oct,0.2%,-0.3%
+UK,Trade Balance GBP/Mn,10:30,Oct,-£2800m,-£3360m
+GE,ZEW Survey Expectations,11:00,Dec,0.3,-2.1
+US,NFIB Small Business Optimism,12:00,Nov,103.1,102.4
+US,Unit Labor Costs,14:30,3Q F,3.4%,3.6%
+Wednesday 11 Dec.,--,--,--,--,--
+JN,PPI YoY,00:50,Nov,0.0%,-0.4%
+US,CPI YoY,14:30,Nov,2.0%,1.8%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-4856k
+US,FOMC Rate Decision (Upper Bound),20:00,--,1.75%,1.75%
+US,Powell Holds Post FOMC Meeting Press Conference,20:30,--,--,--
+Thursday 12 Dec.,--,--,--,--,--
+JN,Core Machine Orders MoM,00:50,Oct,0.7%,-2.9%
+UK,RICS House Price Balance,01:01,Nov,-5.0%,-5.0%
+GE,CPI EU Harmonized YoY,08:00,Nov F,1.2%,1.2%
+FR,CPI EU Harmonized YoY,08:45,Nov F,1.2%,1.2%
+EC,Industrial Production SA MoM,11:00,Oct,-0.2%,0.1%
+EC,ECB Deposit Facility Rate,13:45,--,-0.5%,-0.5%
+EC,ECB's Lagarde Speaks After Policy Decision,14:30,--,--,--
+US,PPI Final Demand YoY,14:30,Nov,1.2%,1.1%
+US,Initial Jobless Claims,14:30,--,--,203k
+US,Bloomberg Consumer Comfort,15:45,--,--,61.7
+US,EIA Natural Gas Storage Change,16:30,--,--,-19.0
+US,Household Change in Net Worth,18:00,3Q,--,$1830b
+UK,U.K. General Election,--,--,--,--
+EC,EU leaders meet in Brussels,12-13,--,--,--
+Friday 13 Dec.,--,--,--,--,--
+JN,Tankan Large Mfg Index,00:50,4Q,3.0,5.0
+JN,Industrial Production MoM,05:30,Oct F,--,-4.2%
+US,Import Price Index YoY,14:30,Nov,--,-3.0%
+US,Retail Sales Control Group,14:30,Nov,0.3%,0.3%
+US,Business Inventories,16:00,Oct,0.2%,0.0%
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+FR,France Sovereign Debt to be rated by Fitch,,--,--,--
+Monday 16 Dec.,--,--,--,--,--
+UK,Rightmove House Prices YoY,01:01,Dec,--,0.3%
+JN,Jibun Bank Japan PMI Mfg,01:30,Dec P,--,48.9
+JN,Jibun Bank Japan PMI Services,01:30,Dec P,--,50.3
+CH,New Home Prices MoM,02:30,Nov,--,0.5%
+CH,Industrial Production YoY,03:00,Nov,5.0%,4.7%
+CH,Retail Sales YoY,03:00,Nov,7.6%,7.2%
+EC,Markit Eurozone Manuf. PMI,10:00,Dec P,--,46.9
+EC,Markit Eurozone Services PMI,10:00,Dec P,--,51.9
+UK,Markit UK PMI Manufacturing SA,10:30,Dec P,--,48.9
+UK,Markit/CIPS UK Services PMI,10:30,Dec P,--,--
+EC,Labour Costs YoY,11:00,3Q,--,2.7%
+UK,CBI Trends Total Orders,12:00,Dec,--,-26.0
+US,Empire Manufacturing,14:30,Dec,4.0,2.9
+US,Markit US Manufacturing PMI,15:45,Dec P,--,52.6
+US,Markit US Services PMI,15:45,Dec P,--,51.6
+US,NAHB Housing Market Index,16:00,Dec,--,70.0
+US,Net Long-term TIC Flows,22:00,Oct,--,$49.5b
+Tuesday 17 Dec.,--,--,--,--,--
+EC,EU27 New Car Registrations,08:00,Nov,--,8.7%
+UK,Jobless Claims Change,10:30,Nov,--,33.0k
+UK,Weekly Earnings ex Bonus 3M/YoY,10:30,Oct,--,3.6%
+EC,Trade Balance SA,11:00,Oct,--,18.3b
+US,Housing Starts MoM,14:30,Nov,-0.3%,3.8%
+US,Industrial Production MoM,15:15,Nov,0.9%,-0.8%
+Wednesday 18 Dec.,--,--,--,--,--
+JN,Trade Balance Adjusted,00:50,Nov,--,-¥34.7b
+GE,PPI YoY,08:00,Nov,--,-0.6%
+GE,IFO Business Climate,10:00,Dec,--,95.0
+UK,CPI YoY,10:30,Nov,--,1.5%
+UK,PPI Output NSA YoY,10:30,Nov,--,0.8%
+UK,House Price Index YoY,10:30,Oct,--,1.3%
+EC,Construction Output MoM,11:00,Oct,--,0.7%
+EC,CPI YoY,11:00,Nov F,--,0.7%
+UK,CBI Retailing Reported Sales,12:00,Dec,--,-3.0
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+Thursday 19 Dec.,--,--,--,--,--
+FR,Business Confidence,08:45,Dec,--,105.0
+UK,Retail Sales Inc Auto Fuel MoM,10:30,Nov,--,-0.1%
+UK,Bank of England Bank Rate,13:00,,--,0.75%
+US,Current Account Balance,14:30,3Q,--,-$128.2b
+US,Philadelphia Fed Business Outlook,14:30,Dec,9.0,10.4
+US,Initial Jobless Claims,14:30,--,--,--
+US,Bloomberg Consumer Comfort,15:45,--,--,--
+US,Leading Index,16:00,Nov,0.2%,-0.1%
+US,Existing Home Sales MoM,16:00,Nov,-0.7%,1.9%
+US,EIA Natural Gas Storage Change,16:30,--,--,--
+JN,BOJ Policy Balance Rate,--,--,--,-0.1%
+Friday 20 Dec.,--,--,--,--,--
+JN,Natl CPI YoY,00:30,Nov,--,0.2%
+UK,GfK Consumer Confidence,01:01,Dec,--,-14.0
+GE,GfK Consumer Confidence,08:00,Jan,--,9.7
+FR,PPI YoY,08:45,Nov,--,-1.4%
+FR,Consumer Spending MoM,08:45,Nov,--,0.2%
+EC,ECB Current Account SA,10:00,Oct,--,28.2b
+IT,Economic Sentiment,10:00,Dec,--,99.1
+UK,PSNB ex Banking Groups,10:30,Nov,--,11.2b
+UK,GDP QoQ,10:30,3Q F,--,0.3%
+UK,Current Account Balance,10:30,3Q,--,-25.2b
+US,GDP Annualized QoQ,14:30,3Q T,2.1%,2.1%
+EC,Consumer Confidence,16:00,Dec A,--,-7.2
+US,Personal Spending,16:00,Nov,0.5%,0.3%
+US,U. of Mich. Sentiment,16:00,Dec F,--,--
+US,Kansas City Fed Manf. Activity,17:00,Dec,--,-3.0
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
