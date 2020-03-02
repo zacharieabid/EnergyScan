@@ -1,47 +1,50 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2020-02-24,GE,IFO Business Climate,10:00,Feb,95.2,95.9
-2020-02-24,US,Chicago Fed Nat Activity Index,14:30,Jan,--,-0.4
-2020-02-24,US,Dallas Fed Manf. Activity,16:30,Feb,0.0,-0.2
-2020-02-24,UK,BOE Chief Eco. Haldane Speaks in London,19:30,--,--,--
-2020-02-25,GE,GDP SA QoQ,08:00,4Q F,0.0%,0.0%
-2020-02-25,FR,Business Confidence,08:45,Feb,103.0,104.0
-2020-02-25,UK,CBI Total Dist. Reported Sales,12:00,Feb,10.0,11.0
-2020-02-25,US,FHFA House Price Index MoM,15:00,Dec,0.4%,0.2%
-2020-02-25,US,S&P CoreLogic CS US HPI YoY NSA,15:00,Dec,--,3.5%
-2020-02-25,US,Conf. Board Consumer Confidence,16:00,Feb,132.5,131.6
-2020-02-25,US,Richmond Fed Manufact. Index,16:00,Feb,10.0,20.0
-2020-02-26,JN,Supermarket Sales YoY,06:00,Jan,--,-3.3%
-2020-02-26,FR,Consumer Confidence,08:45,Feb,103.0,104.0
-2020-02-26,EC,ECB  Lagarde Speaks in Wiesbaden,--,--,--,--
-2020-02-26,US,New Home Sales MoM,16:00,Jan,2.3%,-0.4%
-2020-02-26,US,DOE U.S. Crude Oil Inventories,16:30,--,--,415k
-2020-02-27,EC,M3 Money Supply YoY,10:00,Jan,5.3%,5.0%
-2020-02-27,IT,Economic Sentiment,10:00,Feb,--,99.2
-2020-02-27,EC,Economic Confidence,11:00,Feb,102.4,102.8
-2020-02-27,US,GDP Annualized QoQ,14:30,4Q S,2.2%,2.1%
-2020-02-27,US,Cap Goods Orders Nondef Ex Air,14:30,Jan P,--,-0.8%
-2020-02-27,US,Initial Jobless Claims,14:30,--,--,210k
-2020-02-27,US,Bloomberg Consumer Comfort,15:45,--,--,65.6
-2020-02-27,US,Pending Home Sales MoM,16:00,Jan,2.0%,-4.9%
-2020-02-27,US,EIA Natural Gas Storage Change,16:30,--,--,-151.0
-2020-02-27,US,Kansas City Fed Manf. Activity,17:00,Feb,-2.0,-1.0
-2020-02-27,GE,Retail Sales MoM,27-02,Jan,0.6%,-3.3%
-2020-02-28,JN,Tokyo CPI YoY,00:30,Feb,0.5%,0.6%
-2020-02-28,JN,Jobless Rate,00:30,Jan,2.2%,2.2%
-2020-02-28,JN,Retail Sales MoM,00:50,Jan,-0.2%,0.2%
-2020-02-28,JN,Industrial Production MoM,00:50,Jan P,0.2%,1.2%
-2020-02-28,UK,GfK Consumer Confidence,01:01,Feb,-8.0,-9.0
-2020-02-28,JN,Housing Starts YoY,06:00,Jan,-5.3%,-7.9%
-2020-02-28,FR,CPI EU Harmonized YoY,08:45,Feb P,1.7%,1.7%
-2020-02-28,FR,Consumer Spending MoM,08:45,Jan,-0.2%,-0.3%
-2020-02-28,FR,GDP QoQ,08:45,4Q F,-0.1%,-0.1%
-2020-02-28,GE,Unemployment Change (000's),09:55,Feb,5.0k,-2.0k
-2020-02-28,IT,CPI EU Harmonized YoY,11:00,Feb P,--,0.4%
-2020-02-28,GE,CPI EU Harmonized YoY,14:00,Feb P,1.6%,1.6%
-2020-02-28,US,Advance Goods Trade Balance,14:30,Jan,-$68.5b,-$68.3b
-2020-02-28,US,Personal Spending,14:30,Jan,0.3%,0.3%
-2020-02-28,US,PCE Core Deflator YoY,14:30,Jan,1.7%,1.6%
-2020-02-28,US,Fed's Bullard Discusses Eco. and Mon. Policy,15:15,--,--,--
-2020-02-28,US,MNI Chicago PMI,15:45,Feb,46.3,42.9
-2020-02-28,US,U. of Mich. Sentiment,16:00,Feb F,100.7,100.9
-2020-02-28,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2020-03-02,JN,Capital Spending YoY,00:50,4Q,-2.5%,7.1%
+2020-03-02,JN,Jibun Bank Japan PMI Mfg,01:30,Feb F,--,47.6
+2020-03-02,CH,Caixin China PMI Mfg,02:45,Feb,46.0,51.1
+2020-03-02,EC,Markit Eurozone Manuf. PMI,10:00,Feb F,49.1,49.1
+2020-03-02,UK,Markit UK PMI Manufacturing SA,10:30,Feb F,51.9,51.9
+2020-03-02,UK,Mortgage Approvals,10:30,Jan,67.8k,67.2k
+2020-03-02,IT,Deficit to GDP,11:00,2019,--,--
+2020-03-02,IT,GDP Annual YoY,11:00,2019,--,--
+2020-03-02,EC,OECD Publishes Interim Economic Outlook,11:00,--,--,--
+2020-03-02,US,Markit US Manufacturing PMI,15:45,Feb F,50.8,50.8
+2020-03-02,US,Construction Spending MoM,16:00,Jan,0.7%,-0.2%
+2020-03-02,US,ISM Manufacturing,16:00,Feb,50.5,50.9
+2020-03-03,JN,Monetary Base YoY,00:50,Feb,--,2.9%
+2020-03-03,JN,Consumer Confidence Index,06:00,Feb,38.3,39.1
+2020-03-03,EC,PPI YoY,11:00,Jan,-0.5%,-0.7%
+2020-03-03,EC,CPI Estimate YoY,11:00,Feb,1.2%,1.4%
+2020-03-03,US,Fed's Mester to Address UK Prof. Economists,20:50,--,--,--
+2020-03-03,US,Wards Total Vehicle Sales,--,Feb,16.80m,16.84m
+2020-03-03,US,Super Tuesday (Democratic Primaries),--,--,--,--
+2020-03-04,JN,Jibun Bank Japan PMI Services,01:30,Feb F,--,46.7
+2020-03-04,CH,Caixin China PMI Services,02:45,Feb,48.0,51.8
+2020-03-04,GE,Retail Sales MoM,08:00,Jan,0.8%,-3.3%
+2020-03-04,EC,Markit Eurozone Services PMI,10:00,Feb F,52.8,52.8
+2020-03-04,IT,GDP WDA QoQ,10:00,4Q F,-0.3%,-0.3%
+2020-03-04,UK,Markit/CIPS UK Services PMI,10:30,Feb F,53.3,53.3
+2020-03-04,EC,Retail Sales MoM,11:00,Jan,0.6%,-1.6%
+2020-03-04,US,ADP Employment Change,14:15,Feb,170k,291k
+2020-03-04,US,Markit US Services PMI,15:45,Feb F,49.5,49.4
+2020-03-04,CA,Bank of Canada Rate Decision,16:00,,1.75%,1.75%
+2020-03-04,US,ISM Non-Manufacturing Index,16:00,Feb,55.5,55.5
+2020-03-04,US,DOE U.S. Crude Oil Inventories,16:30,--,--,452k
+2020-03-04,US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
+2020-03-05,UK,BOE Chief Economist speaks in Paris,14:00,--,--,--
+2020-03-05,US,Unit Labor Costs,14:30,4Q F,1.5%,1.4%
+2020-03-05,US,Initial Jobless Claims,14:30,--,--,219k
+2020-03-05,US,Bloomberg Consumer Comfort,15:45,--,--,63.5
+2020-03-05,US,Cap Goods Orders Nondef Ex Air,16:00,Jan F,--,1.1%
+2020-03-05,US,EIA Natural Gas Storage Change,16:30,--,--,-143.0
+2020-03-05,UK,BOE's Carney Speaks in London.,18:00,--,--,--
+2020-03-06,JN,Household Spending YoY,00:30,Jan,-3.9%,-4.8%
+2020-03-06,JN,Leading Index CI,06:00,Jan P,91.3,91.6
+2020-03-06,GE,Factory Orders MoM,08:00,Jan,1.5%,-2.1%
+2020-03-06,FR,Current Account Balance,08:45,Jan,--,-0.6b
+2020-03-06,IT,Retail Sales MoM,10:00,Jan,--,0.5%
+2020-03-06,US,Trade Balance,14:30,Jan,-$48.8b,-$48.9b
+2020-03-06,US,Change in Nonfarm Payrolls,14:30,Feb,195k,225k
+2020-03-06,US,Average Hourly Earnings YoY,14:30,Feb,3.0%,3.1%
+2020-03-06,US,Fed Speakers at Shadow Open Market Com.,15:20,--,--,--
+2020-03-06,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
