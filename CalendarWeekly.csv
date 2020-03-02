@@ -1,52 +1,55 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-Monday 24 Feb.,--,--,--,--,--
-GE,IFO Business Climate,10:00,Feb,95.2,95.9
-US,Chicago Fed Nat Activity Index,14:30,Jan,--,-0.4
-US,Dallas Fed Manf. Activity,16:30,Feb,0.0,-0.2
-UK,BOE Chief Eco. Haldane Speaks in London,19:30,--,--,--
-Tuesday 25 Feb.,--,--,--,--,--
-GE,GDP SA QoQ,08:00,4Q F,0.0%,0.0%
-FR,Business Confidence,08:45,Feb,103.0,104.0
-UK,CBI Total Dist. Reported Sales,12:00,Feb,10.0,11.0
-US,FHFA House Price Index MoM,15:00,Dec,0.4%,0.2%
-US,S&P CoreLogic CS US HPI YoY NSA,15:00,Dec,--,3.5%
-US,Conf. Board Consumer Confidence,16:00,Feb,132.5,131.6
-US,Richmond Fed Manufact. Index,16:00,Feb,10.0,20.0
-Wednesday 26 Feb.,--,--,--,--,--
-JN,Supermarket Sales YoY,06:00,Jan,--,-3.3%
-FR,Consumer Confidence,08:45,Feb,103.0,104.0
-EC,ECB  Lagarde Speaks in Wiesbaden,--,--,--,--
-US,New Home Sales MoM,16:00,Jan,2.3%,-0.4%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,415k
-Thursday 27 Feb.,--,--,--,--,--
-EC,M3 Money Supply YoY,10:00,Jan,5.3%,5.0%
-IT,Economic Sentiment,10:00,Feb,--,99.2
-EC,Economic Confidence,11:00,Feb,102.4,102.8
-US,GDP Annualized QoQ,14:30,4Q S,2.2%,2.1%
-US,Cap Goods Orders Nondef Ex Air,14:30,Jan P,--,-0.8%
-US,Initial Jobless Claims,14:30,--,--,210k
-US,Bloomberg Consumer Comfort,15:45,--,--,65.6
-US,Pending Home Sales MoM,16:00,Jan,2.0%,-4.9%
-US,EIA Natural Gas Storage Change,16:30,,--,-151.0
-US,Kansas City Fed Manf. Activity,17:00,Feb,-2.0,-1.0
-GE,Retail Sales MoM,27-02,Jan,0.6%,-3.3%
-Friday 28 Feb.,--,--,--,--,--
-JN,Tokyo CPI YoY,00:30,Feb,0.5%,0.6%
-JN,Jobless Rate,00:30,Jan,2.2%,2.2%
-JN,Retail Sales MoM,00:50,Jan,-0.2%,0.2%
-JN,Industrial Production MoM,00:50,Jan P,0.2%,1.2%
-UK,GfK Consumer Confidence,01:01,Feb,-8.0,-9.0
-JN,Housing Starts YoY,06:00,Jan,-5.3%,-7.9%
-FR,CPI EU Harmonized YoY,08:45,Feb P,1.7%,1.7%
-FR,Consumer Spending MoM,08:45,Jan,-0.2%,-0.3%
-FR,GDP QoQ,08:45,4Q F,-0.1%,-0.1%
-GE,Unemployment Change (000's),09:55,Feb,5.0k,-2.0k
-IT,CPI EU Harmonized YoY,11:00,Feb P,--,0.4%
-GE,CPI EU Harmonized YoY,14:00,Feb P,1.6%,1.6%
-US,Advance Goods Trade Balance,14:30,Jan,-$68.5b,-$68.3b
-US,Personal Spending,14:30,Jan,0.3%,0.3%
-US,PCE Core Deflator YoY,14:30,Jan,1.7%,1.6%
-US,Fed's Bullard Discusses Eco. and Mon. Policy,15:15,--,--,--
-US,MNI Chicago PMI,15:45,Feb,46.3,42.9
-US,U. of Mich. Sentiment,16:00,Feb F,100.7,100.9
+Monday 02 Mar.,--,--,--,--,--
+JN,Capital Spending YoY,00:50,4Q,-2.5%,7.1%
+JN,Jibun Bank Japan PMI Mfg,01:30,Feb F,--,47.6
+CH,Caixin China PMI Mfg,02:45,Feb,46.0,51.1
+EC,Markit Eurozone Manuf. PMI,10:00,Feb F,49.1,49.1
+UK,Markit UK PMI Manufacturing SA,10:30,Feb F,51.9,51.9
+UK,Mortgage Approvals,10:30,Jan,67.8k,67.2k
+IT,Deficit to GDP,11:00,2019,--,--
+IT,GDP Annual YoY,11:00,2019,--,--
+EC,OECD Publishes Interim Economic Outlook,11:00,--,--,--
+US,Markit US Manufacturing PMI,15:45,Feb F,50.8,50.8
+US,Construction Spending MoM,16:00,Jan,0.7%,-0.2%
+US,ISM Manufacturing,16:00,Feb,50.5,50.9
+Tuesday 03 Mar.,--,--,--,--,--
+JN,Monetary Base YoY,00:50,Feb,--,2.9%
+JN,Consumer Confidence Index,06:00,Feb,38.3,39.1
+EC,PPI YoY,11:00,Jan,-0.5%,-0.7%
+EC,CPI Estimate YoY,11:00,Feb,1.2%,1.4%
+US,Fed's Mester to Address UK Prof. Economists,20:50,--,--,--
+US,Wards Total Vehicle Sales,--,Feb,16.80m,16.84m
+US,Super Tuesday (Democratic Primaries),--,--,--,--
+Wednesday 04 Mar.,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,01:30,Feb F,--,46.7
+CH,Caixin China PMI Services,02:45,Feb,48.0,51.8
+GE,Retail Sales MoM,08:00,Jan,0.8%,-3.3%
+EC,Markit Eurozone Services PMI,10:00,Feb F,52.8,52.8
+IT,GDP WDA QoQ,10:00,4Q F,-0.3%,-0.3%
+UK,Markit/CIPS UK Services PMI,10:30,Feb F,53.3,53.3
+EC,Retail Sales MoM,11:00,Jan,0.6%,-1.6%
+US,ADP Employment Change,14:15,Feb,170k,291k
+US,Markit US Services PMI,15:45,Feb F,49.5,49.4
+CA,Bank of Canada Rate Decision,16:00,--,1.75%,1.75%
+US,ISM Non-Manufacturing Index,16:00,Feb,55.5,55.5
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,452k
+US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
+Thursday 05 Mar.,--,--,--,--,--
+UK,BOE Chief Economist speaks in Paris,14:00,--,--,--
+US,Unit Labor Costs,14:30,4Q F,1.5%,1.4%
+US,Initial Jobless Claims,14:30,--,--,219k
+US,Bloomberg Consumer Comfort,15:45,--,--,63.5
+US,Cap Goods Orders Nondef Ex Air,16:00,Jan F,--,1.1%
+US,EIA Natural Gas Storage Change,16:30,--,--,-143.0
+UK,BOE's Carney Speaks in London.,18:00,--,--,--
+Friday 06 Mar.,--,--,--,--,--
+JN,Household Spending YoY,00:30,Jan,-3.9%,-4.8%
+JN,Leading Index CI,06:00,Jan P,91.3,91.6
+GE,Factory Orders MoM,08:00,Jan,1.5%,-2.1%
+FR,Current Account Balance,08:45,Jan,--,-0.6b
+IT,Retail Sales MoM,10:00,Jan,--,0.5%
+US,Trade Balance,14:30,Jan,-$48.8b,-$48.9b
+US,Change in Nonfarm Payrolls,14:30,Feb,195k,225k
+US,Average Hourly Earnings YoY,14:30,Feb,3.0%,3.1%
+US,Fed Speakers at Shadow Open Market Com.,15:20,--,--,--
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
