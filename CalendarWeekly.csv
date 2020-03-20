@@ -1,91 +1,53 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-Saturday 07 Mar.,--,--,--,--,--
-CH,Foreign Reserves,--,Feb,$3109.00b,$3115.50b
-CH,Imports YTD YoY,--,Feb,-16.6%,--
-Monday 09 Mar.,--,--,--,--,--
-JN,BoP Current Account Adjusted,00:50,Jan,¥1664.1b,¥1714.7b
-JN,GDP Annualized SA QoQ,00:50,4Q F,-6.6%,-6.3%
-GE,Trade Balance,08:00,Jan,14.8b,15.2b
-GE,Industrial Production SA MoM,08:00,Jan,1.7%,-3.5%
-FR,Bank of France Ind. Sentiment,08:30,Feb,--,96.0
-EC,Sentix Investor Confidence,10:30,Mar,-11.1,5.2
-Tuesday 10 Mar.,--,--,--,--,--
-JN,Money Stock M2 YoY,00:50,Feb,2.8%,2.8%
-CH,CPI YoY,02:30,Feb,5.2%,5.4%
-JN,Machine Tool Orders YoY,07:00,Feb P,--,-35.6%
-FR,Total Payrolls,07:30,4Q,--,0.2%
-GE,Labor Costs WDA YoY,08:00,4Q,--,3.1%
-FR,Industrial Production MoM,08:45,Jan,1.8%,-2.8%
-IT,Industrial Production MoM,10:00,Jan,1.5%,-2.7%
-US,NFIB Small Business Optimism,11:00,Feb,102.7,104.3
-EC,GDP SA QoQ,11:00,4Q F,0.1%,0.1%
-US,Michigan Primaries,--,--,--,--
-CH,Aggregate Financing CNY,10-15,Feb,1585.8b,5070.0b
-CH,Foreign Direct Investment YoY CNY,10-20,Feb,--,4.0%
-Wednesday 11 Mar.,--,--,--,--,--
-UK,Monthly GDP (MoM),10:30,Jan,0.2%,0.3%
-UK,Industrial Production MoM,10:30,Jan,0.3%,0.1%
-UK,Trade Balance GBP/Mn,10:30,Jan,-£606m,£7715m
-UK,Construction Output MoM,10:30,Jan,0.2%,0.4%
-UK,U.K. Government Announces 2020 Budget,12:30,--,--,--
-US,CPI YoY,13:30,Feb,2.2%,2.5%
-US,DOE U.S. Crude Oil Inventories,15:30,--,--,784k
-Thursday 12 Mar.,--,--,--,--,--
-JN,PPI YoY,00:50,Feb,1.1%,1.7%
-UK,RICS House Price Balance,01:01,Feb,20.0%,17.0%
-EC,Industrial Production SA MoM,11:00,Jan,1.4%,-2.1%
-US,PPI Final Demand YoY,13:30,Feb,1.8%,2.1%
-US,Initial Jobless Claims,13:30,--,--,216k
-EC,ECB Deposit Facility Rate,13:45,--,-0.5%,-0.5%
+Monday 23 Mar.,--,--,--,--,--
+US,Chicago Fed Nat Activity Index,13:30,Feb,--,-0.3
+EC,Consumer Confidence,16:00,Mar A,-14.0,-6.6
+Tuesday 24 Mar.,--,--,--,--,--
+JN,Jibun Bank Japan PMI Mfg,01:30,Mar P,--,47.8
+JN,Jibun Bank Japan PMI Services,01:30,Mar P,--,46.8
+JN,Nationwide Dept Sales YoY,06:30,Feb,--,-3.1%
+JN,Machine Tool Orders YoY,07:00,Feb F,--,-30.1%
+EC,Markit Eurozone Man. PMI,10:00,Mar P,41.0,49.2
+EC,Markit Eurozone Services PMI,10:00,Mar P,43.0,52.6
+UK,Markit UK PMI Manufacturing SA,10:30,Mar P,49.0,51.7
+UK,Markit/CIPS UK Services PMI,10:30,Mar P,48.0,53.2
+UK,CBI Trends Total Orders,12:00,Mar,--,-18.0
+US,Markit US Manufacturing PMI,14:45,Mar P,45.0,50.7
+US,Markit US Services PMI,14:45,Mar P,44.0,49.4
+US,New Home Sales MoM,15:00,Feb,-1.8%,7.9%
+US,Richmond Fed Manufact. Index,15:00,Mar,-4.0,-2.0
+US,Georgia Primaries,--,--,--,--
+Wednesday 25 Mar.,--,--,--,--,--
+GE,IFO Business Climate,10:00,Mar F,--,87.7
+UK,CPI YoY,10:30,Feb,1.7%,1.8%
+UK,PPI Output Core NSA YoY,10:30,Feb,--,0.7%
+UK,House Price Index YoY,10:30,Jan,--,2.2%
+UK,CBI Retailing Reported Sales,12:00,Mar,--,1.0
+US,Cap Goods Orders Nondef Ex Air,13:30,Feb P,-0.4%,1.1%
+US,FHFA House Price Index MoM,14:00,Jan,--,0.6%
+US,DOE U.S. Crude Oil Inventories,15:30,--,--,1954k
+Thursday 26 Mar.,--,--,--,--,--
+GE,GfK Consumer Confidence,08:00,Apr,7.8,9.8
+FR,Business Confidence,08:45,Mar,--,105.0
+EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+EC,M3 Money Supply YoY,10:00,Feb,5.1%,5.2%
+UK,Retail Sales Inc Auto Fuel MoM,10:30,Feb,0.1%,0.9%
+UK,Bank of England Bank Rate,13:00,--,--,0.1%
+UK,BOE Asset Purchase Target,13:00,Apr,--,435b
+US,Advance Goods Trade Balance,13:30,Feb,-$64.2b,-$65.5b
+US,Wholesale Inventories MoM,13:30,Feb P,--,-0.4%
+US,GDP Annualized QoQ,13:30,4Q T,2.1%,2.1%
+US,Initial Jobless Claims,13:30,--,--,281k
 US,Bloomberg Consumer Comfort,14:45,--,--,63.0
-US,EIA Natural Gas Storage Change,15:30,--,--,-109.0
-US,Household Change in Net Worth,17:00,4Q,--,$574b
-Friday 13 Mar.,--,--,--,--,--
-GE,CPI EU Harmonized YoY,08:00,Feb F,1.7%,1.7%
-FR,CPI EU Harmonized YoY,08:45,Feb F,1.6%,1.6%
-US,Import Price Index YoY,13:30,Feb,-1.7%,0.3%
-US,U. of Mich. Sentiment,15:00,Mar P,96.4,101.0
+US,EIA Natural Gas Storage Change,15:30,--,--,-9.0
+US,Kansas City Fed Manf. Activity,16:00,Mar,--,5.0
+Friday 27 Mar.,--,--,--,--,--
+JN,Tokyo CPI YoY,00:30,Mar,0.3%,0.4%
+CH,Industrial Profits YTD YoY,02:30,Feb,--,--
+FR,Consumer Confidence,08:45,Mar,--,104.0
+IT,Economic Sentiment,10:00,Mar,--,99.8
+US,Personal Spending,13:30,Feb,0.3%,0.2%
+US,PCE Core Deflator YoY,13:30,Feb,1.7%,1.6%
+US,U. of Mich. Sentiment,15:00,Mar F,94.0,95.9
 US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
-Monday 16 Mar.,--,--,--,--,--
-JN,Core Machine Orders MoM,00:50,Jan,--,-12.5%
-UK,Rightmove House Prices YoY,01:01,Mar,--,2.9%
-CH,New Home Prices MoM,02:30,Feb,--,0.3%
-CH,Industrial Production YTD YoY,03:00,Feb,-3.0%,5.7%
-CH,Retail Sales YTD YoY,03:00,Feb,-1.7%,8.0%
-CH,Surveyed Jobless Rate,03:00,Feb,--,5.2%
-US,Empire Manufacturing,13:30,Mar,5.1,12.9
-US,Net Long-term TIC Flows,21:00,Jan,--,$85.6b
-Tuesday 17 Mar.,--,--,--,--,--
-JN,Industrial Production MoM,05:30,Jan F,--,0.8%
-UK,Jobless Claims Change,10:30,Feb,--,5.5k
-UK,Weekly Earnings ex Bonus 3M/YoY,10:30,Jan,--,3.2%
-EC,Construction Output MoM,11:00,Jan,--,-3.1%
-GE,ZEW Survey Expectations,11:00,Mar,--,8.7
-US,Retail Sales Control Group,13:30,Feb,--,0.0%
-US,Business Inventories,15:00,Jan,--,0.1%
-US,NAHB Housing Market Index,15:00,Mar,--,74.0
-US,Florida Primaries,--,--,--,--
-Wednesday 18 Mar.,--,--,--,--,--
-JN,Trade Balance Adjusted,00:50,Feb,--,-¥224.1b
-EC,EU27 New Car Registrations,08:00,Feb,--,-7.5%
-EC,Trade Balance SA,11:00,Jan,--,22.2b
-EC,CPI YoY,11:00,Feb F,--,1.2%
-US,Housing Starts MoM,13:30,Feb,--,-3.6%
-US,DOE U.S. Crude Oil Inventories,15:30,--,--,--
-US,FOMC Rate Decision (Upper Bound),19:00,--,1.00%,1.25%
-US,Powell Holds Press Conference,19:30,--,--,--
-Thursday 19 Mar.,--,--,--,--,--
-JN,Natl CPI Ex Fresh Food YoY,00:30,Feb,--,0.8%
-JN,All Industry Activity Index MoM,05:30,Jan,--,0.0%
-US,Current Account Balance,13:30,4Q,--,-$124.1b
-US,Philadelphia Fed Business Outlook,13:30,Mar,--,36.7
-US,Initial Jobless Claims,13:30,--,--,--
-US,Bloomberg Consumer Comfort,14:45,--,--,--
-US,Leading Index,15:00,Feb,--,0.8%
-US,EIA Natural Gas Storage Change,15:30,--,--,--
-Friday 20 Mar.,--,--,--,--,--
-GE,PPI YoY,08:00,Feb,--,0.2%
-EC,ECB Current Account SA,10:00,Jan,--,32.6b
-UK,PSNB ex Banking Groups,10:30,Feb,--,-9.8b
-US,Existing Home Sales MoM,15:00,Feb,--,-1.3%
-US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
+CH,BoP Current Account Balance,--,4Q F,--,$40.1b
