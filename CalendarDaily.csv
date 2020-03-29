@@ -1,48 +1,54 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2020-03-23,US,Chicago Fed Nat Activity Index,13:30,Feb,--,-0.3
-2020-03-23,EC,Consumer Confidence,16:00,Mar A,-14.0,-6.6
-2020-03-24,JN,Jibun Bank Japan PMI Mfg,01:30,Mar P,--,47.8
-2020-03-24,JN,Jibun Bank Japan PMI Services,01:30,Mar P,--,46.8
-2020-03-24,JN,Nationwide Dept Sales YoY,06:30,Feb,--,-3.1%
-2020-03-24,JN,Machine Tool Orders YoY,07:00,Feb F,--,-30.1%
-2020-03-24,EC,Markit Eurozone Man. PMI,10:00,Mar P,41.0,49.2
-2020-03-24,EC,Markit Eurozone Services PMI,10:00,Mar P,43.0,52.6
-2020-03-24,UK,Markit UK PMI Manufacturing SA,10:30,Mar P,49.0,51.7
-2020-03-24,UK,Markit/CIPS UK Services PMI,10:30,Mar P,48.0,53.2
-2020-03-24,UK,CBI Trends Total Orders,12:00,Mar,--,-18.0
-2020-03-24,US,Markit US Manufacturing PMI,14:45,Mar P,45.0,50.7
-2020-03-24,US,Markit US Services PMI,14:45,Mar P,44.0,49.4
-2020-03-24,US,New Home Sales MoM,15:00,Feb,-1.8%,7.9%
-2020-03-24,US,Richmond Fed Manufact. Index,15:00,Mar,-4.0,-2.0
-2020-03-24,US,Georgia Primaries,--,--,--,--
-2020-03-25,GE,IFO Business Climate,10:00,Mar F,--,87.7
-2020-03-25,UK,CPI YoY,10:30,Feb,1.7%,1.8%
-2020-03-25,UK,PPI Output Core NSA YoY,10:30,Feb,--,0.7%
-2020-03-25,UK,House Price Index YoY,10:30,Jan,--,2.2%
-2020-03-25,UK,CBI Retailing Reported Sales,12:00,Mar,--,1.0
-2020-03-25,US,Cap Goods Orders Nondef Ex Air,13:30,Feb P,-0.4%,1.1%
-2020-03-25,US,FHFA House Price Index MoM,14:00,Jan,--,0.6%
-2020-03-25,US,DOE U.S. Crude Oil Inventories,15:30,--,--,1954k
-2020-03-26,GE,GfK Consumer Confidence,08:00,Apr,7.8,9.8
-2020-03-26,FR,Business Confidence,08:45,Mar,--,105.0
-2020-03-26,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-2020-03-26,EC,M3 Money Supply YoY,10:00,Feb,5.1%,5.2%
-2020-03-26,UK,Retail Sales Inc Auto Fuel MoM,10:30,Feb,0.1%,0.9%
-2020-03-26,UK,Bank of England Bank Rate,13:00,--,--,0.1%
-2020-03-26,UK,BOE Asset Purchase Target,13:00,Apr,--,435b
-2020-03-26,US,Advance Goods Trade Balance,13:30,Feb,-$64.2b,-$65.5b
-2020-03-26,US,Wholesale Inventories MoM,13:30,Feb P,--,-0.4%
-2020-03-26,US,GDP Annualized QoQ,13:30,4Q T,2.1%,2.1%
-2020-03-26,US,Initial Jobless Claims,13:30,--,--,281k
-2020-03-26,US,Bloomberg Consumer Comfort,14:45,--,--,63.0
-2020-03-26,US,EIA Natural Gas Storage Change,15:30,--,--,-9.0
-2020-03-26,US,Kansas City Fed Manf. Activity,16:00,Mar,--,5.0
-2020-03-27,JN,Tokyo CPI YoY,00:30,Mar,0.3%,0.4%
-2020-03-27,CH,Industrial Profits YTD YoY,02:30,Feb,--,--
-2020-03-27,FR,Consumer Confidence,08:45,Mar,--,104.0
-2020-03-27,IT,Economic Sentiment,10:00,Mar,--,99.8
-2020-03-27,US,Personal Spending,13:30,Feb,0.3%,0.2%
-2020-03-27,US,PCE Core Deflator YoY,13:30,Feb,1.7%,1.6%
-2020-03-27,US,U. of Mich. Sentiment,15:00,Mar F,94.0,95.9
-2020-03-27,US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
-2020-03-27,CH,BoP Current Account Balance,--,4Q F,--,$40.1b
+2020-03-30,UK,Mortgage Approvals,10:30,Feb,68.2k,70.9k
+2020-03-30,EC,Economic Confidence,11:00,Mar,93.1,103.5
+2020-03-30,GE,CPI EU Harmonized YoY,14:00,Mar P,1.4%,1.7%
+2020-03-30,US,Pending Home Sales MoM,16:00,Feb,-1.8%,5.2%
+2020-03-30,US,Dallas Fed Manf. Activity,16:30,Mar,-9.5,1.2
+2020-03-30,GE,Retail Sales MoM,30-02,Feb,0.2%,0.9%
+2020-03-31,UK,GfK Consumer Confidence,01:01,Mar,-13.0,-7.0
+2020-03-31,JN,Jobless Rate,01:30,Feb,2.4%,2.4%
+2020-03-31,JN,Retail Sales MoM,01:50,Feb,-1.5%,0.6%
+2020-03-31,JN,Industrial Production MoM,01:50,Feb P,0.0%,1.0%
+2020-03-31,CH,Manufacturing PMI,03:00,Mar,44.8,35.7
+2020-03-31,CH,Non-manufacturing PMI,03:00,Mar,42.0,29.6
+2020-03-31,JN,Housing Starts YoY,07:00,Feb,-14.7%,-10.1%
+2020-03-31,UK,GDP QoQ,08:00,4Q F,0.0%,0.0%
+2020-03-31,UK,Current Account Balance,08:00,4Q,-6.0b,-15.9b
+2020-03-31,FR,CPI EU Harmonized YoY,08:45,Mar P,--,1.6%
+2020-03-31,FR,Consumer Spending MoM,08:45,Feb,--,-1.1%
+2020-03-31,GE,Unemployment Change (000's),09:55,Mar,20.0k,-10.0k
+2020-03-31,IT,CPI EU Harmonized YoY,11:00,Mar P,--,0.2%
+2020-03-31,EC,CPI Estimate YoY,11:00,Mar,0.8%,1.2%
+2020-03-31,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jan,3.4%,2.9%
+2020-03-31,US,MNI Chicago PMI,15:45,Mar,44.0,49.0
+2020-03-31,US,Conf. Board Consumer Confidence,16:00,Mar,115.0,130.7
+2020-04-01,JN,Tankan Large Mfg Index,01:50,1Q,-10.0,0.0
+2020-04-01,JN,Jibun Bank Japan PMI Mfg,02:30,Mar F,--,44.8
+2020-04-01,CH,Caixin China PMI Mfg,03:45,Mar,45.0,40.3
+2020-04-01,EC,Markit Eurozone Man. PMI,10:00,Mar F,44.6,44.8
+2020-04-01,UK,Markit UK PMI Manufacturing SA,10:30,Mar F,47.5,48.0
+2020-04-01,EC,Unemployment Rate,11:00,Feb,7.4%,7.4%
+2020-04-01,US,ADP Employment Change,14:15,Mar,-100k,183k
+2020-04-01,US,Markit US Manufacturing PMI,15:45,Mar F,--,49.2
+2020-04-01,US,Construction Spending MoM,16:00,Feb,0.6%,1.8%
+2020-04-01,US,ISM Manufacturing,16:00,Mar,46.0,50.1
+2020-04-01,US,DOE U.S. Crude Oil Inventories,16:30,--,--,1623k
+2020-04-01,US,Wards Total Vehicle Sales,--,Mar,15.20m,16.83m
+2020-04-02,EC,PPI YoY,11:00,Feb,--,-0.5%
+2020-04-02,US,Trade Balance,14:30,Feb,-$43.6b,-$45.3b
+2020-04-02,US,Initial Jobless Claims,14:30,--,--,3283k
+2020-04-02,US,Bloomberg Consumer Comfort,15:45,--,--,59.7
+2020-04-02,US,Cap Goods Orders Nondef Ex Air,16:00,Feb F,--,-0.8%
+2020-04-02,US,EIA Natural Gas Storage Change,16:30,--,--,-29.0
+2020-04-03,JN,Jibun Bank Japan PMI Services,02:30,Mar F,--,32.7
+2020-04-03,CH,Caixin China PMI Services,03:45,Mar,39.5,26.5
+2020-04-03,EC,Markit Eurozone Services PMI,10:00,Mar F,28.2,28.4
+2020-04-03,UK,Markit/CIPS UK Services PMI,10:30,Mar F,35.3,35.7
+2020-04-03,EC,Retail Sales MoM,11:00,Feb,0.2%,0.6%
+2020-04-03,US,Change in Nonfarm Payrolls,14:30,Mar,-61k,273k
+2020-04-03,US,Average Hourly Earnings YoY,14:30,Mar,3.0%,3.0%
+2020-04-03,US,Markit US Services PMI,15:45,Mar F,--,39.1
+2020-04-03,US,ISM Non-Manufacturing Index,16:00,Mar,48.0,57.3
+2020-04-03,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2020-04-03,FR,France Sovereign Debt to be rated by S&P,--,--,--,--
+2020-04-03,GE,Germany Sovereign Debt to be rated by S&P,--,--,--,--
