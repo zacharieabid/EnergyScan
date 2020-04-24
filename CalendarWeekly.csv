@@ -1,51 +1,59 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-Monday 20 Apr.,--,--,--,--,--
-JN,Trade Balance Adjusted,01:50,Mar,-¥88.5b,¥498.3b
-CH,1-Year Loan Prime Rate,03:30,Apr,3.9%,4.1%
-GE,PPI YoY,08:00,Mar,-0.4%,-0.1%
-EC,ECB Current Account SA,10:00,Feb,--,34.7b
-US,Chicago Fed Nat Activity Index,14:30,Mar,-0.6,0.2
-Tuesday 21 Apr.,--,--,--,--,--
-JN,Supermarket Sales YoY,07:00,Mar,--,4.1%
-UK,Jobless Claims Change,08:00,Mar,--,17.3k
-UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Feb,3.0%,3.1%
-GE,ZEW Survey Expectations,11:00,Apr,-51.5,-49.5
-US,Existing Home Sales MoM,16:00,Mar,-6.9%,6.5%
-Wednesday 22 Apr.,--,--,--,--,--
-UK,CPI YoY,08:00,Mar,1.6%,1.7%
-UK,PPI Output NSA YoY,08:00,Mar,0.2%,0.4%
-FR,Business Confidence,08:45,Apr,--,95.0
-IT,Industrial Orders MoM,10:00,Feb,--,1.2%
-EC,Govt Debt/GDP Ratio,11:00,2019,--,85.9%
-US,FHFA House Price Index MoM,15:00,Feb,0.4%,0.3%
-EC,Consumer Confidence,16:00,Apr A,-17.5,-11.6
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,19248k
-Thursday 23 Apr.,--,--,--,--,--
-JN,Jibun Bank Japan PMI Mfg,02:30,Apr P,--,44.8
-JN,Jibun Bank Japan PMI Services,02:30,Apr P,--,33.8
-GE,GfK Consumer Confidence,08:00,May,-2.3,2.7
-UK,Retail Sales Inc Auto Fuel MoM,08:00,Mar,-3.5%,-0.3%
-UK,PSNB ex Banking Groups,08:00,Mar,1.5b,0.3b
-EC,Markit Eurozone Manuf. PMI,10:00,Apr P,40.0,44.5
-EC,Markit Eurozone Services PMI,10:00,Apr P,25.0,26.4
-UK,Markit UK PMI Manufacturing SA,10:30,Apr P,45.0,47.8
-UK,Markit/CIPS UK Services PMI,10:30,Apr P,30.0,34.5
-UK,CBI Trends Total Orders,12:00,Apr,-50.0,-29.0
-US,Initial Jobless Claims,14:30,--,--,5245k
-US,Bloomberg Consumer Comfort,15:45,--,--,44.5
-US,Markit US Manufacturing PMI,15:45,Apr P,38.5,48.5
-US,Markit US Services PMI,15:45,Apr P,32.5,39.8
-US,New Home Sales MoM,16:00,Mar,-15.0%,-4.4%
-US,EIA Natural Gas Storage Change,16:30,--,--,73.0
-US,Kansas City Fed Manf. Activity,17:00,Apr,--,-17.0
-Friday 24 Apr.,--,--,--,--,--
-UK,GfK Consumer Confidence,01:01,Apr P,-35.0,-34.0
-JN,Natl CPI YoY,01:30,Mar,0.4%,0.4%
-JN,All Industry Activity Index MoM,06:30,Feb,-0.5%,0.8%
-JN,Nationwide Dept Sales YoY,07:30,Mar,--,-12.2%
-GE,IFO Business Climate,10:00,Apr,80.0,86.1
-US,Cap Goods Orders Nondef Ex Air,14:30,Mar P,-3.3%,-0.9%
-US,U. of Mich. Sentiment,16:00,Apr F,69.0,71.0
+Monday 27 Apr.,--,--,--,--,--
+CH,Industrial Profits YoY,03:30,Mar,--,--
+FR,Total Jobseekers,12:00,1Q,--,3308.8k
+US,Dallas Fed Manf. Activity,16:30,Apr,-71.5,-70.0
+JN,BOJ Policy Balance Rate,--,--,--,-0.1%
+GE,Retail Sales MoM,27-02,Mar,-5.0%,1.2%
+Tuesday 28 Apr.,--,--,--,--,--
+JN,Jobless Rate,01:30,Mar,2.5%,2.4%
+FR,Consumer Confidence,08:45,Apr,--,103.0
+UK,CBI Total Dist. Reported Sales,12:00,Apr,--,5.0
+US,Advance Goods Trade Balance,14:30,Mar,-$55.0b,-$59.9b
+US,Wholesale Inventories MoM,14:30,Mar P,--,-0.7%
+US,S&P CoreLogic CS 20-City YoY NSA,15:00,Feb,--,3.1%
+US,Conf. Board Consumer Confidence,16:00,Apr,90.0,120.0
+US,Richmond Fed Manufact. Index,16:00,Apr,-35.0,2.0
+Wednesday 29 Apr.,--,--,--,--,--
+EC,M3 Money Supply YoY,10:00,Mar,--,5.5%
+EC,Economic Confidence,11:00,Apr,--,94.5
+GE,CPI EU Harmonized YoY,14:00,Apr P,0.8%,1.3%
+US,GDP Annualized QoQ,14:30,1Q A,-3.7%,2.1%
+US,Pending Home Sales MoM,16:00,Mar,-10.0%,2.4%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,15022k
+US,FOMC Rate Decision (Upper Bound),20:00,--,0.25%,--
+US,Post-FOMC Meeting Press Conference,20:30,--,--,--
+Thursday 30 Apr.,--,--,--,--,--
+JN,Retail Sales MoM,01:50,Mar,-4.3%,0.6%
+JN,Industrial Production MoM,01:50,Mar P,-5.0%,-0.3%
+CH,Manufacturing PMI,03:00,Apr,51.0,52.0
+CH,Non-manufacturing PMI,03:00,Apr,53.0,52.3
+JN,Housing Starts YoY,07:00,Mar,-16.3%,-12.3%
+JN,Consumer Confidence Index,07:00,Apr,31.5,30.9
+FR,GDP QoQ,07:30,1Q P,--,-0.1%
+FR,CPI EU Harmonized YoY,08:45,Apr P,--,0.8%
+FR,PPI YoY,08:45,Mar,--,-0.9%
+FR,Consumer Spending MoM,08:45,Mar,--,-0.1%
+GE,Unemployment Change (000's),09:55,Apr,150.0k,1.0k
+IT,Unemployment Rate,10:00,Mar P,--,9.7%
+EC,Unemployment Rate,11:00,Mar,--,7.3%
+EC,GDP SA QoQ,11:00,1Q A,-4.2%,0.1%
+EC,CPI Estimate YoY,11:00,Apr,--,0.7%
+IT,GDP WDA QoQ,12:00,1Q P,--,-0.3%
+EC,ECB Main Refinancing Rate,13:45,--,--,0.0%
+US,Personal Spending,14:30,Mar,-4.2%,0.2%
+US,Initial Jobless Claims,14:30,--,--,4427k
+US,PCE Core Deflator YoY,14:30,Mar,1.5%,1.8%
+US,MNI Chicago PMI,15:45,Apr,40.0,47.8
+US,Bloomberg Consumer Comfort,15:45,--,--,41.4
+US,EIA Natural Gas Storage Change,16:30,--,--,43.0
+Friday 01 May,--,--,--,--,--
+JN,Tokyo CPI YoY,01:30,Apr,0.2%,0.4%
+JN,Jibun Bank Japan PMI Mfg,02:30,Apr F,--,43.7
+JN,Vehicle Sales YoY,07:00,Apr,--,-10.2%
+UK,Markit UK PMI Manufacturing SA,10:30,Apr F,--,32.9
+UK,Mortgage Approvals,10:30,Mar,--,73.5k
+US,Markit US Manufacturing PMI,15:45,Apr F,--,36.9
+US,ISM Manufacturing,16:00,Apr,37.5,49.1
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-IT,Italy Sovereign Debt to be rated by S&P,--,--,--,--
-UK,UK Sovereign Debt to be rated by S&P,--,--,--,--
+US,Wards Total Vehicle Sales,--,Apr,6.50m,11.37m
