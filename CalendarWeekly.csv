@@ -1,52 +1,90 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-Sunday 31 May,--,--,--,--,--
-CH,Manufacturing PMI,03:00,May,51.0,50.8
-CH,Non-manufacturing PMI,03:00,May,53.5,53.2
-Monday 01 Jun.,--,--,--,--,--
-JN,Jibun Bank Japan PMI Mfg,02:30,May F,--,38.4
-CH,Caixin China PMI Mfg,03:45,May,49.8,49.4
-JN,Vehicle Sales YoY,07:00,May,--,-25.5%
-UK,Markit UK PMI Manufacturing SA,10:30,May F,--,40.6
-US,Markit US Manufacturing PMI,15:45,May F,--,39.8
-US,Construction Spending MoM,16:00,Apr,-5.1%,0.9%
-US,ISM Manufacturing,16:00,May,43.3,41.5
-IT,Budget Balance,--,May,--,-17.9b
-Tuesday 02 Jun.,--,--,--,--,--
-JN,Monetary Base YoY,01:50,May,--,2.3%
-FR,Budget Balance YTD,08:45,Apr,--,-52.5b
-EC,Markit Eurozone Man. PMI,10:00,May F,--,39.5
-UK,Mortgage Approvals,10:30,Apr,--,56.2k
-US,Wards Total Vehicle Sales,--,May,11.20m,8.58m
-Wednesday 03 Jun.,--,--,--,--,--
-JN,Jibun Bank Japan PMI Services,02:30,May F,--,25.3
-CH,Caixin China PMI Services,03:45,May,48.0,44.4
-GE,Unemployment Change (000's),09:55,May,--,373.0k
-IT,Unemployment Rate,10:00,Apr P,--,8.4%
-UK,Markit/CIPS UK Services PMI,10:30,May F,--,27.8
-EC,PPI YoY,11:00,Apr,--,-2.8%
-EC,Unemployment Rate,11:00,Apr,--,7.4%
-US,ADP Employment Change,14:15,May,-9000k,-20236k
-US,Markit US Services PMI,15:45,May F,--,36.9
-CA,Bank of Canada Rate Decision,16:00,--,0.25%,0.25%
-US,ISM Non-Manufacturing Index,16:00,May,44.7,41.8
-US,Cap Goods Orders Nondef Ex Air,16:00,Apr F,--,--
+Sunday 07 Jun.,--,--,--,--,--
+CH,Trade Balance,--,May,$41.40b,$45.34b
+CH,Foreign Reserves,--,May,$3095.50b,$3091.46b
+Monday 08 Jun.,--,--,--,--,--
+JN,GDP SA QoQ,01:50,1Q F,-0.5%,-0.9%
+JN,BoP Current Account Adjusted,01:50,Apr,¥331.6b,¥942.3b
+GE,Industrial Production SA MoM,08:00,Apr,-15.0%,-9.2%
+EC,Sentix Investor Confidence,10:30,Jun,-22.5,-41.8
+EC,ECB's Lagarde in European Parliament Hearing,15:45,--,--,--
+Tuesday 09 Jun.,--,--,--,--,--
+JN,Money Stock M2 YoY,01:50,May,4.0%,3.7%
+GE,Trade Balance,08:00,Apr,--,17.4b
+JN,Machine Tool Orders YoY,08:00,May P,--,-48.3%
+FR,Bank of France Ind. Sentiment,08:30,May,--,48.0
+FR,Trade Balance,08:45,Apr,--,-3343m
+EC,GDP SA QoQ,11:00,1Q F,-3.8%,-3.8%
+US,NFIB Small Business Optimism,12:00,May,91.5,90.9
+Wednesday 10 Jun.,--,--,--,--,--
+JN,PPI YoY,01:50,May,-2.40%,-2.30%
+JN,Core Machine Orders MoM,01:50,Apr,-7.5%,-0.4%
+CH,PPI YoY,03:30,May,-3.2%,-3.1%
+CH,CPI YoY,03:30,May,2.7%,3.3%
+FR,Industrial Production MoM,08:45,Apr,-19.0%,-16.2%
+EC,OECD Publishes Economic Outlook,11:00,--,--,--
+US,CPI YoY,14:30,May,0.3%,0.3%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-2077k
+US,FOMC Rate Decision (Upper Bound),20:00,--,0.25%,0.25%
+CH,Aggregate Financing CNY,10-15,May,3150.0b,3090.0b
+Thursday 11 Jun.,--,--,--,--,--
+IT,Industrial Production MoM,10:00,Apr,-14.6%,-28.4%
+US,PPI Final Demand YoY,14:30,May,-1.2%,-1.2%
+US,Initial Jobless Claims,14:30,--,--,1877k
+US,Bloomberg Consumer Comfort,15:45,--,--,37.0
+US,EIA Natural Gas Storage Change,16:30,--,--,102.0
+Friday 12 Jun.,--,--,--,--,--
+JN,Industrial Production MoM,06:30,Apr F,--,-9.1%
+UK,Monthly GDP (MoM),08:00,Apr,-18.0%,-5.8%
+UK,Industrial Production MoM,08:00,Apr,-14.3%,-4.2%
+UK,Trade Balance GBP/Mn,08:00,Apr,-£6700m,-£6676m
+FR,CPI EU Harmonized YoY,08:45,May F,0.2%,0.2%
+EC,Industrial Production SA MoM,11:00,Apr,-18.0%,-11.3%
+US,Import Price Index YoY,14:30,May,-6.5%,-6.8%
+US,U. of Mich. Sentiment,16:00,Jun P,76.0,72.3
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+Monday 15 Jun.,--,--,--,--,--
+CH,New Home Prices MoM,03:30,May,--,0.4%
+CH,Industrial Production YoY,04:00,May,5.0%,3.9%
+CH,Retail Sales YoY,04:00,May,-2.5%,-7.5%
+CH,Surveyed Jobless Rate,04:00,May,5.9%,6.0%
+EC,Trade Balance SA,11:00,Apr,--,23.5b
+US,Empire Manufacturing,14:30,Jun,--,-48.5
+US,Net Long-term TIC Flows,22:00,Apr,--,-$112.6b
+Tuesday 16 Jun.,--,--,--,--,--
+UK,Jobless Claims Change,08:00,May,--,856.5k
+GE,CPI EU Harmonized YoY,08:00,May F,--,0.5%
+GE,ZEW Survey Expectations,11:00,Jun,--,51.0
+US,Retail Sales Control Group,14:30,May,--,-15.3%
+US,Industrial Production MoM,15:15,May,-2.0%,-11.2%
+US,Business Inventories,16:00,Apr,--,-0.2%
+US,NAHB Housing Market Index,16:00,Jun,--,37.0
+JN,BOJ Policy Balance Rate,--,--,--,-0.1%
+Wednesday 17 Jun.,--,--,--,--,--
+JN,Trade Balance Adjusted,01:50,May,--,-¥996.3b
+UK,CPIH YoY,08:00,May,--,0.9%
+UK,PPI Output NSA YoY,08:00,May,--,-0.7%
+EC,EU27 New Car Registrations,08:00,May,--,-76.3%
+EC,Construction Output MoM,11:00,Apr,--,-14.1%
+EC,CPI YoY,11:00,May F,--,0.3%
+US,Building Permits MoM,14:30,May,5.5%,-20.8%
+US,Housing Starts MoM,14:30,May,14.5%,-30.2%
 US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
-Thursday 04 Jun.,--,--,--,--,--
-EC,Markit Eurozone Services PMI,10:00,May F,--,28.7
-EC,Retail Sales MoM,11:00,Apr,--,-11.2%
-EC,ECB Main Refinancing Rate,13:45,--,--,0.0%
-EC,ECB President Lagarde Holds Press Conference,14:30,--,--,--
-US,Trade Balance,14:30,Apr,-$42.0b,-$44.4b
-US,Unit Labor Costs,14:30,1Q F,4.8%,4.8%
+Thursday 18 Jun.,--,--,--,--,--
+EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+UK,Bank of England Bank Rate,13:00,--,--,0.1%
+US,Philadelphia Fed Business Outlook,14:30,Jun,--,-43.1
 US,Initial Jobless Claims,14:30,--,--,--
 US,Bloomberg Consumer Comfort,15:45,--,--,--
+US,Leading Index,16:00,May,--,-4.4%
 US,EIA Natural Gas Storage Change,16:30,--,--,--
-Friday 05 Jun.,--,--,--,--,--
-JN,Household Spending YoY,01:30,Apr,--,-6.0%
-JN,Leading Index CI,07:00,Apr P,--,84.7
-GE,Factory Orders MoM,08:00,Apr,--,-15.6%
-IT,Retail Sales MoM,10:00,Apr,--,-20.5%
-US,Change in Nonfarm Payrolls,14:30,May,-8000k,-20537k
-US,Unemployment Rate,14:30,May,19.7%,14.7%
+JN,Nationwide Dept Sales YoY,18-23,May,--,-72.8%
+Friday 19 Jun.,--,--,--,--,--
+JN,Natl CPI YoY,01:30,May,--,0.1%
+JN,BOJ Minutes of April Meeting,01:50,--,--,--
+UK,Retail Sales Inc Auto Fuel MoM,08:00,May,--,-18.1%
+UK,PSNB ex Banking Groups,08:00,May,--,62.1b
+GE,PPI YoY,08:00,May,--,-1.9%
+EC,ECB Current Account SA,10:00,Apr,--,27.4b
+US,Current Account Balance,14:30,1Q,--,-$109.8b
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-US,Consumer Credit,21:00,Apr,-$15.000b,-$12.044b
