@@ -1,90 +1,127 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-Sunday 07 Jun.,--,--,--,--,--
-CH,Trade Balance,--,May,$41.40b,$45.34b
-CH,Foreign Reserves,--,May,$3095.50b,$3091.46b
-Monday 08 Jun.,--,--,--,--,--
-JN,GDP SA QoQ,01:50,1Q F,-0.5%,-0.9%
-JN,BoP Current Account Adjusted,01:50,Apr,¥331.6b,¥942.3b
-GE,Industrial Production SA MoM,08:00,Apr,-15.0%,-9.2%
-EC,Sentix Investor Confidence,10:30,Jun,-22.5,-41.8
-EC,ECB's Lagarde in European Parliament Hearing,15:45,--,--,--
-Tuesday 09 Jun.,--,--,--,--,--
-JN,Money Stock M2 YoY,01:50,May,4.0%,3.7%
-GE,Trade Balance,08:00,Apr,--,17.4b
-JN,Machine Tool Orders YoY,08:00,May P,--,-48.3%
-FR,Bank of France Ind. Sentiment,08:30,May,--,48.0
-FR,Trade Balance,08:45,Apr,--,-3343m
-EC,GDP SA QoQ,11:00,1Q F,-3.8%,-3.8%
-US,NFIB Small Business Optimism,12:00,May,91.5,90.9
-Wednesday 10 Jun.,--,--,--,--,--
-JN,PPI YoY,01:50,May,-2.40%,-2.30%
-JN,Core Machine Orders MoM,01:50,Apr,-7.5%,-0.4%
-CH,PPI YoY,03:30,May,-3.2%,-3.1%
-CH,CPI YoY,03:30,May,2.7%,3.3%
-FR,Industrial Production MoM,08:45,Apr,-19.0%,-16.2%
-EC,OECD Publishes Economic Outlook,11:00,--,--,--
-US,CPI YoY,14:30,May,0.3%,0.3%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-2077k
-US,FOMC Rate Decision (Upper Bound),20:00,--,0.25%,0.25%
-CH,Aggregate Financing CNY,10-15,May,3150.0b,3090.0b
-Thursday 11 Jun.,--,--,--,--,--
-IT,Industrial Production MoM,10:00,Apr,-14.6%,-28.4%
-US,PPI Final Demand YoY,14:30,May,-1.2%,-1.2%
-US,Initial Jobless Claims,14:30,--,--,1877k
-US,Bloomberg Consumer Comfort,15:45,--,--,37.0
-US,EIA Natural Gas Storage Change,16:30,--,--,102.0
-Friday 12 Jun.,--,--,--,--,--
-JN,Industrial Production MoM,06:30,Apr F,--,-9.1%
-UK,Monthly GDP (MoM),08:00,Apr,-18.0%,-5.8%
-UK,Industrial Production MoM,08:00,Apr,-14.3%,-4.2%
-UK,Trade Balance GBP/Mn,08:00,Apr,-£6700m,-£6676m
-FR,CPI EU Harmonized YoY,08:45,May F,0.2%,0.2%
-EC,Industrial Production SA MoM,11:00,Apr,-18.0%,-11.3%
-US,Import Price Index YoY,14:30,May,-6.5%,-6.8%
-US,U. of Mich. Sentiment,16:00,Jun P,76.0,72.3
+Monday 22 Jun.,--,--,--,--,--
+UK,CBI Trends Total Orders,12:00,Jun,-50.0,-62.0
+US,Chicago Fed Nat Activity Index,14:30,May,--,-16.7
+EC,Consumer Confidence,16:00,Jun A,-14.5,-18.8
+US,Existing Home Sales MoM,16:00,May,-4.2%,-17.8%
+Tuesday 23 Jun.,--,--,--,--,--
+JN,Jibun Bank Japan PMI Mfg,02:30,Jun P,--,38.4
+JN,Jibun Bank Japan PMI Services,02:30,Jun P,--,26.5
+JN,Nationwide Dept Sales YoY,07:30,May,--,-72.8%
+EC,Markit Eurozone Man. PMI,10:00,Jun P,43.2,39.4
+EC,Markit Eurozone Services PMI,10:00,Jun P,40.0,30.5
+UK,Markit UK PMI Manufacturing SA,10:30,Jun P,45.5,40.7
+UK,Markit/CIPS UK Services PMI,10:30,Jun P,39.5,29.0
+US,Markit US Manufacturing PMI,15:45,Jun P,47.8,39.8
+US,Markit US Services PMI,15:45,Jun P,44.8,37.5
+US,New Home Sales MoM,16:00,May,1.1%,0.6%
+US,Richmond Fed Manufact. Index,16:00,Jun,-11.0,-27.0
+Wednesday 24 Jun.,--,--,--,--,--
+JN,BOJ Summary of Opinions,01:50,--,--,--
+FR,Business Confidence,08:45,Jun,80.0,59.0
+GE,IFO Business Climate,10:00,Jun,85.0,79.5
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,1215k
+Thursday 25 Jun.,--,--,--,--,--
+JN,All Industry Activity Index MoM,06:30,Apr,-6.6%,-3.8%
+GE,GfK Consumer Confidence,08:00,Jul,-12.0,-18.9
+UK,CBI Retailing Reported Sales,12:00,Jun,--,-50.0
+US,Advance Goods Trade Balance,14:30,May,-$68.3b,-$69.7b
+US,Wholesale Inventories MoM,14:30,May P,--,0.3%
+US,GDP Annualized QoQ,14:30,1Q T,-5.0%,-5.0%
+US,Cap Goods Orders Nondef Ex Air,14:30,May P,--,-6.1%
+US,Initial Jobless Claims,14:30,--,--,1508k
+US,Bloomberg Consumer Comfort,15:45,--,--,40.2
+US,EIA Natural Gas Storage Change,16:30,--,--,85.0
+US,Kansas City Fed Manf. Activity,17:00,Jun,-10.0,-19.0
+Friday 26 Jun.,--,--,--,--,--
+JN,Tokyo CPI YoY,01:30,Jun,0.3%,0.4%
+FR,Consumer Confidence,08:45,Jun,95.0,93.0
+EC,M3 Money Supply YoY,--,--,--,--
+IT,Economic Sentiment,11:00,Jun,--,51.1
+US,Personal Spending,14:30,May,8.7%,-13.6%
+US,U. of Mich. Sentiment,16:00,Jun F,78.9,78.9
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-Monday 15 Jun.,--,--,--,--,--
-CH,New Home Prices MoM,03:30,May,--,0.4%
-CH,Industrial Production YoY,04:00,May,5.0%,3.9%
-CH,Retail Sales YoY,04:00,May,-2.5%,-7.5%
-CH,Surveyed Jobless Rate,04:00,May,5.9%,6.0%
-EC,Trade Balance SA,11:00,Apr,--,23.5b
-US,Empire Manufacturing,14:30,Jun,--,-48.5
-US,Net Long-term TIC Flows,22:00,Apr,--,-$112.6b
-Tuesday 16 Jun.,--,--,--,--,--
-UK,Jobless Claims Change,08:00,May,--,856.5k
-GE,CPI EU Harmonized YoY,08:00,May F,--,0.5%
-GE,ZEW Survey Expectations,11:00,Jun,--,51.0
-US,Retail Sales Control Group,14:30,May,--,-15.3%
-US,Industrial Production MoM,15:15,May,-2.0%,-11.2%
-US,Business Inventories,16:00,Apr,--,-0.2%
-US,NAHB Housing Market Index,16:00,Jun,--,37.0
-JN,BOJ Policy Balance Rate,--,--,--,-0.1%
-Wednesday 17 Jun.,--,--,--,--,--
-JN,Trade Balance Adjusted,01:50,May,--,-¥996.3b
-UK,CPIH YoY,08:00,May,--,0.9%
-UK,PPI Output NSA YoY,08:00,May,--,-0.7%
-EC,EU27 New Car Registrations,08:00,May,--,-76.3%
-EC,Construction Output MoM,11:00,Apr,--,-14.1%
-EC,CPI YoY,11:00,May F,--,0.3%
-US,Building Permits MoM,14:30,May,5.5%,-20.8%
-US,Housing Starts MoM,14:30,May,14.5%,-30.2%
+Sunday 28 Jun.,--,--,--,--,--
+GE,Retail Sales MoM,27-02,May,2.5%,-5.3%
+CH,Industrial Profits YoY,03:30,May,--,-4.3%
+Monday 29 Jun.,--,--,--,--,--
+JN,Retail Sales MoM,01:50,May,--,-9.6%
+UK,Mortgage Approvals,10:30,May,--,15.8k
+EC,Economic Confidence,11:00,Jun,--,67.5
+GE,CPI EU Harmonized YoY,14:00,Jun P,--,0.5%
+US,Pending Home Sales MoM,16:00,May,--,-21.8%
+US,Dallas Fed Manf. Activity,16:30,Jun,--,-49.2
+Tuesday 30 Jun.,--,--,--,--,--
+UK,GfK Consumer Confidence,01:01,Jun F,--,-30.0
+JN,Jobless Rate,01:30,May,--,2.6%
+JN,Industrial Production MoM,01:50,May P,--,-9.8%
+CH,Manufacturing PMI,03:00,Jun,--,50.6
+CH,Non-manufacturing PMI,03:00,Jun,--,53.6
+JN,Housing Starts YoY,07:00,May,--,-12.9%
+UK,GDP QoQ,08:00,1Q F,--,-2.0%
+FR,CPI EU Harmonized YoY,08:45,Jun P,--,0.4%
+FR,Consumer Spending MoM,08:45,May,--,-20.2%
+EC,CPI Estimate YoY,11:00,Jun,--,0.1%
+US,S&P CoreLogic CS 20-City YoY NSA,15:00,Apr,--,3.9%
+US,MNI Chicago PMI,15:45,Jun,--,32.3
+US,Conf. Board Consumer Confidence,16:00,Jun,90.0,86.6
+Wednesday 01 Jul.,--,--,--,--,--
+JN,Tankan Large Mfg Index,01:50,2Q,-31.0,-8.0
+JN,Jibun Bank Japan PMI Mfg,02:30,Jun F,--,--
+CH,Caixin China PMI Mfg,03:45,Jun,--,50.7
+JN,Vehicle Sales YoY,07:00,Jun,--,-40.2%
+JN,Consumer Confidence Index,07:00,Jun,--,24.0
+GE,Unemployment Change (000's),09:55,Jun,--,238.0k
+EC,Markit Eurozone Man. PMI,10:00,Jun F,--,--
+UK,Markit UK PMI Manufacturing SA,10:30,Jun F,--,--
+US,ADP Employment Change,14:15,Jun,--,-2760k
+US,Markit US Manufacturing PMI,15:45,Jun F,--,--
+US,Construction Spending MoM,16:00,May,0.5%,-2.9%
+US,ISM Manufacturing,16:00,Jun,45.9,43.1
 US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
-Thursday 18 Jun.,--,--,--,--,--
-EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-UK,Bank of England Bank Rate,13:00,--,--,0.1%
-US,Philadelphia Fed Business Outlook,14:30,Jun,--,-43.1
+US,FOMC Meeting Minutes,20:00,--,--,--
+US,Wards Total Vehicle Sales,--,Jun,13.00m,12.21m
+Thursday 02 Jul.,--,--,--,--,--
+JN,Monetary Base YoY,01:50,Jun,--,3.9%
+EC,Unemployment Rate,11:00,May,--,7.3%
+US,Trade Balance,14:30,May,-$46.8b,-$49.4b
+US,Change in Nonfarm Payrolls,14:30,Jun,3000k,2509k
 US,Initial Jobless Claims,14:30,--,--,--
 US,Bloomberg Consumer Comfort,15:45,--,--,--
-US,Leading Index,16:00,May,--,-4.4%
 US,EIA Natural Gas Storage Change,16:30,--,--,--
-JN,Nationwide Dept Sales YoY,18-23,May,--,-72.8%
-Friday 19 Jun.,--,--,--,--,--
-JN,Natl CPI YoY,01:30,May,--,0.1%
-JN,BOJ Minutes of April Meeting,01:50,--,--,--
-UK,Retail Sales Inc Auto Fuel MoM,08:00,May,--,-18.1%
-UK,PSNB ex Banking Groups,08:00,May,--,62.1b
-GE,PPI YoY,08:00,May,--,-1.9%
-EC,ECB Current Account SA,10:00,Apr,--,27.4b
-US,Current Account Balance,14:30,1Q,--,-$109.8b
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+Friday 03 Jul.,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,02:30,Jun F,--,--
+CH,Caixin China PMI Services,03:45,Jun,--,55.0
+EC,Markit Eurozone Services PMI,10:00,Jun F,--,--
+UK,Markit/CIPS UK Services PMI,10:30,Jun F,--,--
+Monday 06 Jul,--,--,--,--,--
+GE,Factory Orders MoM,08:00,May,--,-25.8%
+UK,New Car Registrations YoY,10:00,Jun,--,-89.0%
+EC,Sentix Investor Confidence,10:30,Jul,--,-24.8
+EC,Retail Sales MoM,11:00,May,--,-11.7%
+US,Markit US Services PMI,15:45,Jun F,--,--
+US,ISM Non-Manufacturing Index,16:00,Jun,--,45.4
+Tuesday 07 Jul,--,--,--,--,--
+JN,Household Spending YoY,01:30,May,--,-11.1%
+JN,Leading Index CI,07:00,May P,--,--
+GE,Industrial Production SA MoM,08:00,May,--,-17.9%
+FR,Current Account Balance,08:45,May,--,-5.4b
+CH,Foreign Reserves,--,--,--,$3101.69b
+Wednesday 08 Jul,--,--,--,--,--
+JN,BoP Current Account Adjusted,01:50,May,--,¥252.4b
+FR,Bank of France Ind. Sentiment,08:30,Jun,62.0,83.0
+US,Consumer Credit,21:00,May,--,-$68.779b
+Thursday 09 Jul.,--,--,--,--,--
+JN,Money Stock M2 YoY,01:50,Jun,--,5.1%
+JN,Core Machine Orders MoM,01:50,May,--,-12.0%
+CH,CPI YoY,03:30,Jun,--,2.4%
+GE,Trade Balance,08:00,May,--,3.5b
+US,Initial Jobless Claims,14:30,--,--,--
+US,Bloomberg Consumer Comfort,15:45,--,--,--
+US,EIA Natural Gas Storage Change,16:30,--,--,--
+Friday 10 Jul.,--,--,--,--,--
+FR,Industrial Production MoM,08:45,May,--,-20.1%
+US,PPI Final Demand YoY,14:30,Jun,--,-0.8%
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+IT,Italy Sovereign Debt to be rated by Fitch,--,--,--,--
