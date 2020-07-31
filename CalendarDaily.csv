@@ -1,48 +1,87 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2020-07-27,CH,Industrial Profits YoY,03:30,Jun,--,6.0%
-2020-07-27,JN,All Industry Activity Index MoM,06:30,May,-3.5%,-6.4%
-2020-07-27,EC,M3 Money Supply YoY,10:00,Jun,--,8.9%
-2020-07-27,GE,IFO Business Climate,10:00,Jul,89.2,86.2
-2020-07-27,FR,Total Jobseekers,12:00,2Q,--,3333.8k
-2020-07-27,US,Cap Goods Orders Nondef Ex Air,14:30,Jun P,2.3%,1.6%
-2020-07-27,US,Dallas Fed Manf. Activity,16:30,Jul,-4.8,-6.1
-2020-07-27,GE,Retail Sales MoM,27-02,Jun,-3.0%,13.9%
-2020-07-28,UK,CBI Retailing Reported Sales,12:00,Jul,-27.0,-37.0
-2020-07-28,US,S&P CoreLogic CS 20-City YoY NSA,15:00,May,--,4.0%
-2020-07-28,US,Conf. Board Consumer Confidence,16:00,Jul,94.8,98.1
-2020-07-28,US,Richmond Fed Manufact. Index,16:00,Jul,--,0.0
-2020-07-29,FR,Consumer Confidence,08:45,Jul,98.0,97.0
-2020-07-29,UK,Mortgage Approvals,10:30,Jun,--,9.3k
-2020-07-29,US,Advance Goods Trade Balance,14:30,Jun,-$74.2b,-$74.3b
-2020-07-29,US,Pending Home Sales MoM,16:00,Jun,15.6%,44.3%
-2020-07-29,US,DOE U.S. Crude Oil Inventories,16:30,--,--,4892k
-2020-07-29,US,FOMC Rate Decision (Upper Bound),20:00,--,0.25%,0.25%
-2020-07-29,US,Powell Holds post meeting Press Conference,20:30,--,--,--
-2020-07-30,JN,Retail Sales MoM,01:50,Jun,8.0%,2.1%
-2020-07-30,GE,GDP SA QoQ,08:00,2Q P,-8.5%,-2.2%
-2020-07-30,GE,Unemployment Change (000's),09:55,Jul,60.0k,69.0k
-2020-07-30,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-2020-07-30,IT,Unemployment Rate,10:00,Jun P,--,7.8%
-2020-07-30,EC,Economic Confidence,11:00,Jul,82.0,75.7
-2020-07-30,EC,Unemployment Rate,11:00,Jun,7.6%,7.4%
-2020-07-30,GE,CPI EU Harmonized YoY,14:00,Jul P,0.7%,0.8%
-2020-07-30,US,GDP Annualized QoQ,14:30,2Q A,-34.0%,-5.0%
-2020-07-30,US,Initial Jobless Claims,14:30,--,--,1416k
-2020-07-30,US,Bloomberg Consumer Comfort,15:45,--,--,44.7
-2020-07-30,US,EIA Natural Gas Storage Change,16:30,--,--,37.0
-2020-07-31,JN,Jobless Rate,01:30,Jun,3.0%,2.9%
-2020-07-31,JN,Industrial Production MoM,01:50,Jun P,0.9%,-8.9%
-2020-07-31,CH,Manufacturing PMI,03:00,Jul,50.8,50.9
-2020-07-31,CH,Non-manufacturing PMI,03:00,Jul,54.5,54.4
-2020-07-31,JN,Vehicle Production YoY,06:00,May,--,-46.1%
-2020-07-31,JN,Housing Starts YoY,07:00,Jun,-12.6%,-12.3%
-2020-07-31,FR,GDP QoQ,07:30,2Q P,-15.6%,-5.3%
-2020-07-31,FR,CPI EU Harmonized YoY,08:45,Jul P,0.2%,0.2%
-2020-07-31,FR,Consumer Spending MoM,08:45,Jun,--,36.6%
-2020-07-31,IT,GDP WDA QoQ,10:00,2Q P,-13.3%,-5.3%
-2020-07-31,EC,GDP SA QoQ,11:00,2Q A,-10.7%,-3.6%
-2020-07-31,EC,CPI Estimate YoY,11:00,Jul,0.3%,0.3%
-2020-07-31,US,Personal Spending,14:30,Jun,5.5%,8.2%
-2020-07-31,US,MNI Chicago PMI,15:45,Jul,43.9,36.6
-2020-07-31,US,U. of Mich. Sentiment,16:00,Jul F,72.7,73.2
-2020-07-31,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2020-08-03,JN,GDP SA QoQ,01:50,1Q F,-0.7%,-0.6%
+2020-08-03,JN,Jibun Bank Japan PMI Mfg,02:30,Jul F,--,42.6
+2020-08-03,CH,Caixin China PMI Mfg,03:45,Jul,51.1,51.2
+2020-08-03,JN,Vehicle Sales YoY,07:00,Jul,--,-26.0%
+2020-08-03,EC,Markit Eurozone Manuf PMI,10:00,Jul F,--,51.1
+2020-08-03,UK,Markit UK PMI Manufacturing SA,10:30,Jul F,53.6,53.6
+2020-08-03,US,Markit US Manufacturing PMI,15:45,Jul F,51.3,51.3
+2020-08-03,US,ISM Manufacturing,16:00,Jul,53.6,52.6
+2020-08-03,US,Construction Spending MoM,16:00,Jun,1.0%,-2.1%
+2020-08-03,US,Fed’s Bullard on Economy,18:30,--,--,--
+2020-08-03,US,Fed's Barkin to Speak on Economy,19:00,--,--,--
+2020-08-03,US,Fed’s Evans on the Economic Outlook,20:00,--,--,--
+2020-08-03,US,Wards Total Vehicle Sales,--,Jul,14.00m,13.05m
+2020-08-04,JN,Tokyo CPI YoY,01:30,Jul,0.3%,0.3%
+2020-08-04,JN,Monetary Base YoY,01:50,Jul,--,6.0%
+2020-08-04,FR,Budget Balance YTD,08:45,Jun,--,-117.9b
+2020-08-04,EC,PPI YoY,11:00,Jun,--,-5.0%
+2020-08-04,US,Cap Goods Orders Nondef Ex Air,16:00,Jun F,--,3.3%
+2020-08-05,JN,Jibun Bank Japan PMI Services,02:30,Jul F,--,45.2
+2020-08-05,CH,Caixin China PMI Services,03:45,Jul,57.9,58.4
+2020-08-05,EC,Markit Eurozone Services PMI,10:00,Jul F,--,55.1
+2020-08-05,UK,Markit/CIPS UK Services PMI,10:30,Jul F,56.6,56.6
+2020-08-05,EC,Retail Sales MoM,11:00,Jun,8.4%,17.8%
+2020-08-05,US,ADP Employment Change,14:15,Jul,1200k,2369k
+2020-08-05,US,Trade Balance,14:30,Jun,-$50.3b,-$54.6b
+2020-08-05,US,Markit US Services PMI,15:45,Jul F,--,49.6
+2020-08-05,US,ISM Non-Manufacturing Index,16:00,Jul,55.0,57.1
+2020-08-05,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-10611k
+2020-08-05,US,Fed’s Mester Discusses the Economic Outlook,23:00,--,--,--
+2020-08-06,GE,Factory Orders MoM,08:00,Jun,12.3%,10.4%
+2020-08-06,IT,Industrial Production MoM,10:00,Jun,--,42.1%
+2020-08-06,UK,Bank of England Bank Rate,13:00,--,0.1%,0.1%
+2020-08-06,UK,BOE Governor Speaks at Press Conference ,13:30,--,--,--
+2020-08-06,US,Initial Jobless Claims,14:30,--,--,1434k
+2020-08-06,US,Bloomberg Consumer Comfort,15:45,--,--,44.3
+2020-08-06,US,EIA Natural Gas Storage Change,16:30,--,--,26.0
+2020-08-07,JN,Household Spending YoY,01:30,Jun,-7.9%,-16.2%
+2020-08-07,JN,Leading Index CI,07:00,Jun P,84.8,78.4
+2020-08-07,GE,Trade Balance,08:00,Jun,--,7.1b
+2020-08-07,GE,Industrial Production SA MoM,08:00,Jun,7.2%,7.8%
+2020-08-07,FR,Industrial Production MoM,08:45,Jun,--,19.6%
+2020-08-07,FR,Trade Balance,08:45,Jun,--,-7051m
+2020-08-07,US,Change in Nonfarm Payrolls,14:30,Jul,1635k,4800k
+2020-08-07,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2020-08-07,CH,Exports YoY,--,Jul,-1.2%,0.5%
+2020-08-07,CH,Foreign Reserves,--,Jul,$3127.00b,$3112.33b
+2020-08-10,CH,PPI YoY,03:30,Jul,--,-3.0%
+2020-08-10,CH,CPI YoY,03:30,Jul,--,2.5%
+2020-08-10,FR,Bank of France Ind. Sentiment,08:30,Jul,--,89.0
+2020-08-10,EC,Sentix Investor Confidence,10:30,Aug,--,-18.2
+2020-08-10,CH,Aggregate Financing CNY,10-15,Jul,--,3430.0b
+2020-08-11,JN,BoP Current Account Adjusted,01:50,Jun,--,¥821.1b
+2020-08-11,UK,Jobless Claims Change,08:00,Jul,--,-28.1k
+2020-08-11,GE,ZEW Survey Expectations,11:00,Aug,--,59.3
+2020-08-11,US,NFIB Small Business Optimism,12:00,Jul,--,100.6
+2020-08-11,US,PPI Final Demand YoY,14:30,Jul,--,-0.8%
+2020-08-12,JN,Money Stock M2 YoY,01:50,Jul,--,7.2%
+2020-08-12,UK,Monthly GDP (MoM),08:00,Jun,--,1.8%
+2020-08-12,UK,Industrial Production MoM,08:00,Jun,--,6.0%
+2020-08-12,UK,Trade Balance GBP/Mn,08:00,Jun,--,£4296m
+2020-08-12,JN,Machine Tool Orders YoY,08:00,Jul P,--,-32.1%
+2020-08-12,UK,GDP QoQ,08:00,2Q P,--,-2.2%
+2020-08-12,EC,Industrial Production SA MoM,11:00,Jun,--,12.4%
+2020-08-12,US,CPI YoY,14:30,Jul,--,0.6%
+2020-08-12,US,DOE U.S. Crude Oil Inventories,16:30,--,,--
+2020-08-13,JN,PPI YoY,01:50,Jul,--,-1.6%
+2020-08-13,FR,ILO Unemployment Rate,07:30,2Q,--,7.8%
+2020-08-13,GE,CPI EU Harmonized YoY,08:00,Jul F,--,0.0%
+2020-08-13,US,Import Price Index YoY,14:30,Jul,--,-3.8%
+2020-08-13,US,Initial Jobless Claims,14:30,--,--,--
+2020-08-13,US,Bloomberg Consumer Comfort,15:45,--,--,--
+2020-08-13,US,EIA Natural Gas Storage Change,16:30,--,--,--
+2020-08-14,CH,New Home Prices MoM,03:30,Jul,--,0.6%
+2020-08-14,CH,Industrial Production YoY,04:00,Jul,--,4.8%
+2020-08-14,CH,Retail Sales YoY,04:00,Jul,--,-1.8%
+2020-08-14,CH,Surveyed Jobless Rate,04:00,Jul,--,5.7%
+2020-08-14,FR,CPI EU Harmonized YoY,08:45,Jul F,--,--
+2020-08-14,EC,Trade Balance SA,11:00,Jun,--,8.0b
+2020-08-14,EC,Employment QoQ,11:00,2Q P,--,-0.2%
+2020-08-14,EC,GDP SA QoQ,11:00,2Q P,--,--
+2020-08-14,US,Retail Sales Advance MoM,14:30,Jul,2.0%,7.5%
+2020-08-14,US,Unit Labor Costs,14:30,2Q P,--,5.1%
+2020-08-14,US,Industrial Production MoM,15:15,Jul,3.3%,5.4%
+2020-08-14,US,Business Inventories,16:00,Jun,--,-2.3%
+2020-08-14,US,U. of Mich. Sentiment,16:00,Aug P,--,--
+2020-08-14,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
