@@ -1,44 +1,65 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-Monday 24 Aug.,--,--,--,--,--
-US,Chicago Fed Nat Activity Index,14:30,Jul,3.7,4.1
-US,Republican National Convention ,24-27,--,--,--
-Tuesday 25 Aug.,--,--,--,--,--
-GE,GDP SA QoQ,08:00,2Q F,-10.1%,-10.1%
-GE,IFO Business Climate,10:00,Aug,92.5,90.5
-US,FHFA House Price Index MoM,15:00,Jun,0.3%,-0.3%
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jun,--,3.7%
-US,Conf. Board Consumer Confidence,16:00,Aug,93.0,92.6
-US,New Home Sales MoM,16:00,Jul,-0.1%,13.8%
-US,Richmond Fed Manufact. Index,16:00,Aug,10.0,10.0
-Wednesday 26 Aug.,--,--,--,--,--
-FR,Consumer Confidence,08:45,Aug,94.0,94.0
-US,Cap Goods Orders Nondef Ex Air,14:30,Jul P,--,3.4%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-1632k
-Thursday 27 Aug.,--,--,--,--,--
-CH,Industrial Profits YoY,03:30,Jul,--,11.5%
-JN,All Industry Activity Index MoM,06:30,Jun,6.3%,-3.5%
-FR,Business Confidence,08:45,Aug,87.0,85.0
-FR,Survey of Industrial Investment,08:45,--,--,--
-EC,M3 Money Supply YoY,10:00,Jul,9.3%,9.2%
-US,GDP Annualized QoQ,14:30,2Q S,-32.5%,-32.9%
-US,Initial Jobless Claims,14:30,--,--,1106k
-US,Powell to Speak at Jackson Hole ,15:10,--,--,--
-US,Bloomberg Consumer Comfort,15:45,--,--,43.5
-US,Pending Home Sales MoM,16:00,Jul,5.5%,16.6%
-US,EIA Natural Gas Storage Change,16:30,--,--,43.0
-US,Kansas City Fed Manf. Activity,17:00,Aug,--,3.0
-GE,Retail Sales MoM,27-02,Jul,0.5%,-1.6%
-Friday 28 Aug.,--,--,--,--,--
-JN,Tokyo CPI YoY,01:30,Aug,0.6%,0.6%
-GE,GfK Consumer Confidence,08:00,Sep,1.9,-0.3
-FR,CPI EU Harmonized YoY,08:45,Aug P,0.3%,0.9%
-FR,Consumer Spending MoM,08:45,Jul,--,9.0%
-FR,GDP QoQ,08:45,2Q F,-13.8%,-13.8%
-IT,Economic Sentiment,10:00,Aug,--,76.7
-EC,Economic Confidence,11:00,Aug,85.0,82.3
-US,Advance Goods Trade Balance,14:30,Jul,-$72.3b,-$70.6b
-US,Personal Spending,14:30,Jul,1.5%,5.6%
-UK,BOE Governor Speaks at Jackson Hole ,15:05,--,--,--
-US,MNI Chicago PMI,15:45,Aug,51.0,51.9
-US,U. of Mich. Sentiment,16:00,Aug F,72.8,72.8
+Monday 31 Aug.,--,--,--,--,--
+JN,Industrial Production MoM,01:50,Jul P,5.0%,1.9%
+JN,Retail Sales MoM,01:50,Jul,-2.5%,13.1%
+JN,"Dept. Store, Supermarket Sales YoY",01:50,Jul,-4.2%,-3.5%
+CH,Manufacturing PMI,03:00,Aug,51.2,51.1
+CH,Non-manufacturing PMI,03:00,Aug,54.2,54.2
+JN,Housing Starts YoY,07:00,Jul,-12.5%,-12.8%
+JN,Construction Orders YoY,07:00,Jul,--,-13.4%
+JN,Consumer Confidence Index,07:00,Aug,28.5,29.5
+IT,GDP WDA QoQ,10:00,2Q F,--,-12.4%
+IT,CPI EU Harmonized YoY,11:00,Aug P,--,0.8%
+GE,CPI EU Harmonized YoY,14:00,Aug P,0.1%,0.0%
+US,Fed Clarida Speaks at Peterson Event,15:00,--,--,--
+US,Dallas Fed Manf. Activity,16:30,Aug,0.0,-3.0
+GE,Retail Sales MoM,31-02,Jul,0.5%,-1.6%
+Tuesday 01 Sep.,--,--,--,--,--
+JN,Jobless Rate,01:30,Jul,3.0%,2.8%
+JN,Capital Spending YoY,01:50,2Q,-3.8%,0.1%
+JN,Jibun Bank Japan PMI Mfg,02:30,Aug F,--,46.6
+CH,Caixin China PMI Mfg,03:45,Aug,52.5,52.8
+GE,Unemployment Change (000's),09:55,Aug,-15.0k,-18.0k
+EC,Markit Eurozone Manuf. PMI,10:00,Aug F,51.7,51.7
+IT,Unemployment Rate,10:00,Jul P,--,8.8%
+UK,Mortgage Approvals,10:30,Jul,55.0k,40.0k
+UK,Markit UK PMI Manufacturing SA,10:30,Aug F,55.3,55.3
+EC,Unemployment Rate,11:00,Jul,8.0%,7.8%
+EC,CPI Estimate YoY,11:00,Aug,0.2%,0.4%
+US,Markit US Manufacturing PMI,15:45,Aug F,--,53.6
+US,ISM Manufacturing,16:00,Aug,54.4,54.2
+US,Construction Spending MoM,16:00,Jul,1.1%,-0.7%
+US,Fed’s Brainard Speaks on Economic Outlook,19:00,--,--,--
+US,Wards Total Vehicle Sales,,Aug,14.50m,14.52m
+Wednesday 02 Sep.,--,--,--,--,--
+JN,Monetary Base YoY,01:50,Aug,--,9.8%
+UK,Nationwide House Px NSA YoY,08:00,Aug,2.0%,1.5%
+EC,PPI YoY,11:00,Jul,--,-3.7%
+US,ADP Employment Change,14:15,Aug,900k,167k
+US,Fed’s Williams Discusses Covid-19 ,16:00,--,--,--
+US,Cap Goods Orders Nondef Ex Air,16:00,Jul F,--,1.9%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-4689k
+US,Fed's Mester on U.S. Outlook & Mon. Policy,18:00,--,--,--
+EC,ECB's Weidmann Speaks at Virtual Event,19:00,--,--,--
+US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
+Thursday 03 Sep.,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,02:30,Aug F,--,45.0
+CH,Caixin China PMI Services,03:45,Aug,54.0,54.1
+EC,Markit Eurozone Services PMI,10:00,Aug F,50.1,50.1
+UK,Markit/CIPS UK Services PMI,10:30,Aug F,60.1,60.1
+EC,Retail Sales MoM,11:00,Jul,1.7%,5.7%
+US,Unit Labor Costs,14:30,2Q F,12.2%,12.2%
+US,Initial Jobless Claims,14:30,--,--,1006k
+US,Trade Balance,14:30,Jul,-$51.7b,-$50.7b
+US,Bloomberg Consumer Comfort,15:45,--,--,44.3
+US,Markit US Services PMI,15:45,Aug F,--,54.8
+US,ISM Services Index,16:00,Aug,57.2,58.1
+US,EIA Natural Gas Storage Change,16:30,--,--,45.0
+US,Fed’s Evans on Economy & Mon. Policy,18:30,--,--,--
+Friday 04 Sep.,--,--,--,--,--
+GE,Factory Orders MoM,08:00,Jul,6.0%,27.9%
+FR,Budget Balance YTD,08:45,Jul,--,-124.9b
+FR,Current Account Balance,08:45,Jul,--,-8.4b
+US,Change in Nonfarm Payrolls,14:30,Aug,1518k,1763k
+US,Unemployment Rate,14:30,Aug,9.9%,10.2%
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
