@@ -1,85 +1,48 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2021-03-07,CH,Foreign Reserves,--,Feb,$3200.00b,$3210.67b
-2021-03-07,CH,Trade Balance YTD,--,Feb,$59.00b,--
-2021-03-08,JN,BoP Current Account Adjusted,00:50,Jan,¥2207.2b,¥2278.4b
-2021-03-08,JN,Leading Index CI,06:00,Jan P,96.8,95.3
-2021-03-08,GE,Industrial Production SA MoM,08:00,Jan,-0.5%,0.0%
-2021-03-08,EC,Sentix Investor Confidence,10:30,Mar,--,-20.0%
-2021-03-08,UK,BOE Governor Bailey Speaks on Economic Outlook,11:00,--,--,--
-2021-03-08,FR,Bank of France Ind. Sentiment,--,Feb,--,98.0
-2021-03-09,JN,Household Spending YoY,00:30,Jan,-2.1%,-0.6%
-2021-03-09,JN,GDP SA QoQ,00:50,4Q F,3.0%,3.0%
-2021-03-09,JN,Money Stock M2 YoY,00:50,Feb,9.5%,9.4%
-2021-03-09,JN,Machine Tool Orders YoY,07:00,Feb P,--,9.7%
-2021-03-09,GE,Trade Balance,08:00,Jan,--,14.8b
-2021-03-09,IT,Industrial Production MoM,10:00,Jan,0.8%,-0.2%
-2021-03-09,IT,Istat Releases the Monthly Economic Note,11:00,--,--,--
-2021-03-09,EC,OECD Publishes Interim Economic Outlook,11:00,--,--,--
-2021-03-09,EC,GDP SA QoQ,11:00,4Q F,-0.6%,-0.6%
-2021-03-09,US,NFIB Small Business Optimism,12:00,Feb,96.0,95.0
-2021-03-09,US,STEO Current Yr Crude Forecast,18:00,Mar,--,11.0
-2021-03-09,CH,Aggregate Financing CNY,9-15,Feb,900.0b,5170.0b
-2021-03-10,CH,CPI YoY,02:30,Feb,-0.3%,-0.3%
-2021-03-10,CH,PPI YoY,02:30,Feb,1.4%,0.3%
-2021-03-10,FR,Industrial Production MoM,08:45,Jan,0.5%,-0.8%
-2021-03-10,US,CPI YoY,14:30,Feb,1.7%,1.4%
-2021-03-10,CA,Bank of Canada Rate Decision,16:00,--,0.25%,0.25%
-2021-03-10,US,DOE U.S. Crude Oil Inventories,16:30,--,--,21563k
-2021-03-10,JN,PPI YoY,00:50,Feb,-0.7%,-1.6%
-2021-03-11,UK,RICS House Price Balance,01:01,Feb,--,50.0%
-2021-03-11,EC,ECB Deposit Facility Rate,13:45,--,-0.5%,-0.5%
-2021-03-11,EC,ECB President Holds Press Conference,14:30,--,--,--
-2021-03-11,US,Initial Jobless Claims,14:30,--,--,745k
-2021-03-11,US,EIA Natural Gas Storage Change,16:30,--,--,-98.0
-2021-03-11,US,Household Change in Net Worth,18:00,4Q,--,$3817b
-2021-03-12,UK,Industrial Production MoM,08:00,Jan,-0.4%,0.2%
-2021-03-12,UK,Index of Services MoM,08:00,Jan,-5.5%,1.7%
-2021-03-12,UK,Trade Balance GBP/Mn,08:00,Jan,--,-£6202m
-2021-03-12,UK,Monthly GDP (MoM),08:00,Jan,-4.7%,1.2%
-2021-03-12,GE,CPI EU Harmonized YoY,08:00,Feb F,--,1.6%
-2021-03-12,EC,Industrial Production SA MoM,11:00,Jan,-0.5%,-1.6%
-2021-03-12,US,PPI Final Demand YoY,14:30,Feb,2.7%,1.7%
-2021-03-12,US,U. of Mich. Sentiment,16:00,Mar P,78.0,76.8
-2021-03-12,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2021-03-15,JN,Core Machine Orders YoY,00:50,Jan,--,11.8%
-2021-03-15,UK,Rightmove House Prices YoY,01:01,Mar,--,3.0%
-2021-03-15,CH,New Home Prices MoM,02:30,Feb,--,0.3%
-2021-03-15,CH,Industrial Production YTD YoY,03:00,Feb,32.0%,2.8%
-2021-03-15,CH,Fixed Assets Ex Rural YTD YoY,03:00,Feb,40.0%,2.9%
-2021-03-15,CH,Surveyed Jobless Rate,03:00,Feb,5.2%,5.2%
-2021-03-15,CH,Retail Sales YTD YoY,03:00,Feb,32.0%,-3.9%
-2021-03-15,US,Empire Manufacturing,13:30,Mar,--,12.1
-2021-03-15,US,Net Long-term TIC Flows,21:00,Jan,--,$121.0b
-2021-03-15,EC,Euro-Area Finance Ministers Meet,--,--,--,--
-2021-03-16,JN,Industrial Production MoM,05:30,Jan F,--,4.2%
-2021-03-16,FR,CPI EU Harmonized YoY,08:45,Feb F,--,0.7%
-2021-03-16,GE,ZEW Survey Expectations,11:00,Mar,--,71.2
-2021-03-16,US,Retail Sales Advance MoM,13:30,Feb,-0.1%,5.3%
-2021-03-16,US,Import Price Index YoY,13:30,Feb,--,0.9%
-2021-03-16,US,Industrial Production MoM,14:15,Feb,0.7%,0.9%
-2021-03-16,US,Business Inventories,15:00,Jan,0.5%,0.6%
-2021-03-16,US,NAHB Housing Market Index,15:00,Mar,84.0,84.0
-2021-03-16,EC,EU Finance Ministers Meet,--,--,--,--
-2021-03-17,JN,Trade Balance Adjusted,00:50,Feb,--,¥392.8b
-2021-03-17,EC,EU27 New Car Registrations,08:00,Feb,--,-24.0%
-2021-03-17,EC,Construction Output MoM,11:00,Jan,--,-3.7%
-2021-03-17,EC,CPI YoY,11:00,Feb F,--,0.9%
-2021-03-17,US,Building Permits MoM,13:30,Feb,-7.0%,10.4%
-2021-03-17,US,Housing Starts MoM,13:30,Feb,3.5%,-6.0%
-2021-03-17,US,DOE U.S. Crude Oil Inventories,15:30,--,--,--
-2021-03-17,US,FOMC Rate Decision (Upper Bound),19:00,--,0.25%,0.25%
-2021-03-17,US,Powell Holds Press Conference ,19:30,--,--,--
-2021-03-17,NE,Dutch elections,--,--,--,--
-2021-03-18,EC,Trade Balance SA,11:00,Jan,--,27.5b
-2021-03-18,UK,Bank of England Bank Rate,13:00,--,--,0.1%
-2021-03-18,US,Initial Jobless Claims,13:30,--,--,--
-2021-03-18,US,Philadelphia Fed Business Outlook,13:30,Mar,--,23.1
-2021-03-18,US,Leading Index,15:00,Feb,--,0.5%
-2021-03-18,US,EIA Natural Gas Storage Change,15:30,--,--,--
-2021-03-18,UK,CBI Trends Total Orders,18-24,Mar,--,-24.0
-2021-03-19,JN,Natl CPI YoY,00:30,Feb,--,-0.6%
-2021-03-19,UK,GfK Consumer Confidence,01:01,Mar,--,-23.0
-2021-03-19,GE,PPI YoY,08:00,Feb,--,0.9%
-2021-03-19,UK,PSNB ex Banking Groups,08:00,Feb,--,8.8b
-2021-03-19,US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
-2021-03-19,JN,BOJ Policy Balance Rate,--,--,--,-0.1%
+2021-03-22,EC,ECB Current Account SA,10:00,Jan,--,36.7b
+2021-03-22,US,Chicago Fed Nat Activity Index,13:30,Feb,0.7,0.7
+2021-03-22,US,Powell in BIS Panel on CB Innovation,14:00,--,--,--
+2021-03-22,US,Existing Home Sales MoM,15:00,Feb,-2.8%,0.6%
+2021-03-23,JN,Nationwide Dept Sales YoY,06:30,Feb,--,-29.7%
+2021-03-23,UK,Jobless Claims Change,08:00,Feb,--,-20.0k
+2021-03-23,UK,BOE's Haldane Speaks on Panel,09:40,--,--,--
+2021-03-23,EC,ECB's Villeroy speaks in Paris,11:00,--,--,--
+2021-03-23,UK,CBI Trends Total Orders,12:00,Mar,-20.0,-24.0
+2021-03-23,US,Current Account Balance,13:30,4Q,-$186.3b,-$178.5b
+2021-03-23,EC,Bank of Spain publishes macro-eco. outlook ,13:30,--,--,--
+2021-03-23,US,Fed’s Bullard Discusses Economy at LSE Event,14:00,--,--,--
+2021-03-23,US,New Home Sales MoM,15:00,Feb,-4.1%,4.3%
+2021-03-23,US,"Powell, Yellen Appear Before House ",15:00,--,--,--
+2021-03-23,US,Richmond Fed Manufact. Index,15:00,Mar,15.0,14.0
+2021-03-23,US,Fed’s Brainard Discusses Economic Outlook,20:45,--,--,--
+2021-03-24,JN,BOJ Minutes of January Meeting,00:50,--,--,--
+2021-03-24,JN,Jibun Bank Japan PMI Composite,01:30,Mar P,--,48.2
+2021-03-24,UK,CPI YoY,08:00,Feb,0.8%,0.7%
+2021-03-24,EC,Markit Eurozone Composite PMI,10:00,Mar P,49.1,48.8
+2021-03-24,UK,Markit/CIPS UK Composite PMI,10:30,Mar P,50.2,49.6
+2021-03-24,US,Cap Goods Orders Nondef Ex Air,13:30,Feb P,--,0.4%
+2021-03-24,US,Markit US Composite PMI,14:45,Mar P,--,59.5
+2021-03-24,US,Powell & Yellen Appear Before Senate ,15:00,--,--,--
+2021-03-24,US,DOE U.S. Crude Oil Inventories,15:30,--,--,2396k
+2021-03-24,EC,Consumer Confidence,16:00,Mar A,-16.0,-14.8
+2021-03-24,GE,GfK Consumer Confidence,08:00,Apr,-13.0,-12.9
+2021-03-25,FR,Business Confidence,08:45,Mar,--,90.0
+2021-03-25,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+2021-03-25,EC,M3 Money Supply YoY,10:00,Feb,--,12.5%
+2021-03-25,UK,CBI Total Dist. Reported Sales,12:00,Mar,--,-35.0
+2021-03-25,US,Initial Jobless Claims,13:30,--,--,770k
+2021-03-25,US,GDP Annualized QoQ,13:30,4Q T,4.1%,4.1%
+2021-03-25,US,EIA Natural Gas Storage Change,15:30,--,--,-11.0
+2021-03-25,US,Kansas City Fed Manf. Activity,16:00,Mar,--,24.0
+2021-03-25,US,Fed’s Evans Discuses the Economic Outlook,18:00,--,--,--
+2021-03-25,EC,EU summit,25-26,--,--,--
+2021-03-26,JN,Tokyo CPI YoY,00:30,Mar,-0.3%,-0.3%
+2021-03-26,UK,Retail Sales Inc Auto Fuel MoM,08:00,Feb,2.1%,-8.2%
+2021-03-26,GE,IFO Business Climate,10:00,Mar,93.0,92.4
+2021-03-26,IT,Economic Sentiment,10:00,Mar,--,93.2
+2021-03-26,US,Advance Goods Trade Balance,13:30,Feb,-$84.8b,-$83.7b
+2021-03-26,US,Retail Inventories MoM,13:30,Feb,--,-0.6%
+2021-03-26,US,Personal Spending,13:30,Feb,-0.6%,2.4%
+2021-03-26,US,PCE Core Deflator YoY,13:30,Feb,1.5%,1.5%
+2021-03-26,US,U. of Mich. Sentiment,15:00,Mar F,83.5,83.0
+2021-03-26,US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
