@@ -1,56 +1,50 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-26 April 2021,--,--,--,--,--
-GE,IFO Business Climate,10:00,Apr,98.0,96.6
-US,Cap Goods Orders Nondef Ex Air,14:30,Mar P,1.5%,-0.9%
-US,Dallas Fed Manf. Activity,16:30,Apr,30.0,28.9
-GE,Import Price Index YoY,26-30,Mar,--,1.4%
-27 April 2021,--,--,--,--,--
-CH,Industrial Profits YoY,03:30,Mar,--,20.1%
-IT,Economic Sentiment,10:00,Apr,--,93.9
-FR,Total Jobseekers,12:00,1Q,--,3574.3k
-UK,CBI Total Dist. Reported Sales,12:00,Apr,--,-28.0
-US,FHFA House Price Index MoM,15:00,Feb,1.0%,1.0%
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,Feb,11.8%,11.1%
-US,Conf. Board Consumer Confidence,16:00,Apr,111.9,109.7
-US,Richmond Fed Manufact. Index,16:00,Apr,20.0,17.0
-JN,BOJ Policy Balance Rate,--,--,-0.1%,-0.1%
-GE,Retail Sales MoM,27-02,Mar,3.0%,1.2%
-28 April 2021,--,--,--,--,--
-JN,Retail Sales MoM,01:50,Mar,0.6%,3.1%
-GE,GfK Consumer Confidence,08:00,May,-3.5,-6.2
-FR,Consumer Confidence,08:45,Apr,93.0,94.0
-US,Advance Goods Trade Balance,14:30,Mar,-$87.5b,-$86.7b
-US,Wholesale Inventories MoM,14:30,Mar P,--,0.6%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,594k
-US,FOMC Rate Decision (Lower Bound),20:00,--,0.0%,0.0%
-US,Powell Holds Press Conference,20:30,--,--,--
-29 April 2021,--,--,--,--,--
-GE,Unemployment Change (000's),09:55,Apr,-10.0k,-8.0k
-EC,M3 Money Supply YoY,10:00,Mar,--,12.3%
-EC,Economic Confidence,11:00,Apr,102.0,101.0
-GE,CPI EU Harmonized YoY,14:00,Apr P,--,2.0%
-US,Initial Jobless Claims,14:30,--,--,547k
-US,GDP Annualized QoQ,14:30,1Q A,6.5%,4.3%
-US,Pending Home Sales MoM,16:00,Mar,4.0%,-10.6%
-30 April 2021,--,--,--,--,--
-JN,Jobless Rate,01:30,Mar,2.9%,2.9%
-JN,Tokyo CPI YoY,01:30,Apr,-0.2%,-0.2%
-JN,Industrial Production MoM,01:50,Mar P,-2.0%,-1.3%
-JN,Jibun Bank Japan PMI Mfg,02:30,Apr F,--,53.3
-CH,Non-manufacturing PMI,03:00,Apr,56.0,56.3
-CH,Manufacturing PMI,03:00,Apr,51.7,51.9
-JN,Housing Starts YoY,07:00,Mar,-7.4%,-3.7%
-JN,Consumer Confidence Index,07:00,Apr,34.0,36.1
-FR,Consumer Spending MoM,07:30,Mar,--,0.0%
-FR,GDP QoQ,07:30,1Q P,-0.4%,-1.4%
-FR,PPI YoY,08:45,Mar,--,1.8%
-FR,CPI EU Harmonized YoY,08:45,Apr P,--,1.4%
-GE,GDP SA QoQ,10:00,1Q P,-1.5%,0.3%
-IT,GDP WDA QoQ,10:00,1Q P,-0.4%,-1.9%
-EC,Unemployment Rate,11:00,Mar,8.4%,8.3%
-EC,CPI Estimate YoY,11:00,Apr,1.5%,1.3%
-EC,GDP SA QoQ,11:00,1Q A,-1.0%,-0.7%
-US,Personal Spending,14:30,Mar,4.2%,-1.0%
-US,PCE Core Deflator YoY,14:30,Mar,1.8%,1.4%
-US,U. of Mich. Sentiment,16:00,Apr F,87.5,86.5
+03 May 2021,--,--,--,--,--
+GE,Retail Sales MoM,08:00,Mar,3.3%,1.2%
+EC,Markit Eurozone Manufacturing PMI,10:00,Apr F,63.3,63.3
+US,Markit US Manufacturing PMI,15:45,Apr F,60.7,60.6
+US,Construction Spending MoM,16:00,Mar,1.9%,-0.8%
+US,ISM Manufacturing,16:00,Apr,65.1,64.7
+US,Wards Total Vehicle Sales,,Apr,17.50m,17.75m
+04 May 2021,--,--,--,--,--
+FR,Budget Balance YTD,08:45,Mar,--,-47.5b
+EC,ECB's Villeroy speaks at EIB event,10:00,--,--,--
+UK,Markit UK PMI Manufacturing SA,10:30,Apr F,60.7,60.7
+UK,Mortgage Approvals,10:30,Mar,90.0k,87.7k
+US,Trade Balance,14:30,Mar,-$73.4b,-$71.1b
+US,Cap Goods Orders Nondef Ex Air,16:00,Mar F,--,0.9%
+05 May 2021,--,--,--,--,--
+EC,Markit Eurozone Services PMI,10:00,Apr F,50.3,50.3
+EC,PPI YoY,11:00,Mar,4.0%,1.5%
+US,ADP Employment Change,14:15,Apr,900k,517k
+US,Fed’s Evans on Economy & Monetary Policy,15:30,--,--,--
+US,Markit US Services PMI,15:45,Apr F,63.1,63.1
+US,ISM Services Index,16:00,Apr,64.1,63.7
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,90k
+US,Fed’s Mester Speaks to Boston Economic Club,18:00,--,--,--
+06 May 2021,--,--,--,--,--
+JN,BOJ Minutes of March Meeting,01:50,--,--,--
+GE,Factory Orders MoM,08:00,Mar,1.8%,1.2%
+FR,Survey of Industrial Investment,08:45,--,--,--
+EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+UK,Markit/CIPS UK Services PMI,10:30,Apr F,60.1,60.1
+EC,Retail Sales MoM,11:00,Mar,0.5%,3.0%
+UK,Bank of England Bank Rate,13:00,--,0.1%,0.1%
+US,Unit Labor Costs,14:30,1Q P,-0.8%,6.0%
+US,Initial Jobless Claims,14:30,--,--,553k
+UK,U.K. local elections,--,--,--,--
+07 May 2021,--,--,--,--,--
+JN,Monetary Base YoY,01:50,Apr,--,20.8%
+JN,Jibun Bank Japan PMI Services,02:30,Apr F,--,48.3
+CH,Caixin China PMI Services,03:45,Apr,54.2,54.3
+GE,Industrial Production SA MoM,08:00,Mar,1.7%,-1.6%
+GE,Trade Balance,08:00,Mar,--,18.1b
+FR,Trade Balance,08:45,Mar,--,-5249m
+FR,Industrial Production MoM,08:45,Mar,2.4%,-4.7%
+IT,Retail Sales MoM,10:00,Mar,--,6.6%
+EC,ECB's Lagarde Speaks,12:00,--,--,--
+US,Change in Nonfarm Payrolls,14:30,Apr,950k,916k
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+CH,Trade Balance,,Apr,$23.85b,$13.80b
+IT,Italy Sovereign Debt to be rated by Moody's,--,--,--,--
+FR,France Sovereign Debt to be rated by Fitch,--,--,--,--
