@@ -1,10 +1,10 @@
 ﻿Asset,Country,Start Date,End Date,Technical capacity impact (mm cm/day)
-Gate LNG terminal,Netherlands,15-Jun,11-Jul,42
-Montoir LNG terminal,France,19-Jun,03-Jul,30
-Fos Tonkin LNG terminal,France,19-Jun,27-Jun,33
-Troll,Norway,22-Jun,01-Jul,16
-Åsgard,Norway,24-Jun,25-Jun,13.4
-Aasta Hansteen,Norway,30-Jun,02-Jul,25.8
-Yamal pipeline,Germany,06-Jul,10-Jul,84
-NordStream 1 pipeline,Germany,13-Jul,23-Jul,162
-Troll,Norway,16-Jul,17-Aug,16
+Gate LNG terminal,Netherlands,2021-06-15,2021-07-11,42
+Montoir LNG terminal,France,2021-06-19,2021-07-03,30
+Fos Tonkin LNG terminal,France,2021-06-19,2021-06-27,33
+Troll,Norway,2021-06-22,2021-07-01,16
+Åsgard,Norway,2021-06-24,2021-06-25,13.4
+Aasta Hansteen,Norway,2021-06-30,2021-07-02,25.8
+Yamal pipeline,Germany,2021-07-06,2021-07-10,84
+NordStream 1 pipeline,Germany,2021-07-13,2021-07-23,162
+Troll,Norway,2021-07-16,2021-08-17,16
