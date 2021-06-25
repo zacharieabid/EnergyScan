@@ -1,47 +1,52 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2021-06-21,US,Chicago Fed Nat Activity Index,14:30,May,0.9,0.2
-2021-06-21,US,Fed’s Bullard Discusses Economic Outlook,15:30,--,--,--
-2021-06-21,EC,ECB's Lagarde in European Parliament,16:15,--,--,--
-2021-06-22,JN,Nationwide Dept Sales YoY,07:30,May,--,167.0%
-2021-06-22,UK,PSNB ex Banking Groups,08:00,May,--,31.7b
-2021-06-22,UK,CBI Trends Total Orders,12:00,Jun,--,17.0
-2021-06-22,EC,Consumer Confidence,16:00,Jun A,-3.3,-5.1
-2021-06-22,US,Richmond Fed Manufact. Index,16:00,Jun,18.0,18.0
-2021-06-22,US,Existing Home Sales MoM,16:00,May,-2.2%,-2.7%
-2021-06-22,US,Fed’s Mester Discusses Monetary Policy,16:30,--,--,--
-2021-06-22,US,Powell Testifies to Congress ,20:00,--,--,--
-2021-06-23,JN,BOJ Minutes of April Meeting,01:50,--,--,--
-2021-06-23,JN,Jibun Bank Japan PMI Composite,02:30,Jun P,--,48.8
-2021-06-23,EC,Markit Eurozone Composite PMI,10:00,Jun P,58.3,57.1
-2021-06-23,UK,Markit/CIPS UK Composite PMI,10:30,Jun P,--,62.9
-2021-06-23,US,Current Account Balance,14:30,1Q,-$207.1b,-$188.5b
-2021-06-23,US,Markit US Composite PMI,15:45,Jun P,--,68.7
-2021-06-23,US,New Home Sales MoM,16:00,May,1.4%,-5.9%
-2021-06-23,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-7355k
-2021-06-23,US,Fed’s Rosengren Discusses the Economy,22:30,--,--,--
-2021-06-23,JN,PPI Services YoY,01:50,May,1.5%,1.0%
-2021-06-24,JN,Supermarket Sales YoY,07:00,May,--,6.0%
-2021-06-24,FR,Business Confidence,08:45,Jun,110.0,108.0
-2021-06-24,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-2021-06-24,GE,IFO Business Climate,10:00,Jun,100.2,99.2
-2021-06-24,UK,Bank of England Bank Rate,13:00,--,0.10%,0.10%
-2021-06-24,US,Advance Goods Trade Balance,14:30,May,-$88.2b,-$85.2b
-2021-06-24,US,Cap Goods Orders Nondef Ex Air,14:30,May P,--,2.2%
-2021-06-24,US,GDP Annualized QoQ,14:30,1Q T,6.4%,6.4%
-2021-06-24,US,Initial Jobless Claims,14:30,--,--,412k
-2021-06-24,US,Fed’s Bostic & Harkeron Monetary Policy,15:30,--,--,--
-2021-06-24,US,Kansas City Fed Manf. Activity,17:00,Jun,--,26.0
-2021-06-24,US,Fed’s Bullard on Economy & Monetary policy,19:00,--,--,--
-2021-06-24,US,Fed Releases Bank Stress Rest Results,22:30,--,--,--
-2021-06-24,EC,EU leaders meet in Brussels,--,--,--,--
-2021-06-25,UK,GfK Consumer Confidence,01:01,Jun,-7.0,-9.0
-2021-06-25,JN,Tokyo CPI YoY,01:30,Jun,-0.3%,-0.4%
-2021-06-25,GE,GfK Consumer Confidence,08:00,Jul,-3.3,-7.0
-2021-06-25,EC,M3 Money Supply YoY,10:00,May,8.5%,9.2%
-2021-06-25,IT,Economic Sentiment,10:00,Jun,--,106.7
-2021-06-25,UK,CBI Total Dist. Reported Sales,12:00,Jun,--,43.0
-2021-06-25,US,Personal Spending,14:30,May,0.3%,0.5%
-2021-06-25,US,PCE Core Deflator YoY,14:30,May,3.5%,3.1%
-2021-06-25,US,U. of Mich. Sentiment,16:00,Jun F,86.8,86.4
-2021-06-25,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2021-06-25,CH,BoP Current Account Balance,--,1Q F,--,$75.1b
+2021-06-28,GE,Import Price Index YoY,08:00,May,11.4%,10.3%
+2021-06-28,EC,ECB's Weidmann Speaks,14:00,--,--,--
+2021-06-28,US,Fed’s Williams in BIS Panel Discussion,15:00,--,--,--
+2021-06-28,US,Dallas Fed Manf. Activity,16:30,Jun,32.5,34.9
+2021-06-29,JN,Jobless Rate,01:30,May,2.9%,2.8%
+2021-06-29,JN,Retail Sales MoM,01:50,May,-0.7%,-4.5%
+2021-06-29,FR,ILO Unemployment Rate,07:30,1Q,8.0%,8.0%
+2021-06-29,UK,Nationwide House Px NSA YoY,08:00,Jun,13.8%,10.9%
+2021-06-29,FR,Consumer Confidence,08:45,Jun,100.0,97.0
+2021-06-29,UK,Mortgage Approvals,10:30,May,85.0k,86.9k
+2021-06-29,EC,Economic Confidence,11:00,Jun,116.3,114.5
+2021-06-29,GE,CPI EU Harmonized YoY,14:00,Jun P,2.1%,2.4%
+2021-06-29,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Apr,--,13.3%
+2021-06-29,US,Conf. Board Consumer Confidence,16:00,Jun,119.0,117.2
+2021-06-29,EC,ECB's Villeroy speaks,17:45,--,--,--
+2021-06-30,JN,Industrial Production YoY,01:50,May P,27.0%,15.8%
+2021-06-30,CH,Composite PMI,03:00,Jun,--,54.2
+2021-06-30,JN,Housing Starts YoY,07:00,May,8.4%,7.1%
+2021-06-30,JN,Consumer Confidence Index,07:00,Jun,35.5,34.1
+2021-06-30,UK,GDP QoQ,08:00,1Q F,-1.5%,-1.5%
+2021-06-30,UK,Current Account Balance,08:00,1Q,-16.3b,-26.3b
+2021-06-30,FR,PPI YoY,08:45,May,--,7.3%
+2021-06-30,FR,Consumer Spending MoM,08:45,May,6.0%,-8.3%
+2021-06-30,FR,CPI EU Harmonized YoY,08:45,Jun P,1.9%,1.8%
+2021-06-30,GE,Unemployment Change (000's),09:55,Jun,-18.0k,-15.0k
+2021-06-30,EC,CPI Estimate YoY,11:00,Jun,1.9%,2.0%
+2021-06-30,UK,BOE's Haldane speaks on monetary policy,13:00,--,--,--
+2021-06-30,US,ADP Employment Change,14:15,Jun,530k,978k
+2021-06-30,US,MNI Chicago PMI,15:45,Jun,69.9,75.2
+2021-06-30,US,Pending Home Sales MoM,16:00,May,-1.0%,-4.4%
+2021-06-30,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-7614k
+2021-06-30,JN,Tankan Large Mfg Index,01:50,2Q,16.0,5.0
+2021-07-01,JN,Jibun Bank Japan PMI Mfg,02:30,Jun F,--,51.5
+2021-07-01,CH,Caixin China PMI Mfg,03:45,Jun,51.9,52.0
+2021-07-01,GE,Retail Sales MoM,08:00,May,4.8%,-5.5%
+2021-07-01,EC,Markit Eurozone Manufacturing PMI,10:00,Jun F,63.1,63.1
+2021-07-01,UK,Markit UK PMI Manufacturing SA,10:30,Jun F,64.2,64.2
+2021-07-01,IT,Deficit to GDP YTD,11:00,1Q,--,9.5%
+2021-07-01,EC,Unemployment Rate,11:00,May,8.0%,8.0%
+2021-07-01,US,Initial Jobless Claims,14:30,--,--,411k
+2021-07-01,US,Markit US Manufacturing PMI,15:45,Jun F,--,62.6
+2021-07-01,US,Construction Spending MoM,16:00,May,0.5%,0.2%
+2021-07-01,US,ISM Manufacturing,16:00,Jun,61.0,61.2
+2021-07-01,US,Wards Total Vehicle Sales,--,Jun,17.05m,16.99m
+2021-07-02,FR,Budget Balance YTD,08:45,May,--,-91.4b
+2021-07-02,EC,PPI YoY,11:00,May,9.6%,7.6%
+2021-07-02,EC,ECB's Lagarde Speaks,14:30,--,--,--
+2021-07-02,US,Change in Nonfarm Payrolls,14:30,Jun,695k,559k
+2021-07-02,US,Trade Balance,14:30,May,-$70.9b,-$68.9b
+2021-07-02,US,Cap Goods Orders Nondef Ex Air,16:00,May F,--,-0.1%
+2021-07-02,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
