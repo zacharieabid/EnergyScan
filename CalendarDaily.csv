@@ -1,72 +1,50 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2021-07-09,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2021-07-09,CH,Aggregate Financing CNY,9-15,Jun,2755.0b,1920.0b
-2021-07-09,EC,G20 Fin.  Ministers &  Central Bankers Meeting,9-10,--,--,--
-2021-07-12,JN,PPI YoY,01:50,Jun,--,4.9%
-2021-07-12,JN,Machine Tool Orders YoY,08:00,Jun P,--,141.9%
-2021-07-13,GE,CPI EU Harmonized YoY,08:00,Jun F,--,2.1%
-2021-07-13,FR,CPI EU Harmonized YoY,08:45,Jun F,--,1.9%
-2021-07-13,US,NFIB Small Business Optimism,12:00,Jun,--,99.6
-2021-07-13,US,CPI YoY,14:30,Jun,--,5.0%
-2021-07-13,CH,Trade Balance,--,Jun,$44.20b,$45.53b
-2021-07-14,JN,Industrial Production MoM,06:30,May F,--,-5.9%
-2021-07-14,UK,CPI YoY,08:00,Jun,--,2.1%
-2021-07-14,UK,PPI Output NSA YoY,08:00,Jun,--,4.6%
-2021-07-14,UK,House Price Index YoY,10:30,May,--,8.9%
-2021-07-14,EC,Industrial Production SA MoM,11:00,May,--,0.8%
-2021-07-14,US,PPI Final Demand YoY,14:30,Jun,--,6.6%
-2021-07-14,CA,Bank of Canada Rate Decision,16:00,--,0.25%,0.25%
-2021-07-14,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
-2021-07-14,US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
-2021-07-15,CH,New Home Prices MoM,03:30,Jun,--,0.5%
-2021-07-15,CH,GDP YoY,04:00,2Q,8.2%,18.3%
-2021-07-15,CH,Retail Sales YoY,04:00,Jun,10.8%,12.4%
-2021-07-15,CH,Industrial Production YoY,04:00,Jun,8.0%,8.8%
-2021-07-15,CH,Surveyed Jobless Rate,04:00,Jun,5.0%,5.0%
-2021-07-15,UK,Jobless Claims Change,08:00,--,--,-92.6k
-2021-07-15,US,Empire Manufacturing,14:30,Jul,--,17.4
-2021-07-15,US,Import Price Index YoY,14:30,Jun,--,11.3%
-2021-07-15,US,Philadelphia Fed Business Outlook,14:30,Jul,--,30.7
-2021-07-15,US,Industrial Production MoM,15:15,Jun,--,0.8%
-2021-07-15,US,Fed’s Evans Discusses the Economy,17:00,--,--,--
-2021-07-15,US,Merkel visits White House,--,--,--,--
-2021-07-16,EC,EU27 New Car Registrations,08:00,Jun,--,53.4%
-2021-07-16,EC,Trade Balance SA,11:00,May,--,9.4b
-2021-07-16,EC,CPI YoY,11:00,Jun F,--,2.0%
-2021-07-16,US,Retail Sales Advance MoM,14:30,Jun,--,-1.3%
-2021-07-16,US,Business Inventories,16:00,May,--,-0.2%
-2021-07-16,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2021-07-16,US,Net Long-term TIC Flows,22:00,--,--,$100.7b
-2021-07-16,JN,BOJ Policy Balance Rate,--,--,--,-0.1%
-2021-07-19,EC,Construction Output MoM,11:00,May,--,-2.2%
-2021-07-19,US,NAHB Housing Market Index,16:00,Jul,--,81.0
-2021-07-20,JN,Natl CPI YoY,01:30,Jun,--,-0.1%
-2021-07-20,CH,1-Year Loan Prime Rate,03:30,--,3.9%,3.9%
-2021-07-20,GE,PPI YoY,08:00,Jun,--,7.2%
-2021-07-20,EC,ECB Current Account SA,10:00,May,--,22.8b
-2021-07-20,US,Building Permits MoM,14:30,Jun,1.0%,-3.0%
-2021-07-20,US,Housing Starts MoM,14:30,Jun,0.2%,3.6%
-2021-07-21,JN,Trade Balance Adjusted,01:50,Jun,--,¥43.1b
-2021-07-21,JN,BOJ Minutes of June Meeting,01:50,--,--,--
-2021-07-21,JN,Supermarket Sales YoY,07:00,Jun,--,2.9%
-2021-07-21,UK,PSNB ex Banking Groups,08:00,Jun,--,24.3b
-2021-07-21,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
-2021-07-21,FR,Business Confidence,08:45,Jul,--,113.0
-2021-07-22,UK,CBI Business Optimism,12:00,Jul,35.0,38.0
-2021-07-22,EC,ECB Deposit Facility Rate,13:45,--,--,-0.5%
-2021-07-22,US,Chicago Fed Nat Activity Index,14:30,Jun,--,0.29
-2021-07-22,EC,ECB President Christine Lagarde Holds Press Conference,14:30,--,--,--
-2021-07-22,US,Initial Jobless Claims,14:30,--,--,--
-2021-07-22,US,Leading Index,16:00,Jun,--,1.3%
-2021-07-22,US,Existing Home Sales MoM,16:00,Jun,1.9%,-0.9%
-2021-07-22,EC,Consumer Confidence,16:00,Jul A,--,-3.3
-2021-07-22,US,Kansas City Fed Manf. Activity,17:00,Jul,--,27.0
-2021-07-23,UK,GfK Consumer Confidence,01:01,Jul,--,-9.0
-2021-07-23,UK,Retail Sales Inc Auto Fuel MoM,08:00,Jun,--,-1.4%
-2021-07-23,EC,Markit Eurozone Manufacturing PMI,10:00,Jul P,--,63.4
-2021-07-23,EC,Markit Eurozone Services PMI,10:00,Jul P,--,58.3
-2021-07-23,UK,Markit UK PMI Manufacturing SA,10:30,Jul P,--,63.9
-2021-07-23,UK,Markit/CIPS UK Services PMI,10:30,Jul P,--,62.4
-2021-07-23,US,Markit US Manufacturing PMI,15:45,Jul P,--,62.1
-2021-07-23,US,Markit US Services PMI,15:45,Jul P,--,64.6
-2021-07-23,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2021-07-26,JN,Jibun Bank Japan PMI Composite,02:30,Jul P,--,48.9
+2021-07-26,JN,Nationwide Dept Sales YoY,07:30,Jun,--,65.2%
+2021-07-26,GE,IFO Business Climate,10:00,Jul,102.0,101.8
+2021-07-26,US,New Home Sales MoM,16:00,Jun,4.0%,-5.9%
+2021-07-26,US,Dallas Fed Manf. Activity,16:30,Jul,32.1,31.1
+2021-07-27,JN,PPI Services YoY,01:50,Jun,1.3%,1.5%
+2021-07-27,CH,Industrial Profits YoY,03:30,Jun,--,36.4%
+2021-07-27,EC,M3 Money Supply YoY,10:00,Jun,8.2%,8.4%
+2021-07-27,FR,Total Jobseekers,12:00,2Q,--,3560.6k
+2021-07-27,UK,CBI Retailing Reported Sales,12:00,Jul,20.0,25.0
+2021-07-27,US,Cap Goods Orders Nondef Ex Air,14:30,Jun P,0.5%,0.1%
+2021-07-27,US,FHFA House Price Index MoM,15:00,May,--,1.8%
+2021-07-27,US,S&P CoreLogic CS 20-City YoY NSA,15:00,May,--,14.9%
+2021-07-27,US,Conf. Board Consumer Confidence,16:00,Jul,124.0,127.3
+2021-07-27,US,Richmond Fed Manufact. Index,16:00,Jul,20.0,22.0
+2021-07-28,JN,BOJ Summary of Opinions,01:50,--,--,--
+2021-07-28,GE,Import Price Index YoY,08:00,Jun,12.5%,11.8%
+2021-07-28,GE,GfK Consumer Confidence,08:00,Aug,40.0%,-30.0%
+2021-07-28,FR,Consumer Confidence,08:45,Jul,--,102.0
+2021-07-28,IT,Economic Sentiment,10:00,Jul,--,112.8
+2021-07-28,US,Advance Goods Trade Balance,14:30,Jun,-$88.0b,-$88.1b
+2021-07-28,US,Wholesale Inventories MoM,14:30,Jun P,--,1.3%
+2021-07-28,US,DOE U.S. Crude Oil Inventories,16:30,--,--,2107k
+2021-07-28,US,FOMC Rate Decision (Lower Bound),20:00,--,0.0%,0.0%
+2021-07-28,US,Powell Holds Press Conference ,20:30,--,--,--
+2021-07-28,FR,PPI YoY,08:45,Jun,--,7.2%
+2021-07-29,GE,Unemployment Change (000's),09:55,Jul,-20.0k,-38.0k
+2021-07-29,UK,Mortgage Approvals,10:30,Jun,84.0k,87.5k
+2021-07-29,EC,Economic Confidence,11:00,Jul,118.7,117.9
+2021-07-29,GE,CPI EU Harmonized YoY,14:00,Jul P,2.8%,2.1%
+2021-07-29,US,Initial Jobless Claims,14:30,,--,419k
+2021-07-29,US,GDP Annualized QoQ,14:30,2Q A,8.3%,6.4%
+2021-07-29,US,Pending Home Sales MoM,16:00,Jun,1.0%,8.0%
+2021-07-30,JN,Jobless Rate,01:30,Jun,3.0%,3.0%
+2021-07-30,JN,Industrial Production MoM,01:50,Jun P,5.0%,-6.5%
+2021-07-30,JN,Retail Sales MoM,01:50,Jun,2.9%,-0.4%
+2021-07-30,JN,Housing Starts YoY,07:00,Jun,7.1%,9.9%
+2021-07-30,FR,Consumer Spending MoM,07:30,Jun,--,10.4%
+2021-07-30,FR,GDP QoQ,07:30,2Q P,0.6%,-0.1%
+2021-07-30,FR,CPI EU Harmonized YoY,08:45,Jul P,--,1.9%
+2021-07-30,GE,GDP SA QoQ,10:00,2Q P,2.1%,-1.8%
+2021-07-30,IT,GDP WDA QoQ,10:00,2Q P,1.5%,0.1%
+2021-07-30,EC,Unemployment Rate,11:00,Jun,7.9%,7.9%
+2021-07-30,EC,GDP SA QoQ,11:00,2Q A,1.5%,-0.3%
+2021-07-30,EC,CPI Estimate YoY,11:00,Jul,2.1%,1.9%
+2021-07-30,US,Personal Spending,14:30,Jun,0.6%,0.0%
+2021-07-30,US,MNI Chicago PMI,15:45,Jul,63.7,66.1
+2021-07-30,US,U. of Mich. Sentiment,16:00,Jul F,80.8,80.8
+2021-07-30,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
