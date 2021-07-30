@@ -1,55 +1,45 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-26 July 2021,--,--,--,--,--
-JN,Jibun Bank Japan PMI Composite,02:30,Jul P,--,48.9
-JN,Nationwide Dept Sales YoY,07:30,Jun,--,65.2%
-GE,IFO Business Climate,10:00,Jul,102.0,101.8
-US,New Home Sales MoM,16:00,Jun,4.0%,-5.9%
-US,Dallas Fed Manf. Activity,16:30,Jul,32.1,31.1
-27 July 2021,--,--,--,--,--
-JN,PPI Services YoY,01:50,Jun,1.3%,1.5%
-CH,Industrial Profits YoY,03:30,Jun,--,36.4%
-EC,M3 Money Supply YoY,10:00,Jun,8.2%,8.4%
-FR,Total Jobseekers,12:00,2Q,--,3560.6k
-UK,CBI Retailing Reported Sales,12:00,Jul,20.0,25.0
-US,Cap Goods Orders Nondef Ex Air,14:30,Jun P,0.5%,0.1%
-US,FHFA House Price Index MoM,15:00,May,--,1.8%
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,May,--,14.9%
-US,Conf. Board Consumer Confidence,16:00,Jul,124.0,127.3
-US,Richmond Fed Manufact. Index,16:00,Jul,20.0,22.0
-28 July 2021,--,--,--,--,--
-JN,BOJ Summary of Opinions,01:50,--,--,--
-GE,Import Price Index YoY,08:00,Jun,12.5%,11.8%
-GE,GfK Consumer Confidence,08:00,Aug,40.0%,-30.0%
-FR,Consumer Confidence,08:45,Jul,--,102.0
-IT,Economic Sentiment,10:00,Jul,--,112.8
-US,Advance Goods Trade Balance,14:30,Jun,-$88.0b,-$88.1b
-US,Wholesale Inventories MoM,14:30,Jun P,--,1.3%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,2107k
-US,FOMC Rate Decision (Lower Bound),20:00,--,0.0%,0.0%
-US,Powell Holds Press Conference ,20:30,--,--,--
-29 July 2021,--,--,--,--,--
-FR,PPI YoY,08:45,Jun,--,7.2%
-GE,Unemployment Change (000's),09:55,Jul,-20.0k,-38.0k
-UK,Mortgage Approvals,10:30,Jun,84.0k,87.5k
-EC,Economic Confidence,11:00,Jul,118.7,117.9
-GE,CPI EU Harmonized YoY,14:00,Jul P,2.8%,2.1%
-US,Initial Jobless Claims,14:30,,--,419k
-US,GDP Annualized QoQ,14:30,2Q A,8.3%,6.4%
-US,Pending Home Sales MoM,16:00,Jun,1.0%,8.0%
-30 July 2021,--,--,--,--,--
-JN,Jobless Rate,01:30,Jun,3.0%,3.0%
-JN,Industrial Production MoM,01:50,Jun P,5.0%,-6.5%
-JN,Retail Sales MoM,01:50,Jun,2.9%,-0.4%
-JN,Housing Starts YoY,07:00,Jun,7.1%,9.9%
-FR,Consumer Spending MoM,07:30,Jun,--,10.4%
-FR,GDP QoQ,07:30,2Q P,0.6%,-0.1%
-FR,CPI EU Harmonized YoY,08:45,Jul P,--,1.9%
-GE,GDP SA QoQ,10:00,2Q P,2.1%,-1.8%
-IT,GDP WDA QoQ,10:00,2Q P,1.5%,0.1%
-EC,Unemployment Rate,11:00,Jun,7.9%,7.9%
-EC,GDP SA QoQ,11:00,2Q A,1.5%,-0.3%
-EC,CPI Estimate YoY,11:00,Jul,2.1%,1.9%
-US,Personal Spending,14:30,Jun,0.6%,0.0%
-US,MNI Chicago PMI,15:45,Jul,63.7,66.1
-US,U. of Mich. Sentiment,16:00,Jul F,80.8,80.8
+31 July 2021,--,--,--,--,--
+CH,Non-manufacturing PMI,03:00,Jul,53.3,53.5
+CH,Manufacturing PMI,03:00,Jul,50.8,50.9
+02 August 2021,--,--,--,--,--
+JN,Jibun Bank Japan PMI Mfg,02:30,Jul F,--,52.2
+CH,Caixin China PMI Mfg,03:45,Jul,51.0,51.3
+JN,Consumer Confidence Index,07:00,Jul,36.9,37.4
+GE,Retail Sales MoM,08:00,Jun,2.0%,4.2%
+EC,Markit Eurozone Manufacturing PMI,10:00,Jul F,62.6,62.6
+UK,Markit UK PMI Manufacturing SA,10:30,Jul F,60.4,60.4
+US,Markit US Manufacturing PMI,15:45,Jul F,63.1,63.1
+US,Construction Spending MoM,16:00,Jun,0.5%,-0.3%
+US,ISM Manufacturing,16:00,Jul,60.8,60.6
+03 August 2021,--,--,--,--,--
+JN,Tokyo CPI YoY,01:30,Jul,0.0%,0.0%
+EC,PPI YoY,11:00,Jun,10.3%,9.6%
+US,Cap Goods Orders Nondef Ex Air,16:00,Jun F,--,0.5%
+US,Wards Total Vehicle Sales,--,Jul,15.65m,15.36m
+04 August 2021,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,02:30,Jul F,--,46.4
+CH,Caixin China PMI Services,03:45,Jul,50.5,50.3
+EC,Markit Eurozone Services PMI,10:00,Jul F,60.4,60.4
+UK,Markit/CIPS UK Services PMI,10:30,Jul F,57.8,57.8
+EC,Retail Sales MoM,11:00,Jun,1.5%,4.6%
+US,ADP Employment Change,14:15,Jul,675k,692k
+US,Markit US Services PMI,15:45,Jul F,59.8,59.8
+US,ISM Services Index,16:00,Jul,60.5,60.1
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-4089k
+05 August 2021,--,--,--,--,--
+GE,Factory Orders MoM,08:00,Jun,2.0%,-3.7%
+FR,Industrial Production MoM,08:45,Jun,0.4%,-0.3%
+EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+UK,BOE Gilt Purchase Target,13:00,Aug,875b,875b
+US,Trade Balance,14:30,Jun,-$72.4b,-$71.2b
+US,Initial Jobless Claims,14:30,--,--,400k
+06 August 2021,--,--,--,--,--
+JN,Leading Index CI,07:00,Jun P,104.2,102.6
+GE,Industrial Production SA MoM,08:00,Jun,0.5%,-0.3%
+FR,Trade Balance,08:45,Jun,--,-6801m
+FR,Private Sector Payrolls QoQ,08:45,2Q P,--,0.5%
+IT,Industrial Production MoM,10:00,Jun,0.8%,-1.5%
+US,Change in Nonfarm Payrolls,14:30,Jul,925k,850k
+US,Average Hourly Earnings YoY,14:30,Jul,3.9%,3.6%
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
