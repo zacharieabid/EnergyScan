@@ -1,48 +1,61 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-20 September 2021,--,--,--,--,--
-GE,PPI YoY,08:00,Aug,--,10.4%
-US,NAHB Housing Market Index,16:00,Sep,74.0,75.0
-CA,2021 Canadian Federal Election,--,--,--,--
-21 September 2021,--,--,--,--,--
-UK,PSNB ex Banking Groups,08:00,Aug,16.2b,10.4b
-EC,OECD Publishes Interim Economic Outlook,11:00,--,--,--
-UK,CBI Trends Total Orders,12:00,Sep,14.0,18.0
-US,Building Permits MoM,14:30,Aug,-2.2%,2.6%
-US,Current Account Balance,14:30,2Q,-$190.0b,-$195.7b
-US,Housing Starts MoM,14:30,Aug,0.6%,-7.0%
-22 September 2021,--,--,--,--,--
-CH,1-Year Loan Prime Rate,03:30,--,3.85%,3.85%
-US,Existing Home Sales MoM,16:00,Aug,-2.5%,2.0%
-EC,Consumer Confidence,16:00,Sep A,-5.7,-5.3
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-6422k
-US,FOMC Rate Decision (Lower Bound),20:00,--,0.0%,0.0%
-US,Powell Holds Press Conference,20:30,--,--,--
-JN,BOJ Policy Balance Rate,--,--,--,-0.1%
-23 September 2021,--,--,--,--,--
-FR,Business Confidence,08:45,Sep,110.0,110.0
-EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-EC,Markit Eurozone Manufacturing PMI,10:00,Sep P,60.4,61.4
-EC,Markit Eurozone Services PMI,10:00,Sep P,58.8,59.0
-UK,Markit UK PMI Manufacturing SA,10:30,Sep P,59.0,60.3
-UK,Markit/CIPS UK Services PMI,10:30,Sep P,54.3,55.0
-UK,Bank of England Bank Rate,13:00,--,0.1%,0.1%
-US,Chicago Fed Nat Activity Index,14:30,Aug,--,0.5
-US,Initial Jobless Claims,14:30,--,--,332k
-US,Markit US Manufacturing PMI,15:45,Sep P,61.0,61.1
-US,Markit US Services PMI,15:45,Sep P,55.0,55.1
-US,Leading Index,16:00,Aug,0.5%,0.9%
-US,Kansas City Fed Manf. Activity,17:00,Sep,--,29.0
-24 September 2021,--,--,--,--,--
-UK,GfK Consumer Confidence,01:01,Sep,-7.0,-8.0
-JN,Natl CPI YoY,01:30,Aug,-0.3%,-0.3%
-JN,Jibun Bank Japan PMI Mfg,02:30,Sep P,--,52.7
-JN,Jibun Bank Japan PMI Services,02:30,Sep P,--,42.9
-JN,Nationwide Dept Sales YoY,07:30,Aug,--,4.2%
-GE,IFO Business Climate,10:00,Sep,99.0,99.4
-IT,Economic Sentiment,10:00,Sep,--,114.2
-UK,CBI Total Dist. Reported Sales,12:00,Sep,--,45.0
-US,Fed's Mester Discusses the Economic Outlook,14:45,--,--,--
-US,New Home Sales MoM,16:00,Aug,0.7%,1.0%
-US,Fed’s George Discusses Economic Outlook,16:05,--,--,--
+27 September 2021,--,--,--,--,--
+JN,PPI Services YoY,01:50,Aug,1.2%,1.1%
+EC,M3 Money Supply YoY,10:00,Aug,7.8%,7.6%
+US,Cap Goods Orders Nondef Ex Air,14:30,Aug P,--,0.1%
+US,Dallas Fed Manf. Activity,16:30,Sep,11.0,9.0
+US,Fed’s Brainard Speaks at Annual NABE Conf.,18:15,--,--,--
+UK,BOE Governor Bailey speak to economists,20:00,--,--,--
+GE,Retail Sales MoM,27-02,Aug,1.0%,-5.1%
+28 September 2021,--,--,--,--,--
+JN,BOJ Minutes of July Meeting,01:50,--,--,--
+CH,Industrial Profits YoY,03:30,Aug,--,16.4%
+GE,GfK Consumer Confidence,08:00,Oct,-2.0,-1.2
+FR,Consumer Confidence,08:45,Sep,98.0,99.0
+EC,Lagarde Opens ECB Forum on Central Banking,14:00,--,--,--
+US,Advance Goods Trade Balance,14:30,Aug,-$87.0b,-$86.4b
+US,Wholesale Inventories MoM,14:30,Aug P,--,0.6%
+US,FHFA House Price Index MoM,15:00,Jul,1.5%,1.6%
+US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jul,20.2%,19.1%
+US,Conf. Board Consumer Confidence,16:00,Sep,114.6,113.8
+US,Richmond Fed Manufact. Index,16:00,Sep,--,9.0
+US,Fed’s Bostic Discusses the Economic Outlook,21:00,--,--,--
+29 September 2021,--,--,--,--,--
+US,Fed’s Bullard Discusses U.S. Eco. & Mon. Policy,01:00,--,--,--
+UK,Net Consumer Credit,10:30,Aug,0.5b,-0.0b
+EC,Economic Confidence,11:00,Sep,116.9,117.5
+US,Pending Home Sales MoM,16:00,Aug,1.0%,-1.8%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-3481k
+EC,"Bailey, Kuroda, Lagarde, Powell on ECB Forum",17:45,--,--,--
+30 September 2021,--,--,--,--,--
+JN,Retail Sales MoM,01:50,Aug,-1.8%,1.1%
+JN,Industrial Production MoM,01:50,Aug P,-0.5%,-1.5%
+CH,Non-manufacturing PMI,03:00,Sep,50.8,47.5
+CH,Manufacturing PMI,03:00,Sep,50.2,50.1
+CH,Caixin China PMI Mfg,03:45,Sep,49.5,49.2
+JN,Housing Starts YoY,07:00,Aug,9.5%,9.9%
+UK,GDP QoQ,08:00,2Q F,4.8%,4.8%
+FR,PPI YoY,08:45,Aug,--,8.6%
+FR,Consumer Spending MoM,08:45,Aug,--,-2.2%
+FR,CPI EU Harmonized YoY,08:45,Sep P,2.7%,2.4%
+GE,Unemployment Change (000's),09:55,Sep,-25.0k,-53.0k
+EC,Unemployment Rate,11:00,Aug,7.6%,7.6%
+GE,CPI EU Harmonized YoY,14:00,Sep P,3.9%,3.4%
+US,Initial Jobless Claims,14:30,--,--,351k
+US,GDP Annualized QoQ,14:30,2Q T,6.7%,6.6%
+US,MNI Chicago PMI,15:45,Sep,65.2,66.8
+US,Fed's Evans Discusses Economic Outlook,18:30,--,--,--
+01 October 2021,--,--,--,--,--
+JN,Jobless Rate,01:30,Aug,2.9%,2.8%
+JN,Tankan Large Mfg Index,01:50,3Q,13.0,14.0
+JN,Jibun Bank Japan PMI Mfg,02:30,Sep F,--,51.2
+JN,Consumer Confidence Index,07:00,Sep,38.0,36.7
+EC,CPI Estimate YoY,11:00,Sep,3.3%,3.0%
+US,Personal Spending,14:30,Aug,0.7%,0.3%
+US,PCE Core Deflator YoY,14:30,Aug,3.6%,3.6%
+US,Markit US Manufacturing PMI,15:45,Sep F,--,60.5
+US,U. of Mich. Sentiment,16:00,Sep F,71.0,71.0
+US,Construction Spending MoM,16:00,Aug,0.3%,0.3%
+US,ISM Manufacturing,16:00,Sep,59.5,59.9
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-GE,Germany Sovereign Debt to be rated by S&P,,--,--,--
+US,Wards Total Vehicle Sales,--,Sep,13.35m,13.06m
