@@ -1,61 +1,77 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-27 September 2021,--,--,--,--,--
-JN,PPI Services YoY,01:50,Aug,1.2%,1.1%
-EC,M3 Money Supply YoY,10:00,Aug,7.8%,7.6%
-US,Cap Goods Orders Nondef Ex Air,14:30,Aug P,--,0.1%
-US,Dallas Fed Manf. Activity,16:30,Sep,11.0,9.0
-US,Fed’s Brainard Speaks at Annual NABE Conf.,18:15,--,--,--
-UK,BOE Governor Bailey speak to economists,20:00,--,--,--
-GE,Retail Sales MoM,27-02,Aug,1.0%,-5.1%
-28 September 2021,--,--,--,--,--
-JN,BOJ Minutes of July Meeting,01:50,--,--,--
-CH,Industrial Profits YoY,03:30,Aug,--,16.4%
-GE,GfK Consumer Confidence,08:00,Oct,-2.0,-1.2
-FR,Consumer Confidence,08:45,Sep,98.0,99.0
-EC,Lagarde Opens ECB Forum on Central Banking,14:00,--,--,--
-US,Advance Goods Trade Balance,14:30,Aug,-$87.0b,-$86.4b
-US,Wholesale Inventories MoM,14:30,Aug P,--,0.6%
-US,FHFA House Price Index MoM,15:00,Jul,1.5%,1.6%
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jul,20.2%,19.1%
-US,Conf. Board Consumer Confidence,16:00,Sep,114.6,113.8
-US,Richmond Fed Manufact. Index,16:00,Sep,--,9.0
-US,Fed’s Bostic Discusses the Economic Outlook,21:00,--,--,--
-29 September 2021,--,--,--,--,--
-US,Fed’s Bullard Discusses U.S. Eco. & Mon. Policy,01:00,--,--,--
-UK,Net Consumer Credit,10:30,Aug,0.5b,-0.0b
-EC,Economic Confidence,11:00,Sep,116.9,117.5
-US,Pending Home Sales MoM,16:00,Aug,1.0%,-1.8%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-3481k
-EC,"Bailey, Kuroda, Lagarde, Powell on ECB Forum",17:45,--,--,--
-30 September 2021,--,--,--,--,--
-JN,Retail Sales MoM,01:50,Aug,-1.8%,1.1%
-JN,Industrial Production MoM,01:50,Aug P,-0.5%,-1.5%
-CH,Non-manufacturing PMI,03:00,Sep,50.8,47.5
-CH,Manufacturing PMI,03:00,Sep,50.2,50.1
-CH,Caixin China PMI Mfg,03:45,Sep,49.5,49.2
-JN,Housing Starts YoY,07:00,Aug,9.5%,9.9%
-UK,GDP QoQ,08:00,2Q F,4.8%,4.8%
-FR,PPI YoY,08:45,Aug,--,8.6%
-FR,Consumer Spending MoM,08:45,Aug,--,-2.2%
-FR,CPI EU Harmonized YoY,08:45,Sep P,2.7%,2.4%
-GE,Unemployment Change (000's),09:55,Sep,-25.0k,-53.0k
-EC,Unemployment Rate,11:00,Aug,7.6%,7.6%
-GE,CPI EU Harmonized YoY,14:00,Sep P,3.9%,3.4%
-US,Initial Jobless Claims,14:30,--,--,351k
-US,GDP Annualized QoQ,14:30,2Q T,6.7%,6.6%
-US,MNI Chicago PMI,15:45,Sep,65.2,66.8
-US,Fed's Evans Discusses Economic Outlook,18:30,--,--,--
-01 October 2021,--,--,--,--,--
-JN,Jobless Rate,01:30,Aug,2.9%,2.8%
-JN,Tankan Large Mfg Index,01:50,3Q,13.0,14.0
-JN,Jibun Bank Japan PMI Mfg,02:30,Sep F,--,51.2
-JN,Consumer Confidence Index,07:00,Sep,38.0,36.7
-EC,CPI Estimate YoY,11:00,Sep,3.3%,3.0%
-US,Personal Spending,14:30,Aug,0.7%,0.3%
-US,PCE Core Deflator YoY,14:30,Aug,3.6%,3.6%
-US,Markit US Manufacturing PMI,15:45,Sep F,--,60.5
-US,U. of Mich. Sentiment,16:00,Sep F,71.0,71.0
-US,Construction Spending MoM,16:00,Aug,0.3%,0.3%
-US,ISM Manufacturing,16:00,Sep,59.5,59.9
+04 October 2021,--,--,--,--,--
+EC,Sentix Investor Confidence,10:30,Oct,19.0,19.6
+US,Cap Goods Orders Nondef Ex Air,16:00,Aug F,--,0.5%
+05 October 2021,--,--,--,--,--
+JN,Tokyo CPI YoY,01:30,Sep,-0.1%,-0.4%
+JN,Jibun Bank Japan PMI Services,02:30,Sep F,--,47.4
+FR,Industrial Production MoM,08:45,Aug,0.5%,0.3%
+UK,New Car Registrations YoY,10:00,Sep,--,-22.0%
+EC,Markit Eurozone Services PMI,10:00,Sep F,56.3,56.3
+UK,Markit/CIPS UK Services PMI,10:30,Sep F,--,54.6
+EC,PPI YoY,11:00,Aug,13.4%,12.1%
+US,Trade Balance,14:30,Aug,-$70.5b,-$70.1b
+US,Markit US Services PMI,15:45,Sep F,54.4,54.4
+US,ISM Services Index,16:00,Sep,59.8,61.7
+06 October 2021,--,--,--,--,--
+GE,Factory Orders MoM,08:00,Aug,-1.5%,3.4%
+EC,Retail Sales MoM,11:00,Aug,0.9%,-2.3%
+US,ADP Employment Change,14:15,Sep,430k,374k
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,4578k
+07 October 2021,--,--,--,--,--
+JN,Leading Index CI,07:00,Aug P,101.9,104.1
+GE,Industrial Production SA MoM,08:00,Aug,-0.1%,1.0%
+FR,Trade Balance,08:45,Aug,--,-6957m
+US,Initial Jobless Claims,14:30,--,--,362k
+EC,ECB's Lane speaks,15:00,--,--,--
+US,Fed’s Mester Takes Part in Panel on Inflation,17:45,--,--,--
+CH,Foreign Reserves,--,Sep,--,$3232.12b
+IT,"B20 event in Rome with Draghi, Yellen, Lagarde",7-8,--,--,--
+08 October 2021,--,--,--,--,--
+JN,Household Spending YoY,01:30,Aug,-1.2%,0.7%
+JN,BoP Current Account Adjusted,01:50,Aug,¥1154.0b,¥1413.4b
+CH,Caixin China PMI Services,03:45,Sep,49.2,46.7
+GE,Trade Balance,08:00,Aug,15.0b,18.1b
+US,Change in Nonfarm Payrolls,14:30,Sep,500k,235k
+US,Average Hourly Earnings YoY,14:30,Sep,4.6%,4.3%
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-US,Wards Total Vehicle Sales,--,Sep,13.35m,13.06m
+11 October 2021,--,--,--,--,--
+CH,Aggregate Financing CNY,10-15,Sep,--,2960.0b
+UK,Industrial Production MoM,08:00,Aug,--,1.2%
+JN,Machine Tool Orders YoY,08:00,Sep P,--,85.2%
+UK,Monthly GDP (MoM),08:00,Aug,--,0.1%
+UK,Index of Services MoM,08:00,Aug,--,0.0%
+UK,Trade Balance GBP/Mn,08:00,Aug,--,-£3117m
+EC,ECB's Villeroy speaks in Paris,09:00,--,--,--
+IT,Industrial Production MoM,10:00,Aug,--,0.8%
+FR,Bank of France Ind. Sentiment,,Sep,--,104.0
+12 October 2021,--,--,--,--,--
+JN,PPI YoY,01:50,Sep,--,5.5%
+UK,Jobless Claims Change,08:00,Sep,--,-58.6k
+GE,ZEW Survey Expectations,11:00,Oct,--,26.5
+US,NFIB Small Business Optimism,12:00,Sep,--,100.1
+13 October 2021,--,--,--,--,--
+JN,Money Stock M2 YoY,01:50,Sep,--,4.7%
+JN,Core Machine Orders MoM,01:50,Aug,--,0.9%
+GE,CPI EU Harmonized YoY,08:00,Sep F,--,4.1%
+EC,Industrial Production SA MoM,11:00,Aug,--,1.5%
+US,CPI YoY,14:30,Sep,--,5.3%
+US,FOMC Meeting Minutes,20:00,--,--,--
+CH,Trade Balance,,Sep,--,$58.34b
+14 October 2021,--,--,--,--,--
+CH,CPI YoY,03:30,Sep,--,0.8%
+CH,PPI YoY,03:30,Sep,--,9.5%
+JN,Industrial Production MoM,06:30,Aug F,--,-3.2%
+US,Initial Jobless Claims,14:30,--,--,--
+US,PPI Final Demand YoY,14:30,Sep,--,8.3%
+US,DOE U.S. Crude Oil Inventories,17:00,--,--,--
+15 October 2021,--,--,--,--,--
+EC,EU27 New Car Registrations,08:00,Sep,--,-19.1%
+FR,CPI EU Harmonized YoY,08:45,Sep F,--,2.7%
+IT,CPI EU Harmonized YoY,10:00,Sep F,--,3.0%
+EC,Trade Balance SA,11:00,Aug,--,13.4b
+US,Retail Sales Advance MoM,14:30,Sep,-0.2%,0.7%
+US,Import Price Index YoY,14:30,Sep,--,9.0%
+US,Business Inventories,16:00,Aug,--,0.5%
+US,U. of Mich. Sentiment,16:00,Oct P,--,--
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
