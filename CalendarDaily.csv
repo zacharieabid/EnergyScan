@@ -1,39 +1,73 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2021-10-31,CH,Non-manufacturing PMI,02:00,Oct,53.0,53.2
-2021-10-31,CH,Manufacturing PMI,02:00,Oct,49.7,49.6
-2021-11-01,JN,Jibun Bank Japan PMI Mfg,01:30,Oct F,--,53.0
-2021-11-01,CH,Caixin China PMI Mfg,02:45,Oct,50.0,50.0
-2021-11-01,EC,Markit Eurozone Manufacturing PMI,10:00,Oct F,58.5,58.5
-2021-11-01,UK,Markit UK PMI Manufacturing SA,10:30,Oct F,56.9,57.7
-2021-11-01,US,ISM Manufacturing,15:00,Oct,60.3,61.1
-2021-11-01,US,Markit US Manufacturing PMI,15:45,Oct F,59.2,59.2
-2021-11-01,GE,Retail Sales MoM,01-03,Sep,0.4%,1.1%
-2021-11-02,JN,BOJ Minutes of Sept. Meeting,00:50,--,--,--
-2021-11-02,US,Wards Total Vehicle Sales,--,Oct,12.40m,12.18m
-2021-11-03,JN,Jibun Bank Japan PMI Services,01:30,Oct F,--,50.7
-2021-11-03,CH,Caixin China PMI Services,02:45,Oct,53.5,53.4
-2021-11-03,UK,Nationwide House Px NSA YoY,08:00,Oct,9.2%,10.0%
-2021-11-03,EC,Markit Eurozone Services PMI,10:00,Oct F,54.7,54.7
-2021-11-03,UK,Markit/CIPS UK Services PMI,10:30,Oct F,57.7,58.0
-2021-11-03,US,ADP Employment Change,13:15,Oct,400k,568k
-2021-11-03,US,ISM Services Index,15:00,Oct,61.8,61.9
-2021-11-03,US,Factory Orders,15:00,Sep,-0.1%,1.2%
-2021-11-03,US,DOE U.S. Crude Oil Inventories,15:30,--,--,4268k
-2021-11-03,US,Markit US Services PMI,15:45,Oct,58.2,58.2
-2021-11-03,US,FOMC Rate Decision (Upper Bound),19:00,--,0.25%,0.25%
-2021-11-03,US,Powell Holds Press Conference ,19:30,--,--,--
-2021-11-04,GE,Factory Orders MoM,08:00,Sep,1.8%,-7.7%
-2021-11-04,EC,PPI YoY,11:00,Sep,--,13.4%
-2021-11-04,UK,Bank of England Bank Rate,13:00,--,0.1%,0.1%
-2021-11-04,US,Initial Jobless Claims,13:30,--,--,281k
-2021-11-04,US,Unit Labor Costs,13:30,3Q P,5.4%,1.3%
-2021-11-04,US,Trade Balance,13:30,Sep,-$74.6b,-$73.3b
-2021-11-05,JN,Household Spending YoY,00:30,Sep,-3.5%,-3.0%
-2021-11-05,GE,Industrial Production SA MoM,08:00,Sep,-0.1%,-4.0%
-2021-11-05,FR,Private Sector Payrolls QoQ,08:45,3Q P,--,1.4%
-2021-11-05,FR,Industrial Production MoM,08:45,Sep,--,1.0%
-2021-11-05,FR,Wages QoQ,08:45,3Q P,--,0.3%
-2021-11-05,EC,Retail Sales MoM,11:00,Sep,0.2%,0.3%
-2021-11-05,US,Change in Nonfarm Payrolls,13:30,Oct,425k,194k
-2021-11-05,US,Average Hourly Earnings YoY,13:30,Oct,4.9%,4.6%
-2021-11-05,US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
+2021-11-07,CH,Trade Balance,--,Oct,$64.03b,$66.76b
+2021-11-08,JN,Leading Index CI,06:00,Sep P,99.8,101.3
+2021-11-08,EC,Sentix Investor Confidence,10:30,Nov,--,16.9
+2021-11-08,EC,ECB's Lane Speaks,14:10,--,--,--
+2021-11-08,US,Fed’s Clarida on Prospects for Mon. Policy,15:00,--,--,--
+2021-11-08,US,Fed’s Evans Speaks on Eco. and Mon. Policy,19:50,--,--,--
+2021-11-09,JN,BoP Current Account Adjusted,00:50,Sep,¥847.2b,¥1042.6b
+2021-11-09,GE,Trade Balance,08:00,Sep,--,10.7b
+2021-11-09,FR,Trade Balance,08:45,Sep,--,-6669m
+2021-11-09,GE,ZEW Survey Expectations,11:00,Nov,20.0,22.3
+2021-11-09,US,NFIB Small Business Optimism,12:00,Oct,98.5,99.1
+2021-11-09,US,PPI Final Demand YoY,14:30,Oct,8.6%,8.6%
+2021-11-09,US,STEO Current Yr Crude Forecast,18:00,Nov,--,11.0
+2021-11-09,CH,Aggregate Financing CNY,9-15,Oct,1600.0b,2900.0b
+2021-11-10,CH,CPI YoY,02:30,Oct,1.4%,0.7%
+2021-11-10,GE,CPI EU Harmonized YoY,08:00,Oct F,4.6%,4.6%
+2021-11-10,IT,Industrial Production MoM,10:00,Sep,--,-0.2%
+2021-11-10,US,Initial Jobless Claims,14:30,--,--,269k
+2021-11-10,US,CPI YoY,14:30,Oct,5.8%,5.4%
+2021-11-10,US,DOE U.S. Crude Oil Inventories,16:30,--,--,3290k
+2021-11-10,FR,Bank of France Ind. Sentiment,--,Oct,--,100.0
+2021-11-11,JN,PPI YoY,00:50,Oct,6.9%,6.3%
+2021-11-11,UK,Monthly GDP (MoM),08:00,Sep,0.3%,0.4%
+2021-11-11,UK,GDP QoQ,08:00,3Q P,1.5%,5.5%
+2021-11-11,UK,Industrial Production MoM,08:00,Sep,0.2%,0.8%
+2021-11-11,UK,Trade Balance GBP/Mn,08:00,Sep,--,-£3716m
+2021-11-11,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+2021-11-11,EC,EU Commission Economic Forecasts,11:00,--,--,--
+2021-11-12,GE,Wholesale Price Index YoY,08:00,Oct,--,13.2%
+2021-11-12,EC,Industrial Production SA MoM,11:00,Sep,0.0%,-1.6%
+2021-11-12,US,U. of Mich. Sentiment,16:00,Nov P,72.5,71.7
+2021-11-12,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2021-11-15,JN,GDP SA QoQ,00:50,3Q P,-0.2%,0.5%
+2021-11-15,UK,Rightmove House Prices YoY,01:01,Nov,--,6.5%
+2021-11-15,CH,New Home Prices MoM,02:30,Oct,--,-0.1%
+2021-11-15,CH,Retail Sales YoY,03:00,Oct,3.6%,4.4%
+2021-11-15,CH,Industrial Production YoY,03:00,Oct,3.0%,3.1%
+2021-11-15,JN,Industrial Production MoM,05:30,Sep F,--,-5.4%
+2021-11-15,EC,Trade Balance SA,11:00,Sep,--,11.1b
+2021-11-15,US,Empire Manufacturing,14:30,Nov,20.3,19.8
+2021-11-16,UK,Jobless Claims Change,08:00,Oct,--,-51.1k
+2021-11-16,FR,CPI EU Harmonized YoY,08:45,Oct F,--,3.2%
+2021-11-16,EC,Employment QoQ,11:00,3Q P,--,0.7%
+2021-11-16,EC,GDP SA QoQ,11:00,3Q P,--,2.2%
+2021-11-16,US,Retail Sales Advance MoM,14:30,Oct,0.4%,0.7%
+2021-11-16,US,Import Price Index YoY,14:30,Oct,--,9.2%
+2021-11-16,US,Industrial Production MoM,15:15,Oct,1.3%,-1.3%
+2021-11-16,US,Business Inventories,16:00,Sep,0.6%,0.6%
+2021-11-16,US,NAHB Housing Market Index,16:00,Nov,81.0,80.0
+2021-11-16,US,Net Long-term TIC Flows,22:00,Sep,--,$79.3b
+2021-11-17,JN,Trade Balance Adjusted,00:50,Oct,--,-¥624.8b
+2021-11-17,JN,Core Machine Orders MoM,00:50,Sep,--,-2.4%
+2021-11-17,UK,CPI YoY,08:00,Oct,--,3.1%
+2021-11-17,UK,PPI Output NSA YoY,08:00,Oct,--,6.7%
+2021-11-17,UK,House Price Index YoY,10:30,Sep,--,10.6%
+2021-11-17,EC,CPI YoY,11:00,Oct F,--,3.4%
+2021-11-17,US,Building Permits MoM,14:30,Oct,2.8%,-7.7%
+2021-11-17,US,Housing Starts MoM,14:30,Oct,1.6%,-1.6%
+2021-11-17,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+2021-11-18,EC,EU27 New Car Registrations,08:00,Oct,--,-23.1%
+2021-11-18,US,Initial Jobless Claims,14:30,--,--,--
+2021-11-18,US,Philadelphia Fed Business Outlook,14:30,Nov,21.0,23.8
+2021-11-18,US,Leading Index,16:00,Oct,0.7%,0.2%
+2021-11-18,US,Kansas City Fed Manf. Activity,17:00,Nov,--,31.0
+2021-11-19,JN,Natl CPI YoY,00:30,Oct,--,0.2%
+2021-11-19,UK,GfK Consumer Confidence,01:01,Nov,--,-17.0
+2021-11-19,FR,ILO Unemployment Rate,07:30,3Q,--,8.0%
+2021-11-19,UK,Retail Sales Inc Auto Fuel MoM,08:00,Oct,--,-0.2%
+2021-11-19,GE,PPI YoY,08:00,Oct,--,14.2%
+2021-11-19,UK,PSNB ex Banking Groups,08:00,Oct,--,21.8b
+2021-11-19,EC,ECB Current Account SA,10:00,Sep,--,13.4b
+2021-11-19,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
