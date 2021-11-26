@@ -1,44 +1,63 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-22 November 2021,--,--,--,--,--
-US,Chicago Fed Nat Activity Index,14:30,Oct,--,-0.13
-US,Existing Home Sales MoM,16:00,Oct,-1.4%,7.0%
-EC,Consumer Confidence,16:00,Nov A,-5.4,-4.8
-23 November 2021,--,--,--,--,--
-GE,GDP SA QoQ,08:00,3Q F,1.8%,1.8%
-EC,Markit Eurozone Manufacturing PMI,10:00,Nov P,57.5,58.3
-EC,Markit Eurozone Services PMI,10:00,Nov P,53.5,54.6
-UK,Markit UK PMI Manufacturing SA,10:30,Nov P,57.0,57.8
-UK,Markit/CIPS UK Services PMI,10:30,Nov P,58.0,59.1
-US,Markit US Manufacturing PMI,15:45,Nov P,59.0,58.4
-US,Markit US Services PMI,15:45,Nov P,59.0,58.7
-US,Richmond Fed Manufact. Index,16:00,Nov,--,12.0
-24 November 2021,--,--,--,--,--
-JN,Jibun Bank Japan PMI Mfg,01:30,Nov P,--,53.2
-JN,Jibun Bank Japan PMI Services,01:30,Nov P,--,50.7
-FR,Business Confidence,08:45,Nov,112.0,113.0
-GE,IFO Business Climate,10:00,Nov,96.7,97.7
-UK,CBI Trends Total Orders,12:00,Nov,7.0,9.0
-US,Initial Jobless Claims,14:30,--,--,268k
-US,Advance Goods Trade Balance,14:30,Oct,-$94.7b,-$96.3b
-US,GDP Annualized QoQ,14:30,3Q S,2.2%,2.0%
-US,Cap Goods Orders Nondef Ex Air,14:30,Oct P,0.5%,0.8%
-US,Personal Spending,16:00,Oct,0.9%,0.6%
-US,PCE Core Deflator YoY,16:00,Oct,4.1%,3.6%
-US,U. of Mich. Sentiment,16:00,Nov F,66.8,66.8
-US,New Home Sales MoM,16:00,Oct,0.1%,14.0%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-2101k
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-US,FOMC Meeting Minutes,20:00,--,--,--
-25 November 2021,--,--,--,--,--
-JN,Nationwide Dept Sales YoY,06:30,Oct,--,-4.3%
-GE,GfK Consumer Confidence,08:00,Dec,-1.0,0.9
-EC,ECB Publishes Account of Oct. Policy Meeting,13:30,--,--,--
-EC,ECB's Lagarde Speaks at Legal Conference,14:30,--,--,--
-UK,BOE's Bailey speaks with Mohamed El Erian,18:00,--,--,--
-26 November 2021,--,--,--,--,--
-JN,Tokyo CPI YoY,00:30,Nov,0.4%,0.1%
-GE,Import Price Index YoY,08:00,Oct,19.7%,17.7%
-FR,Consumer Confidence,08:45,Nov,97.0,99.0
-IT,Consumer Confidence Index,10:00,Nov,116.0,118.4
-IT,Economic Sentiment,10:00,Nov,--,115.0
-UK,CBI Total Dist. Reported Sales,12:00,Nov,--,27.0
+27 November 2021,--,--,--,--,--
+CH,Industrial Profits YoY,02:30,Oct,--,16.3%
+29 November 2021,--,--,--,--,--
+JN,Retail Sales MoM,00:50,Oct,1.2%,2.7%
+IT,PPI YoY,10:00,Oct,--,15.6%
+UK,M4 Money Supply YoY,10:30,Oct,--,7.0%
+EC,Economic Confidence,11:00,Nov,117.9,118.6
+GE,CPI EU Harmonized YoY,14:00,Nov P,5.2%,4.6%
+US,Pending Home Sales MoM,16:00,Oct,0.7%,-2.3%
+US,Dallas Fed Manf. Activity,16:30,Nov,17.0,14.6
+30 November 2021,--,--,--,--,--
+JN,Jobless Rate,00:30,Oct,2.8%,2.8%
+JN,Industrial Production MoM,00:50,Oct P,1.9%,-5.4%
+CH,Non-manufacturing PMI,02:00,Nov,51.5,52.4
+CH,Manufacturing PMI,02:00,Nov,49.8,49.2
+JN,Housing Starts YoY,06:00,Oct,5.8%,4.3%
+FR,PPI YoY,08:45,Oct,--,11.6%
+FR,Consumer Spending MoM,08:45,Oct,--,-0.2%
+FR,CPI EU Harmonized YoY,08:45,Nov P,3.0%,3.2%
+FR,GDP QoQ,08:45,3Q F,3.0%,3.0%
+GE,Unemployment Change (000's),09:55,Nov,-25.0k,-39.0k
+IT,GDP WDA QoQ,10:00,3Q F,2.6%,2.6%
+EC,CPI Estimate YoY,11:00,Nov,4.3%,4.1%
+US,FHFA House Price Index MoM,15:00,Sep,1.2%,1.0%
+US,S&P CoreLogic CS 20-City YoY NSA,15:00,Sep,--,19.7%
+US,MNI Chicago PMI,15:45,Nov,67.0,68.4
+US,Conf. Board Consumer Confidence,16:00,Nov,110.0,113.8
+01 December 2021,--,--,--,--,--
+JN,Capital Spending YoY,00:50,3Q,1.5%,5.3%
+JN,Jibun Bank Japan PMI Mfg,01:30,Nov F,--,54.2
+CH,Caixin China PMI Mfg,02:45,Nov,50.5,50.6
+JN,Vehicle Sales YoY,06:00,Nov,--,-30.2%
+GE,Retail Sales MoM,08:00,Oct,0.6%,-2.5%
+EC,Markit Eurozone Manufacturing PMI,10:00,Nov F,58.6,58.6
+UK,Markit UK PMI Manufacturing SA,10:30,Nov F,--,58.2
+EC,OECD Publishes Economic Outlook,11:00,--,--,--
+US,ADP Employment Change,14:15,Nov,515k,571k
+US,Markit US Manufacturing PMI,15:45,Nov F,--,59.1
+US,Construction Spending MoM,16:00,Oct,0.5%,-0.5%
+US,ISM Manufacturing,16:00,Nov,61.0,60.8
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,1017k
+US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
+US,Wards Total Vehicle Sales,--,Nov,13.20m,12.99m
+02 December 2021,--,--,--,--,--
+JN,Monetary Base YoY,00:50,Nov,--,9.9%
+JN,Consumer Confidence Index,06:00,Nov,--,39.2
+EC,Unemployment Rate,11:00,Oct,7.4%,7.4%
+EC,PPI YoY,11:00,Oct,--,16.0%
+US,Initial Jobless Claims,14:30,--,--,199k
+03 December 2021,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,01:30,Nov F,--,52.1
+CH,Caixin China PMI Services,02:45,Nov,51.0,53.8
+FR,Industrial Production MoM,08:45,Oct,--,-1.3%
+EC,Markit Eurozone Services PMI,10:00,Nov F,56.6,56.6
+UK,Markit/CIPS UK Services PMI,10:30,Nov F,--,58.6
+EC,Retail Sales MoM,11:00,Oct,0.3%,-0.3%
+US,Change in Nonfarm Payrolls,14:30,Nov,500k,531k
+US,Average Hourly Earnings YoY,14:30,Nov,5.0%,4.9%
+US,Markit US Services PMI,15:45,Nov F,--,57.0
+US,ISM Services Index,16:00,Nov,65.0,66.7
+US,Cap Goods Orders Nondef Ex Air,16:00,Oct F,--,0.6%
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,467.0
