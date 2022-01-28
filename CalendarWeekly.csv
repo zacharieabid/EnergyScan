@@ -1,49 +1,61 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-24 January 2022,--,--,--,--,--
-JN,Jibun Bank Japan PMI Composite,01:30,Jan P,--,52.5
-FR,Markit France Composite PMI,09:15,Jan P,54.6,55.8
-GE,Markit/BME Germany Composite PMI,09:30,Jan P,49.6,49.9
-EC,Markit Eurozone Composite PMI,10:00,Jan P,52.4,53.3
-UK,Markit/CIPS UK Composite PMI,10:30,Jan P,54.4,53.6
-US,Chicago Fed Nat Activity Index,14:30,Dec,--,37.0%
-US,Markit US Composite PMI,15:45,Jan P,--,57.0
-25 January 2022,--,--,--,--,--
-JN,Nationwide Dept Sales YoY,06:30,Dec,--,8.1%
-UK,PSNB ex Banking Groups,08:00,Dec,17.5b,17.4b
-GE,IFO Business Climate,10:00,Jan,94.0,94.7
-UK,CBI Business Optimism,12:00,Jan,--,2.0
-US,FHFA House Price Index MoM,15:00,Nov,1.1%,1.1%
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,Nov,--,18.4%
-US,Conf. Board Consumer Confidence,16:00,Jan,111.9,115.8
-US,Richmond Fed Manufact. Index,16:00,Jan,14.0,16.0
-26 January 2022,--,--,--,--,--
-FR,Consumer Confidence,08:45,Jan,--,100.0
-FR,Total Jobseekers,12:00,4Q,--,3307.4k
-US,Advance Goods Trade Balance,14:30,Dec,-$95.5b,-$97.8b
-US,Wholesale Inventories MoM,14:30,Dec P,1.4%,1.4%
-CA,Bank of Canada Rate Decision,16:00,--,0.25%,0.25%
-US,New Home Sales MoM,16:00,Dec,3.5%,12.4%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,515k
-US,FOMC Rate Decision (Upper Bound),20:00,--,0.25%,0.25%
-US,Fed Chair Powell Holds Press Conference,20:30,--,--,--
-27 January 2022,--,--,--,--,--
-CH,Industrial Profits YoY,02:30,Dec,--,9.0%
-GE,GfK Consumer Confidence,08:00,Feb,-8.5,-6.8
-UK,CBI Total Dist. Reported Sales,12:00,Jan,--,12.0
-US,Initial Jobless Claims,14:30,--,--,286k
-US,Cap Goods Orders Nondef Ex Air,14:30,Dec P,0.3%,0.0%
-US,GDP Annualized QoQ,14:30,4Q A,5.7%,2.3%
-US,Pending Home Sales MoM,16:00,Dec,-0.3%,-2.2%
-US,Kansas City Fed Manf. Activity,17:00,Jan,--,24.0
-GE,Retail Sales MoM,27-02,Dec,-0.6%,0.6%
-28 January 2022,--,--,--,--,--
-JN,Tokyo CPI YoY,00:30,Jan,0.5%,0.8%
-FR,Consumer Spending YoY,07:30,Dec,--,14.8%
-FR,GDP QoQ,07:30,4Q P,0.5%,3.0%
-GE,GDP SA QoQ,10:00,4Q P,-0.1%,1.7%
-EC,M3 Money Supply YoY,10:00,Dec,6.9%,7.3%
-EC,Economic Confidence,11:00,Jan,114.0,115.3
-US,Personal Spending,14:30,Dec,-0.5%,0.6%
-US,PCE Core Deflator YoY,14:30,Dec,4.8%,4.7%
-US,U. of Mich. Sentiment,16:00,Jan F,68.8,68.8
+30 January 2022,--,--,--,--,--
+CH,Manufacturing PMI,02:30,Jan,50.0,50.3
+CH,Non-manufacturing PMI,02:30,Jan,51.0,52.7
+CH,Caixin China PMI Mfg,02:45,Jan,50.0,50.9
+31 January 2022,--,--,--,--,--
+JN,Industrial Production MoM,00:50,Dec P,-0.6%,7.0%
+JN,Retail Sales MoM,00:50,Dec,0.3%,1.2%
+JN,Consumer Confidence Index,06:00,Jan,37.0,39.1
+JN,Housing Starts YoY,06:00,Dec,8.1%,3.7%
+EC,GDP SA QoQ,11:00,4Q A,0.4%,2.2%
+IT,GDP WDA QoQ,11:00,4Q P,0.5%,2.6%
+GE,CPI EU Harmonized YoY,14:00,Jan P,4.1%,5.7%
+US,MNI Chicago PMI,15:45,Jan,62.0,63.1
+US,Dallas Fed Manf. Activity,16:30,Jan,--,8.1
+01 February 2022,--,--,--,--,--
+JN,Jobless Rate,00:30,Dec,2.8%,2.8%
+JN,Jibun Bank Japan PMI Mfg,01:30,Jan F,--,54.6
+GE,Retail Sales MoM,08:00,Dec,-1.3%,0.6%
+UK,Nationwide House Px NSA YoY,08:00,Jan,11.0%,10.4%
+FR,CPI EU Harmonized YoY,08:45,Jan P,2.8%,3.4%
+FR,Markit France Manufacturing PMI,09:50,Jan F,55.5,55.5
+GE,Unemployment Change (000's),09:55,Jan,-10.0k,-23.0k
+GE,Markit/BME Germany Manufacturing PMI,09:55,Jan F,60.5,60.5
+EC,Markit Eurozone Manufacturing PMI,10:00,Jan F,59.0,59.0
+UK,Mortgage Approvals,10:30,Dec,65.4k,67.0k
+UK,Markit UK PMI Manufacturing SA,10:30,Jan F,56.9,56.9
+EC,Unemployment Rate,11:00,Dec,7.2%,7.2%
+US,Markit US Manufacturing PMI,15:45,Jan F,--,55.0
+US,Construction Spending MoM,16:00,Dec,0.7%,0.4%
+US,ISM Manufacturing,16:00,Jan,58.0,58.7
+US,Wards Total Vehicle Sales,,Jan,12.60m,12.44m
+02 February 2022,--,--,--,--,--
+FR,Budget Balance YTD,08:45,Dec,--,-181.0b
+EC,CPI Estimate YoY,11:00,Jan,4.3%,5.0%
+US,ADP Employment Change,14:15,Jan,208k,807k
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,2377k
+03 February 2022,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,01:30,Jan F,--,46.6
+FR,Markit France Services PMI,09:50,Jan F,53.1,53.1
+GE,Markit Germany Services PMI,09:55,Jan F,52.2,52.2
+EC,Markit Eurozone Services PMI,10:00,Jan F,51.2,51.2
+UK,Markit/CIPS UK Services PMI,10:30,Jan F,53.3,53.3
+EC,PPI YoY,11:00,Dec,25.3%,23.7%
+UK,Bank of England Bank Rate,13:00,--,0.5%,0.25%
+UK,BOE Governor Bailey press conference,13:30,--,--,--
+EC,ECB Deposit Facility Rate,13:45,--,-0.5%,-0.5%
+US,Unit Labor Costs,14:30,4Q P,1.9%,9.6%
+EC,ECB President Lagarde Holds Press Conference,14:30,--,--,--
+US,Initial Jobless Claims,14:30,--,--,260k
+US,Markit US Services PMI,15:45,Jan F,--,50.9
+US,ISM Services Index,16:00,Jan,59.6,62.0
+US,Cap Goods Orders Nondef Ex Air,16:00,Dec F,--,0.0%
+04 February 2022,--,--,--,--,--
+GE,Factory Orders MoM,08:00,Dec,0.0%,3.7%
+FR,Private Sector Payrolls QoQ,08:45,4Q P,--,0.5%
+FR,Industrial Production MoM,08:45,Dec,0.5%,-0.4%
+EC,Retail Sales MoM,11:00,Dec,-0.5%,1.0%
+US,Change in Nonfarm Payrolls,14:30,Jan,178k,199k
+US,Average Hourly Earnings YoY,14:30,Jan,5.2%,4.7%
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
