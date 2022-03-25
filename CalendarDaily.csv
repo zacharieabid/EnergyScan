@@ -1,49 +1,50 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2022-03-21,CH,1-Year Loan Prime Rate,02:15,--,3.7%,3.7%
-2022-03-21,GE,PPI YoY,08:00,Feb,25.7%,25.0%
-2022-03-21,EC,ECB's Lagarde Speaks,08:30,--,--,--
-2022-03-21,US,Chicago Fed Nat Activity Index,13:30,Feb,--,0.69
-2022-03-21,US,Fed Chair Powell speaks at NABE,17:00,--,--,--
-2022-03-22,UK,PSNB ex Banking Groups,08:00,Feb,6.3b,-2.9b
-2022-03-22,EC,ECB Current Account SA,10:00,Jan,--,22.6b
-2022-03-22,EC,Construction Output YoY,11:00,Jan,--,-3.9%
-2022-03-22,UK,CBI Trends Total Orders,12:00,Mar,--,20.0
-2022-03-22,US,Richmond Fed Manufact. Index,15:00,Mar,2.0,1.0
-2022-03-22,US,Fed’s Mester on Eco. Outlook & Mon. Policy,22:00,--,--,--
-2022-03-23,UK,CPI YoY,08:00,Feb,5.8%,5.5%
-2022-03-23,UK,PPI Output NSA YoY,08:00,Feb,--,9.9%
-2022-03-23,UK,House Price Index YoY,10:30,Jan,--,10.8%
-2022-03-23,UK,BoE Governor Andrew Bailey speaks at BIS,13:00,--,--,--
-2022-03-23,UK,U.K. Chancellor's budget statement,13:30,--,--,--
-2022-03-23,US,New Home Sales MoM,15:00,Feb,1.8%,-4.5%
-2022-03-23,US,DOE U.S. Crude Oil Inventories,15:30,--,--,4345k
-2022-03-23,EC,Consumer Confidence,16:00,Mar A,-12.5,-8.8
-2022-03-23,US,Fed’s Bullard Discusses the Economic Outlook,20:00,--,--,--
-2022-03-23,UK,"OBR Publishes U.K. Economic, Fiscal Forecast",--,--,--,--
-2022-03-24,JN,Jibun Bank Japan PMI Services,01:30,Mar P,--,44.2
-2022-03-24,JN,Jibun Bank Japan PMI Mfg,01:30,Mar P,--,52.7
-2022-03-24,JN,Nationwide Dept Sales YoY,06:30,Feb,--,15.6%
-2022-03-24,FR,Business Confidence,08:45,Mar,112.0,112.0
-2022-03-24,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-2022-03-24,EC,Markit Eurozone Manufacturing PMI,10:00,Mar P,56.8,58.2
-2022-03-24,EC,Markit Eurozone Services PMI,10:00,Mar P,54.9,55.5
-2022-03-24,UK,Markit/CIPS UK Services PMI,10:30,Mar P,58.0,60.5
-2022-03-24,UK,Markit UK PMI Manufacturing SA,10:30,Mar P,57.0,58.0
-2022-03-24,UK,CBI Total Dist. Reported Sales,12:00,Mar,--,26.0
-2022-03-24,US,Current Account Balance,13:30,4Q,-$217.8b,-$214.8b
-2022-03-24,US,Fed’s Kashkari Discusses the Economic Outlook,13:30,--,--,--
-2022-03-24,US,Initial Jobless Claims,13:30,--,--,214k
-2022-03-24,US,Cap Goods Orders Nondef Ex Air,13:30,Feb P,0.5%,1.0%
-2022-03-24,US,Fed’s Waller Discusses the U.S. Housing Market,14:10,--,--,--
-2022-03-24,US,S&P Global US Manufacturing PMI,14:45,Mar P,55.0,57.3
-2022-03-24,US,S&P Global US Services PMI,14:45,Mar P,56.0,56.5
-2022-03-24,US,Kansas City Fed Manf. Activity,16:00,Mar,--,29.0
-2022-03-25,JN,Tokyo CPI YoY,00:30,Mar,1.2%,1.0%
-2022-03-25,UK,Retail Sales Inc Auto Fuel MoM,08:00,Feb,0.5%,1.9%
-2022-03-25,EC,M3 Money Supply YoY,10:00,Feb,6.3%,6.4%
-2022-03-25,GE,IFO Business Climate,10:00,Mar,94.1,98.9
-2022-03-25,IT,Manufacturing Confidence,10:00,Mar,112.0,113.4
-2022-03-25,US,"Fed’s Williams on Mon. Policy, Financial...",15:00,--,--,--
-2022-03-25,US,Pending Home Sales MoM,15:00,Feb,1.0%,-5.7%
-2022-03-25,US,U. of Mich. Sentiment,15:00,Mar F,59.7,59.7
-2022-03-25,US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
+2022-03-28,UK,BoE Governor speaks on economy,13:00,--,--,--
+2022-03-28,US,Advance Goods Trade Balance,14:30,Feb,-$106.0b,-$107.6b
+2022-03-28,US,Wholesale Inventories MoM,14:30,Feb P,1.2%,0.8%
+2022-03-28,US,Dallas Fed Manf. Activity,16:30,Mar,10.0,14.0
+2022-03-29,JN,Jobless Rate,01:30,Feb,2.8%,2.8%
+2022-03-29,GE,Import Price Index YoY,08:00,Feb,27.2%,26.9%
+2022-03-29,GE,GfK Consumer Confidence,08:00,Apr,-13.0,-8.1
+2022-03-29,FR,Consumer Confidence,08:45,Mar,95.0,98.0
+2022-03-29,UK,Mortgage Approvals,10:30,Feb,73.0k,74.0k
+2022-03-29,US,FHFA House Price Index MoM,15:00,Jan,1.3%,1.2%
+2022-03-29,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jan,18.7%,18.6%
+2022-03-29,US,Conf. Board Consumer Confidence,16:00,Mar,107.8,110.5
+2022-03-29,US,Fed’s Harker Discusses Economic Outlook,16:45,--,--,--
+2022-03-30,JN,Retail Sales MoM,01:50,Feb,-0.1%,-1.9%
+2022-03-30,EC,Economic Confidence,11:00,Mar,109.7,114.0
+2022-03-30,GE,CPI EU Harmonized YoY,14:00,Mar P,6.6%,5.5%
+2022-03-30,US,ADP Employment Change,14:15,Mar,413k,475k
+2022-03-30,US,GDP Annualized QoQ,14:30,4Q T,7.1%,7.0%
+2022-03-30,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-2508k
+2022-03-31,JN,Industrial Production MoM,01:50,Feb P,0.5%,-0.8%
+2022-03-31,CH,Manufacturing PMI,03:30,Mar,50.0,50.2
+2022-03-31,CH,Non-manufacturing PMI,03:30,Mar,50.7,51.6
+2022-03-31,JN,Housing Starts YoY,07:00,Feb,1.1%,2.1%
+2022-03-31,GE,Retail Sales MoM,08:00,Feb,0.8%,2.0%
+2022-03-31,UK,Nationwide House Px NSA YoY,08:00,Mar,13.2%,12.6%
+2022-03-31,UK,Current Account Balance,08:00,4Q,-19.1b,-24.4b
+2022-03-31,UK,GDP QoQ,08:00,4Q F,1.0%,1.0%
+2022-03-31,FR,CPI EU Harmonized YoY,08:45,Mar P,4.8%,4.2%
+2022-03-31,FR,Consumer Spending MoM,08:45,Feb,--,-1.5%
+2022-03-31,GE,Unemployment Change (000's),09:55,Mar,-22.0k,-33.0k
+2022-03-31,EC,Unemployment Rate,11:00,Feb,6.7%,6.8%
+2022-03-31,IT,CPI EU Harmonized YoY,11:00,Mar P,7.1%,6.2%
+2022-03-31,US,Real Personal Spending,14:30,Feb,--,1.5%
+2022-03-31,US,Initial Jobless Claims,14:30,--,--,187k
+2022-03-31,US,PCE Core Deflator YoY,14:30,Feb,5.5%,5.2%
+2022-03-31,US,MNI Chicago PMI,15:45,Mar,57.1,56.3
+2022-04-01,JN,Tankan Large Mfg Index,01:50,1Q,12.0,18.0
+2022-04-01,JN,Jibun Bank Japan PMI Mfg,02:30,Mar F,--,53.2
+2022-04-01,CH,Caixin China PMI Mfg,03:45,Mar,50.0,50.4
+2022-04-01,EC,S&P Global Eurozone Manufacturing PMI,10:00,Mar F,57.0,57.0
+2022-04-01,UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Mar F,55.5,55.5
+2022-04-01,EC,CPI Estimate YoY,11:00,Mar,6.4%,5.8%
+2022-04-01,US,Change in Nonfarm Payrolls,14:30,Mar,450k,678k
+2022-04-01,US,Average Hourly Earnings YoY,14:30,Mar,5.5%,5.1%
+2022-04-01,US,S&P Global US Manufacturing PMI,15:45,Mar F,--,58.5
+2022-04-01,US,Construction Spending MoM,16:00,Feb,1.0%,1.3%
+2022-04-01,US,ISM Manufacturing,16:00,Mar,58.3,58.6
+2022-04-01,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2022-04-01,US,Wards Total Vehicle Sales,--,Mar,14.05m,14.07m
