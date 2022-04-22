@@ -1,96 +1,49 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2022-04-04,GE,Trade Balance,08:00,Feb,--,3.5b
-2022-04-04,EC,Sentix Investor Confidence,10:30,Apr,-9.4,-7.0
-2022-04-04,US,Durable Goods Orders,16:00,Feb F,-2.2%,-2.2%
-2022-04-05,JN,Household Spending YoY,01:30,Feb,2.7%,6.9%
-2022-04-05,JN,Jibun Bank Japan PMI Services,02:30,Mar F,--,48.7
-2022-04-05,FR,Industrial Production MoM,08:45,Feb,0.0%,1.6%
-2022-04-05,EC,S&P Global Eurozone Services PMI,10:00,Mar F,54.8,54.8
-2022-04-05,UK,S&P Global/CIPS UK Services PMI,10:30,Mar F,60.8,61.0
-2022-04-05,US,Trade Balance,14:30,Feb,-$88.6b,-$89.7b
-2022-04-05,US,S&P Global US Services PMI,15:45,Mar F,58.9,58.9
-2022-04-05,US,ISM Services Index,16:00,Mar,58.6,56.5
-2022-04-05,US,Fed’s Brainard Speaks at Forum on Inflation,16:05,--,--,--
-2022-04-06,CH,Caixin China PMI Services,03:45,Mar,49.8,50.2
-2022-04-06,GE,Factory Orders MoM,08:00,Feb,-0.4%,1.8%
-2022-04-06,EC,PPI YoY,11:00,Feb,--,30.6%
-2022-04-06,US,Fed’s Harker Discusses the Economic Outlook,15:30,--,--,0.0%
-2022-04-06,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-3449k
-2022-04-06,US,FOMC Meeting Minutes,20:00,--,--,--
-2022-04-07,JN,Leading Index CI,07:00,Feb P,100.8,102.5
-2022-04-07,GE,Industrial Production SA MoM,08:00,Feb,0.1%,2.7%
-2022-04-07,EC,Retail Sales MoM,11:00,Feb,0.6%,0.2%
-2022-04-07,US,Initial Jobless Claims,14:30,--,--,202k
-2022-04-07,US,Fed’s Bullard on Eco. & Mon. Policy,15:00,--,--,--
-2022-04-08,JN,BoP Current Account Adjusted,01:50,Feb,¥274.8b,¥191.7b
-2022-04-08,JN,Consumer Confidence Index,07:00,Mar,36.8,35.3
-2022-04-08,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2022-04-11,CH,PPI YoY,03:30,Mar,--,8.8%
-2022-04-11,CH,CPI YoY,03:30,Mar,--,0.9%
-2022-04-11,JN,Machine Tool Orders YoY,08:00,--,--,31.6%
-1900-01-03,UK,Monthly GDP (MoM),08:00,Feb,--,0.8%
-1900-01-03,UK,Industrial Production MoM,08:00,Feb,--,0.7%
-1900-01-03,UK,Trade Balance GBP/Mn,08:00,Feb,--,-£16159m
-2022-04-12,JN,PPI YoY,01:50,Mar,--,9.3%
-2022-04-12,UK,Jobless Claims Change,08:00,Mar,--,-48.1k
-2022-04-12,UK,Average Weekly Earnings 3M/YoY,08:00,Feb,--,4.8%
-2022-04-12,GE,CPI EU Harmonized YoY,08:00,Mar F,--,7.6%
-2022-04-12,FR,Trade Balance,08:45,Feb,--,-8034m
-2022-04-12,GE,ZEW Survey Expectations,11:00,Apr,--,-39.3
-2022-04-12,US,NFIB Small Business Optimism,12:00,Mar,--,95.7
-2022-04-12,US,CPI YoY,14:30,Mar,--,7.9%
-2022-04-12,US,STEO Current Yr Crude Forecast,18:00,Apr,--,12.0
-2022-04-12,FR,Bank of France Ind. Sentiment,--,Mar,--,107.0
-2022-04-12,GE,Current Account Balance,--,Feb,--,11.0b
-2022-04-13,JN,Money Stock M2 YoY,01:50,Mar,--,3.6%
-2022-04-13,JN,Core Machine Orders MoM,01:50,Feb,--,-2.0%
-2022-04-13,UK,CPI YoY,08:00,Mar,--,6.2%
-2022-04-13,EC,Industrial Production SA MoM,11:00,Feb,--,0.0%
-2022-04-13,US,PPI Final Demand YoY,14:30,Mar,--,10.0%
-2022-04-13,CA,Bank of Canada Rate Decision,16:00,--,0.75%,0.50%
-2022-04-13,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
-2022-04-13,CH,Trade Balance,--,Mar,--,$94.46b
-2022-04-14,EC,ECB Main Refinancing Rate,13:45,--,--,0.0%
-2022-04-14,EC,ECB President Holds Press Conference,14:30,--,--,--
-2022-04-14,US,Retail Sales Advance MoM,14:30,Mar,0.5%,0.3%
-2022-04-14,US,Import Price Index YoY,14:30,Mar,--,10.9%
-2022-04-14,US,Initial Jobless Claims,14:30,--,--,--
-2022-04-14,US,U. of Mich. Sentiment,16:00,Apr P,--,59.4
-2022-04-14,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2022-04-15,CH,New Home Prices MoM,03:30,Mar,--,-0.1%
-2022-04-15,FR,CPI EU Harmonized YoY,08:45,Mar F,--,5.1%
-2022-04-15,US,Empire Manufacturing,14:30,Apr,--,-11.8
-2022-04-15,US,Industrial Production MoM,15:15,Mar,0.3%,0.5%
-2022-04-15,US,Net Long-term TIC Flows,22:00,Feb,--,$58.8b
-2022-04-18,UK,Rightmove House Prices YoY,01:01,Apr,--,10.4%
-2022-04-18,CH,Industrial Production YoY,04:00,Mar,--,4.3%
-2022-04-18,CH,GDP YoY,04:00,1Q,--,4.0%
-2022-04-18,CH,Retail Sales YoY,04:00,Mar,--,1.7%
-2022-04-18,US,NAHB Housing Market Index,16:00,Apr,--,79.0
-2022-04-19,US,Building Permits MoM,14:30,Mar,--,-1.9%
-2022-04-19,US,Housing Starts MoM,14:30,Mar,--,6.8%
-2022-04-20,JN,Trade Balance Adjusted,01:50,Mar,--,-¥1031.4b
-2022-04-20,CH,1-Year Loan Prime Rate,03:15,--,--,3.7%
-2022-04-20,CH,5-Year Loan Prime Rate,03:15,--,--,4.6%
-2022-04-20,GE,PPI YoY,08:00,Mar,--,25.9%
-2022-04-20,EC,EU27 New Car Registrations,08:00,Mar,--,-6.7%
-2022-04-20,EC,Trade Balance SA,11:00,Feb,--,-7.7b
-2022-04-20,US,Existing Home Sales MoM,16:00,Mar,--,-7.2%
-2022-04-20,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
-2022-04-20,US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
-2022-04-21,FR,Business Confidence,08:45,Apr,--,107.0
-2022-04-21,EC,Construction Output MoM,11:00,Feb,--,3.9%
-2022-04-21,EC,CPI YoY,11:00,Mar F,--,5.9%
-2022-04-21,US,Philadelphia Fed Business Outlook,14:30,Apr,--,27.4
-2022-04-21,US,Initial Jobless Claims,14:30,--,--,--
-2022-04-21,US,Leading Index,16:00,Mar,--,0.3%
-2022-04-21,EC,Consumer Confidence,16:00,Apr A,--,-18.7
-2022-04-22,UK,GfK Consumer Confidence,01:01,Apr,--,-31.0
-2022-04-22,JN,Natl CPI YoY,01:30,Mar,--,0.9%
-2022-04-22,JN,Jibun Bank Japan PMI Composite,02:30,Apr P,--,--
-2022-04-22,UK,Retail Sales Inc Auto Fuel MoM,08:00,Mar,--,-0.3%
-2022-04-22,EC,S&P Global Eurozone Composite PMI,10:00,Apr P,--,--
-2022-04-22,UK,S&P Global/CIPS UK Composite PMI,10:30,Apr P,--,--
-2022-04-22,EC,Govt Debt/GDP Ratio,11:00,2021,--,97.3%
-2022-04-22,US,S&P Global US Composite PMI,15:45,--,--,--
-2022-04-22,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2022-04-25,JN,Nationwide Dept Sales YoY,07:30,Mar,--,-0.7%
+2022-04-25,GE,IFO Business Climate,10:00,Apr,88.60,90.80
+2022-04-25,EC,Construction Output MoM,11:00,Feb,--,3.9%
+2022-04-25,UK,CBI Trends Total Orders,12:00,Apr,23.0,26.0
+2022-04-25,US,Chicago Fed Nat Activity Index,14:30,Mar,--,51.0%
+2022-04-25,US,Dallas Fed Manf. Activity,16:30,Apr,3.5,8.7
+2022-04-26,JN,Jobless Rate,01:30,Mar,2.7%,2.7%
+2022-04-26,UK,Public Sector Net Borrowing,08:00,Mar,19.2b,12.3b
+2022-04-26,EC,ECB's Villeroy speaks,14:15,--,--,--
+2022-04-26,US,Cap Goods Orders Nondef Ex Air,14:30,Mar P,0.4%,-0.2%
+2022-04-26,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Feb,19.2%,19.1%
+2022-04-26,US,Conf. Board Consumer Confidence,16:00,Apr,108.4,107.2
+2022-04-26,US,Richmond Fed Manufact. Index,16:00,Apr,8.0,13.0
+2022-04-26,US,New Home Sales MoM,16:00,Mar,0.3%,-2.0%
+2022-04-27,CH,Industrial Profits YoY,03:30,Mar,--,4.2%
+2022-04-27,GE,GfK Consumer Confidence,08:00,May,-16.8,-15.5
+2022-04-27,UK,CBI Total Dist. Reported Sales,12:00,Apr,--,20.0
+2022-04-27,US,Advance Goods Trade Balance,14:30,Mar,-$105.0b,-$106.6b
+2022-04-27,US,Wholesale Inventories MoM,14:30,Mar P,--,2.5%
+2022-04-27,US,Pending Home Sales MoM,16:00,Mar,-1.0%,-4.1%
+2022-04-27,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-8020k
+2022-04-28,JN,Retail Sales MoM,01:50,Mar,1.1%,-0.8%
+2022-04-28,JN,Industrial Production MoM,01:50,Mar P,0.5%,2.0%
+2022-04-28,JN,Housing Starts YoY,07:00,Mar,-0.5%,6.3%
+2022-04-28,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+2022-04-28,IT,Manufacturing Confidence,10:00,Apr,109.0,110.3
+2022-04-28,EC,Economic Confidence,11:00,Apr,107.6,108.5
+2022-04-28,FR,Total Jobseekers,12:00,1Q,--,3101.8k
+2022-04-28,GE,CPI EU Harmonized YoY,14:00,Apr P,7.5%,7.6%
+2022-04-28,US,GDP Annualized QoQ,14:30,1Q A,1.0%,6.9%
+2022-04-28,US,Initial Jobless Claims,14:30,--,--,184k
+2022-04-28,US,Kansas City Fed Manf. Activity,17:00,Apr,--,37.0
+2022-04-28,JN,BOJ Policy Balance Rate,--,--,-0.1%,-0.1%
+2022-04-29,FR,Consumer Spending MoM,07:30,Mar,--,0.8%
+2022-04-29,FR,GDP QoQ,07:30,1Q P,0.3%,0.7%
+2022-04-29,GE,Import Price Index YoY,08:00,Mar,28.5%,26.3%
+2022-04-29,FR,CPI EU Harmonized YoY,08:45,Apr P,5.3%,5.1%
+2022-04-29,FR,PPI YoY,08:45,Mar,--,22.4%
+2022-04-29,EC,M3 Money Supply YoY,10:00,Mar,6.3%,6.3%
+2022-04-29,IT,GDP WDA QoQ,10:00,1Q P,-0.3%,0.6%
+2022-04-29,GE,GDP SA QoQ,10:00,1Q P,0.2%,-0.3%
+2022-04-29,EC,CPI Estimate YoY,11:00,Apr,7.6%,7.5%
+2022-04-29,EC,GDP SA QoQ,11:00,1Q A,0.3%,0.3%
+2022-04-29,US,Personal Spending,14:30,Mar,0.6%,0.2%
+2022-04-29,US,PCE Core Deflator YoY,14:30,Mar,5.3%,5.4%
+2022-04-29,US,MNI Chicago PMI,15:45,Apr,61.0,62.9
+2022-04-29,US,U. of Mich. Sentiment,16:00,Apr F,65.7,65.7
+2022-04-29,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
