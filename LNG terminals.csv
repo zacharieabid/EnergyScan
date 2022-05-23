@@ -1,4 +1,4 @@
-﻿name,type,longitude,latitude,capacity(m3/y),storage(m3)
+﻿name,type,longitude,latitude,capacity(Bcm/y),storage(*1000m3 LNG)
 Zeebrugge,onshore,3.226454,51.352607,11.40,566
 Krk Island,FSRU,14.511021,45.401756,2.60,140
 Dunkerque LNG,onshore,2.201389,51.038233,13.00,600
