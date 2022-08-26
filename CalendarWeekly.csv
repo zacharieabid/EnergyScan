@@ -1,41 +1,51 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-22 August 2022,--,--,--,--,--
-CH,1-Year Loan Prime Rate,03:15,--,3.6%,3.7%
-CH,5-Year Loan Prime Rate,03:15,--,4.4%,4.5%
-US,Chicago Fed Nat Activity Index,14:30,Jul,--,-19.0%
-23 August 2022,--,--,--,--,--
-JN,Jibun Bank Japan PMI Composite,02:30,Aug P,--,50.2
-JN,Nationwide Dept Sales YoY,07:30,Jul,--,11.7%
-FR,S&P Global France Composite PMI,09:15,Aug P,51.1,51.7
-GE,S&P Global Germany Composite PMI,09:30,Aug P,47.4,48.1
-EC,S&P Global Eurozone Composite PMI,10:00,Aug P,48.8,49.9
-UK,S&P Global/CIPS UK Composite PMI,10:30,Aug P,51.0,52.1
-UK,CBI Trends Total Orders,12:00,Aug,--,8.0
-US,S&P Global US Composite PMI,15:45,Aug P,--,47.7
-US,Richmond Fed Manufact. Index,16:00,Aug,--,0.0
-EC,Consumer Confidence,16:00,Aug P,-28.0,-27.0
-US,New Home Sales MoM,16:00,Jul,-1.7%,-8.1%
-24 August 2022,--,--,--,--,--
-US,Cap Goods Orders Nondef Ex Air,14:30,Jul P,--,0.7%
-US,Pending Home Sales MoM,16:00,Jul,-2.5%,-8.6%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-7056k
-25 August 2022,--,--,--,--,--
-GE,GDP SA QoQ,08:00,2Q F,0.0%,0.0%
-FR,Business Confidence,08:45,Aug,101.0,103.0
-GE,IFO Business Climate,10:00,Aug,86.9,88.6
-UK,CBI Total Dist. Reported Sales,12:00,Aug,--,-12.0
-EC,ECB Publishes Account of July Policy Meeting,13:30,--,--,--
-US,Initial Jobless Claims,14:30,--,--,250k
-US,GDP Annualized QoQ,14:30,2Q S,-0.9%,-0.9%
-US,Kansas City Fed Manf. Activity,17:00,Aug,--,13.0
-26 August 2022,--,--,--,--,--
-JN,Tokyo CPI YoY,01:30,Aug,2.7%,2.5%
-GE,GfK Consumer Confidence,08:00,Sep,-31.5,-30.6
-FR,Consumer Confidence,08:45,Aug,79.0,80.0
-EC,M3 Money Supply YoY,10:00,Jul,5.5%,5.7%
-US,Advance Goods Trade Balance,14:30,Jul,-$99.0b,-$98.2b
-US,Personal Spending,14:30,Jul,0.3%,1.1%
-US,PCE Core Deflator YoY,14:30,Jul,4.8%,4.8%
-US,Powell on the Eco. Outlook at Jackson Hole,16:00,--,--,--
-US,U. of Mich. Sentiment,16:00,Aug F,55.1,55.1
+27 August 2022,--,--,--,--,--
+CH,Industrial Profits YoY,03:30,Jul,--,0.8%
+US,Annual Jackson Hole Forum Aug. 25-27,16:00,--,--,--
+29 August 2022,--,--,--,--,--
+US,Dallas Fed Manf. Activity,16:30,Aug,-12.2,-22.6
+GE,Import Price Index YoY,29-02,Jul,28.9%,29.9%
+GE,Retail Sales MoM,29-02,Jul,-0.4%,-1.6%
+30 August 2022,--,--,--,--,--
+JN,Jobless Rate,01:30,Jul,2.6%,2.6%
+UK,Mortgage Approvals,10:30,Jul,62.0k,63.7k
+EC,Economic Confidence,11:00,Aug,97.8,99.0
+GE,CPI EU Harmonized YoY,14:00,Aug P,8.7%,8.5%
+US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jun,19.0%,20.5%
+US,Conf. Board Consumer Confidence,16:00,Aug,97.4,95.7
+31 August 2022,--,--,--,--,--
+JN,Industrial Production MoM,01:50,Jul P,-0.5%,9.2%
+JN,Retail Sales MoM,01:50,Jul,0.3%,-1.4%
+CH,Manufacturing PMI,03:30,Aug,49.2,49.0
+CH,Non-manufacturing PMI,03:30,Aug,52.1,53.8
+JN,Consumer Confidence Index,07:00,Aug,29.0,30.2
+JN,Housing Starts YoY,07:00,Jul,-3.5%,-2.2%
+FR,CPI EU Harmonized YoY,08:45,Aug P,6.6%,6.8%
+FR,Consumer Spending MoM,08:45,Jul,--,0.2%
+FR,GDP QoQ,08:45,2Q F,0.5%,0.5%
+GE,Unemployment Change (000's),09:55,Aug,24.0k,48.0k
+EC,CPI Estimate YoY,11:00,Aug,9.0%,8.9%
+US,Fed’s Mester Discusses Economic Outlook,14:00,--,--,--
+US,ADP Employment Change,14:15,Aug,--,128k
+US,MNI Chicago PMI,15:45,Aug,53.1,52.1
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-3282k
+01 September 2022,--,--,--,--,--
+JN,Jibun Bank Japan PMI Mfg,02:30,Aug F,--,51.0
+CH,Caixin China PMI Mfg,03:45,Aug,50.1,50.4
+EC,S&P Global Eurozone Manufacturing PMI,10:00,Aug F,49.7,49.7
+UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Aug F,46.0,46.0
+EC,Unemployment Rate,11:00,Jul,6.6%,6.6%
+IT,GDP WDA QoQ,11:00,2Q F,1.0%,1.0%
+US,Challenger Job Cuts YoY,13:30,--,--,36.3%
+US,Initial Jobless Claims,14:30,--,--,243k
+US,S&P Global US Manufacturing PMI,15:45,Aug F,--,51.3
+US,Construction Spending MoM,16:00,Jul,-0.1%,-1.1%
+US,ISM Manufacturing,16:00,Aug,52.1,52.8
+US,Wards Total Vehicle Sales,--,Aug,13.60m,13.35m
+02 September 2022,--,--,--,--,--
+JN,Monetary Base YoY,01:50,Aug,--,2.8%
+GE,Trade Balance SA,08:00,Jul,1.9b,6.4b
+EC,PPI YoY,11:00,Jul,36.4%,35.8%
+US,Change in Nonfarm Payrolls,14:30,Aug,300k,528k
+US,Average Hourly Earnings YoY,14:30,Aug,5.3%,5.2%
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
