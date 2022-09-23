@@ -1,72 +1,52 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2022-09-12,UK,Monthly GDP (MoM),08:00,Jul,0.3%,-0.6%
-2022-09-12,UK,Industrial Production MoM,08:00,Jul,-0.2%,-0.9%
-2022-09-12,UK,Trade Balance GBP/Mn,08:00,Jul,--,-£11387m
-2022-09-12,IT,Industrial Production MoM,10:00,Jul,0.3%,-2.1%
-2022-09-13,JN,PPI YoY,01:50,Aug,8.9%,8.6%
-2022-09-13,UK,Jobless Claims Change,08:00,Aug,--,-10.6k
-2022-09-13,UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Jul,--,4.7%
-2022-09-13,GE,CPI EU Harmonized YoY,08:00,Aug F,8.8%,8.8%
-2022-09-13,GE,ZEW Survey Expectations,11:00,Sep,-59.3,-55.3
-2022-09-13,US,NFIB Small Business Optimism,12:00,Aug,90.5,89.9
-2022-09-13,US,CPI YoY,14:30,Aug,8.1%,8.5%
-2022-09-14,JN,Core Machine Orders YoY,01:50,Jul,6.7%,6.5%
-2022-09-14,UK,CPI YoY,08:00,Aug,10.4%,10.1%
-2022-09-14,UK,PPI Output NSA YoY,08:00,Aug,--,17.1%
-2022-09-14,UK,House Price Index YoY,10:30,Jul,--,7.8%
-2022-09-14,EC,Industrial Production SA MoM,11:00,Jul,-0.5%,0.7%
-2022-09-14,US,PPI Final Demand YoY,14:30,Aug,8.9%,9.8%
-2022-09-14,US,DOE U.S. Crude Oil Inventories,16:30,--,--,8845k
-2022-09-15,JN,Trade Balance Adjusted,01:50,Aug,-¥2031.3b,-¥2133.3b
-2022-09-15,FR,CPI EU Harmonized YoY,08:45,Aug F,6.5%,6.5%
-2022-09-15,EC,Trade Balance SA,11:00,Jul,--,-30.8b
-2022-09-15,US,Initial Jobless Claims,14:30,--,--,222k
-2022-09-15,US,Empire Manufacturing,14:30,Sep,-15.5,-31.3
-2022-09-15,US,Retail Sales Advance MoM,14:30,Aug,0.0%,0.0%
-2022-09-15,US,Philadelphia Fed Business Outlook,14:30,Sep,2.0,6.2
-2022-09-15,US,Import Price Index YoY,14:30,Aug,--,8.8%
-2022-09-15,US,Industrial Production MoM,15:15,Aug,0.2%,0.6%
-2022-09-15,US,Business Inventories,16:00,Jul,0.6%,1.4%
-2022-09-16,CH,New Home Prices MoM,03:30,Aug,--,-0.1%
-2022-09-16,CH,Industrial Production YoY,04:00,Aug,3.9%,3.8%
-2022-09-16,CH,Retail Sales YoY,04:00,Aug,3.2%,2.7%
-2022-09-16,CH,Surveyed Jobless Rate,04:00,Aug,5.4%,5.4%
-2022-09-16,UK,Retail Sales Inc Auto Fuel MoM,08:00,Aug,0.0%,0.3%
-2022-09-16,EC,EU27 New Car Registrations,08:00,Aug,--,-15.4%
-2022-09-16,EC,CPI YoY,11:00,Aug F,9.1%,9.1%
-2022-09-16,US,U. of Mich. Sentiment,16:00,Sep P,59.3,58.2
-2022-09-16,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2022-09-16,US,Net Long-term TIC Flows,22:00,Jul,--,$121.8b
-2022-09-19,EC,Construction Output MoM,11:00,Jul,--,-1.3%
-2022-09-19,US,NAHB Housing Market Index,16:00,Sep,--,49.0
-2022-09-20,JN,Natl CPI YoY,01:30,Aug,2.9%,2.6%
-2022-09-20,CH,1-Year Loan Prime Rate,03:15,--,3.65%,3.65%
-2022-09-20,CH,5-Year Loan Prime Rate,03:15,--,4.30%,4.30%
-2022-09-20,GE,PPI YoY,08:00,Aug,--,37.2%
-2022-09-20,EC,ECB Current Account SA,10:00,Jul,--,4.2b
-2022-09-20,US,Building Permits MoM,14:30,Aug,--,-1.3%
-2022-09-20,US,Housing Starts MoM,14:30,Aug,--,-9.6%
-2022-09-21,UK,PSNB ex Banking Groups,08:00,Aug,--,4.9b
-2022-09-21,US,Existing Home Sales MoM,16:00,Aug,--,-5.9%
-2022-09-21,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
-2022-09-21,US,FOMC Rate Decision (Upper Bound),20:00,--,3.00%,2.50%
-2022-09-21,US,Fed Chair Holds Press Conference,20:30,--,--,--
-2022-09-22,JN,Nationwide Dept Sales YoY,07:30,Aug,--,9.6%
-2022-09-22,FR,Business Confidence,08:45,Sep,--,103.0
-2022-09-22,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-2022-09-22,UK,Bank of England Bank Rate,13:00,--,2.25%,1.75%
-2022-09-22,US,Current Account Balance,14:30,2Q,--,-$291.4b
-2022-09-22,US,Initial Jobless Claims,14:30,--,--,--
-2022-09-22,US,Leading Index,16:00,Aug,--,-0.4%
-2022-09-22,EC,Consumer Confidence,16:00,Sep P,--,-24.9
-2022-09-22,US,Kansas City Fed Manf. Activity,17:00,Sep,--,3.0
-2022-09-22,JN,BOJ Policy Balance Rate,--,--,--,-0.1%
-2022-09-23,UK,GfK Consumer Confidence,01:01,Sep,--,-44.0
-2022-09-23,FR,S&P Global France Composite PMI,09:15,Sep P,--,50.4
-2022-09-23,GE,S&P Global Germany Composite PMI,09:30,Sep P,--,46.9
-2022-09-23,EC,S&P Global Eurozone Composite PMI,10:00,Sep P,--,48.9
-2022-09-23,UK,S&P Global/CIPS UK Composite PMI,10:30,Sep P,--,49.6
-2022-09-23,UK,CBI Total Dist. Reported Sales,12:00,Sep,--,11.0
-2022-09-23,US,S&P Global US Composite PMI,15:45,Sep P,--,44.6
-2022-09-23,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-,,,,,,
+2022-09-26,UK,Rightmove House Prices YoY,01:01,Sep,--,8.2%
+2022-09-26,JN,Jibun Bank Japan PMI Composite,02:30,Sep P,--,49.4
+2022-09-26,GE,IFO Business Climate,10:00,Sep,86.0,88.5
+2022-09-26,EC,OECD Publishes Interim Economic Outlook,11:00,--,--,--
+2022-09-26,US,Chicago Fed Nat Activity Index,14:30,Aug,--,27.0%
+2022-09-26,EC,ECB's Lagarde Speaks,15:00,--,--,--
+2022-09-26,US,Dallas Fed Manf. Activity,16:30,Sep,-8.0,-12.9
+2022-09-27,CH,Industrial Profits YoY,03:30,Aug,--,--
+2022-09-27,EC,M3 Money Supply YoY,10:00,Aug,--,5.5%
+2022-09-27,US,Fed’s Evans Discusses Economic Outlook,12:15,--,--,--
+2022-09-27,US,Cap Goods Orders Nondef Ex Air,14:30,Aug P,0.2%,0.3%
+2022-09-27,US,FHFA House Price Index MoM,15:00,Jul,0.0%,0.1%
+2022-09-27,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jul,16.9%,18.7%
+2022-09-27,US,Fed’s Bullard Discusses Eco. & Policy Outlook,15:55,--,--,--
+2022-09-27,US,Conf. Board Consumer Confidence,16:00,Sep,104.50,103.20
+2022-09-27,US,New Home Sales MoM,16:00,Aug,-2.2%,-12.6%
+2022-09-28,GE,GfK Consumer Confidence,08:00,Oct,-39.6,-36.5
+2022-09-28,FR,Consumer Confidence,08:45,Sep,--,82.0
+2022-09-28,EC,ECB's Lagarde Speaks,09:15,--,--,--
+2022-09-28,IT,Economic Sentiment,10:00,Sep,--,109.4
+2022-09-28,US,Advance Goods Trade Balance,14:30,Aug,-$88.0b,-$89.1b
+2022-09-28,US,Wholesale Inventories MoM,14:30,Aug P,0.40%,0.60%
+2022-09-28,US,Pending Home Sales MoM,16:00,Aug,-0.50%,-1.00%
+2022-09-28,US,DOE U.S. Crude Oil Inventories,16:30,--,--,1141k
+2022-09-28,US,Fed’s Evans Speaks at the LSE,20:00,--,--,--
+2022-09-29,UK,Consumer Credit YoY,10:30,Aug,--,6.9%
+2022-09-29,EC,Economic Confidence,11:00,Sep,96.0,97.6
+2022-09-29,GE,CPI EU Harmonized YoY,14:00,Sep P,10.1%,8.8%
+2022-09-29,US,Initial Jobless Claims,14:30,--,--,213k
+2022-09-29,US,GDP Annualized QoQ,14:30,2Q T,-0.6%,-0.6%
+2022-09-29,US,Fed’s Bullard Discusses Economic Outlook,15:30,--,--,--
+2022-09-30,JN,Jobless Rate,01:30,Aug,2.5%,2.6%
+2022-09-30,JN,Retail Sales MoM,01:50,Aug,0.2%,0.8%
+2022-09-30,JN,Industrial Production MoM,01:50,Aug P,-0.2%,0.8%
+2022-09-30,CH,Manufacturing PMI,03:30,Sep,49.4,49.4
+2022-09-30,CH,Non-manufacturing PMI,03:30,Sep,52.6,52.6
+2022-09-30,CH,Caixin China PMI Mfg,03:45,Sep,--,49.5
+2022-09-30,JN,Consumer Confidence Index,07:00,Sep,33.5,32.5
+2022-09-30,JN,Housing Starts YoY,07:00,Aug,-3.9%,-5.4%
+2022-09-30,UK,GDP QoQ,08:00,2Q F,-0.1%,-0.1%
+2022-09-30,FR,CPI EU Harmonized YoY,08:45,Sep P,6.6%,6.6%
+2022-09-30,FR,Consumer Spending MoM,08:45,Aug,--,-0.8%
+2022-09-30,GE,Unemployment Change (000's),09:55,Sep,20.0k,28.0k
+2022-09-30,EC,Unemployment Rate,11:00,Aug,6.6%,6.6%
+2022-09-30,EC,CPI Estimate YoY,11:00,Sep,9.7%,9.1%
+2022-09-30,US,Personal Spending,14:30,Aug,0.2%,0.1%
+2022-09-30,US,PCE Core Deflator YoY,14:30,Aug,4.8%,4.6%
+2022-09-30,US,Brainard Speaks on Financial Stability,15:00,--,--,--
+2022-09-30,US,MNI Chicago PMI,15:45,Sep,51.8,52.2
+2022-09-30,US,U. of Mich. Sentiment,16:00,Sep F,59.5,59.5
+2022-09-30,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
