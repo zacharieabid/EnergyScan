@@ -1,57 +1,44 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-26 September 2022,--,--,--,--,--
-UK,Rightmove House Prices YoY,01:01,Sep,--,8.2%
-JN,Jibun Bank Japan PMI Composite,02:30,Sep P,--,49.4
-GE,IFO Business Climate,10:00,Sep,86.0,88.5
-EC,OECD Publishes Interim Economic Outlook,11:00,--,--,--
-US,Chicago Fed Nat Activity Index,14:30,Aug,--,27.0%
-EC,ECB's Lagarde Speaks,15:00,--,--,--
-US,Dallas Fed Manf. Activity,16:30,Sep,-8.0,-12.9
-27 September 2022,--,--,--,--,--
-CH,Industrial Profits YoY,03:30,Aug,--,--
-EC,M3 Money Supply YoY,10:00,Aug,--,5.5%
-US,Fed’s Evans Discusses Economic Outlook,12:15,--,--,--
-US,Cap Goods Orders Nondef Ex Air,14:30,Aug P,0.2%,0.3%
-US,FHFA House Price Index MoM,15:00,Jul,0.0%,0.1%
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jul,16.9%,18.7%
-US,Fed’s Bullard Discusses Eco. & Policy Outlook,15:55,--,--,--
-US,Conf. Board Consumer Confidence,16:00,Sep,104.50,103.20
-US,New Home Sales MoM,16:00,Aug,-2.2%,-12.6%
-28 September 2022,--,--,--,--,--
-GE,GfK Consumer Confidence,08:00,Oct,-39.6,-36.5
-FR,Consumer Confidence,08:45,Sep,--,82.0
-EC,ECB's Lagarde Speaks,09:15,--,--,--
-IT,Economic Sentiment,10:00,Sep,--,109.4
-US,Advance Goods Trade Balance,14:30,Aug,-$88.0b,-$89.1b
-US,Wholesale Inventories MoM,14:30,Aug P,0.40%,0.60%
-US,Pending Home Sales MoM,16:00,Aug,-0.50%,-1.00%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,1141k
-US,Fed’s Evans Speaks at the LSE,20:00,--,--,--
-29 September 2022,--,--,--,--,--
-UK,Consumer Credit YoY,10:30,Aug,--,6.9%
-EC,Economic Confidence,11:00,Sep,96.0,97.6
-GE,CPI EU Harmonized YoY,14:00,Sep P,10.1%,8.8%
-US,Initial Jobless Claims,14:30,--,--,213k
-US,GDP Annualized QoQ,14:30,2Q T,-0.6%,-0.6%
-US,Fed’s Bullard Discusses Economic Outlook,15:30,--,--,--
-30 September 2022,--,--,--,--,--
-JN,Jobless Rate,01:30,Aug,2.5%,2.6%
-JN,Retail Sales MoM,01:50,Aug,0.2%,0.8%
-JN,Industrial Production MoM,01:50,Aug P,-0.2%,0.8%
-CH,Manufacturing PMI,03:30,Sep,49.4,49.4
-CH,Non-manufacturing PMI,03:30,Sep,52.6,52.6
-CH,Caixin China PMI Mfg,03:45,Sep,--,49.5
-JN,Consumer Confidence Index,07:00,Sep,33.5,32.5
-JN,Housing Starts YoY,07:00,Aug,-3.9%,-5.4%
-UK,GDP QoQ,08:00,2Q F,-0.1%,-0.1%
-FR,CPI EU Harmonized YoY,08:45,Sep P,6.6%,6.6%
-FR,Consumer Spending MoM,08:45,Aug,--,-0.8%
-GE,Unemployment Change (000's),09:55,Sep,20.0k,28.0k
-EC,Unemployment Rate,11:00,Aug,6.6%,6.6%
-EC,CPI Estimate YoY,11:00,Sep,9.7%,9.1%
-US,Personal Spending,14:30,Aug,0.2%,0.1%
-US,PCE Core Deflator YoY,14:30,Aug,4.8%,4.6%
-US,Brainard Speaks on Financial Stability,15:00,--,--,--
-US,MNI Chicago PMI,15:45,Sep,51.8,52.2
-US,U. of Mich. Sentiment,16:00,Sep F,59.5,59.5
+03 October 2022,--,--,--,--,--
+JN,Tankan Large Mfg Index,01:50,3Q,11.0,9.0
+JN,Jibun Bank Japan PMI Mfg,02:30,Sep F,--,51.0
+EC,S&P Global Eurozone Manufacturing PMI,10:00,Sep F,48.5,48.5
+UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Sep F,--,48.5
+US,S&P Global US Manufacturing PMI,15:45,Sep F,51.8,51.8
+US,Construction Spending MoM,16:00,Aug,-0.1%,-0.4%
+US,ISM Manufacturing,16:00,Sep,52.4,52.8
+US,Wards Total Vehicle Sales,--,Sep,13.55m,13.18m
+04 October 2022,--,--,--,--,--
+JN,Tokyo CPI YoY,01:30,Sep,2.8%,2.9%
+JN,Monetary Base YoY,01:50,Sep,--,0.4%
+EC,PPI YoY,11:00,Aug,--,37.9%
+US,Cap Goods Orders Nondef Ex Air,16:00,Aug F,--,1.3%
+05 October 2022,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,02:30,Sep F,--,51.9
+GE,Trade Balance SA,08:00,Aug,--,5.4b
+FR,Industrial Production MoM,08:45,Aug,--,-1.6%
+EC,S&P Global Eurozone Services PMI,10:00,Sep F,48.9,48.9
+UK,S&P Global/CIPS UK Services PMI,10:30,Sep F,--,49.2
+US,ADP Employment Change,14:15,Sep,200k,132k
+US,Trade Balance,14:30,Aug,-$67.9b,-$70.7b
+US,S&P Global US Services PMI,15:45,Sep F,--,49.2
+US,ISM Services Index,16:00,Sep,56.5,56.9
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-215k
+US,Fed’s Bostic Discusses Inflation,22:00,--,--,--
+06 October 2022,--,--,--,--,--
+GE,Factory Orders MoM,08:00,Aug,-0.5%,-1.1%
+EC,Retail Sales MoM,11:00,Aug,-0.5%,0.3%
+EC,ECB Publishes Account of September Meeting,13:30,--,--,--
+US,Initial Jobless Claims,14:30,--,--,193k
+07 October 2022,--,--,--,--,--
+JN,Household Spending YoY,01:30,Aug,6.7%,3.4%
+JN,Leading Index CI,07:00,Aug P,--,98.9
+GE,Import Price Index YoY,08:00,Aug,29.6%,28.9%
+GE,Retail Sales MoM,08:00,Aug,-1.0%,1.9%
+GE,Industrial Production SA MoM,08:00,Aug,-0.5%,-0.3%
+FR,Trade Balance,08:45,--,--,-14538m
+IT,Retail Sales MoM,10:00,Aug,--,1.3%
+US,Change in Nonfarm Payrolls,14:30,Sep,250k,315k
+US,Average Hourly Earnings YoY,14:30,Sep,5.1%,5.2%
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+CH,Foreign Reserves,--,--,--,$3054.88b
