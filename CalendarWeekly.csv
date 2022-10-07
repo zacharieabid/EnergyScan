@@ -1,44 +1,91 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-03 October 2022,--,--,--,--,--
-JN,Tankan Large Mfg Index,01:50,3Q,11.0,9.0
-JN,Jibun Bank Japan PMI Mfg,02:30,Sep F,--,51.0
-EC,S&P Global Eurozone Manufacturing PMI,10:00,Sep F,48.5,48.5
-UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Sep F,--,48.5
-US,S&P Global US Manufacturing PMI,15:45,Sep F,51.8,51.8
-US,Construction Spending MoM,16:00,Aug,-0.1%,-0.4%
-US,ISM Manufacturing,16:00,Sep,52.4,52.8
-US,Wards Total Vehicle Sales,--,Sep,13.55m,13.18m
-04 October 2022,--,--,--,--,--
-JN,Tokyo CPI YoY,01:30,Sep,2.8%,2.9%
-JN,Monetary Base YoY,01:50,Sep,--,0.4%
-EC,PPI YoY,11:00,Aug,--,37.9%
-US,Cap Goods Orders Nondef Ex Air,16:00,Aug F,--,1.3%
-05 October 2022,--,--,--,--,--
-JN,Jibun Bank Japan PMI Services,02:30,Sep F,--,51.9
-GE,Trade Balance SA,08:00,Aug,--,5.4b
-FR,Industrial Production MoM,08:45,Aug,--,-1.6%
-EC,S&P Global Eurozone Services PMI,10:00,Sep F,48.9,48.9
-UK,S&P Global/CIPS UK Services PMI,10:30,Sep F,--,49.2
-US,ADP Employment Change,14:15,Sep,200k,132k
-US,Trade Balance,14:30,Aug,-$67.9b,-$70.7b
-US,S&P Global US Services PMI,15:45,Sep F,--,49.2
-US,ISM Services Index,16:00,Sep,56.5,56.9
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-215k
-US,Fed’s Bostic Discusses Inflation,22:00,--,--,--
-06 October 2022,--,--,--,--,--
-GE,Factory Orders MoM,08:00,Aug,-0.5%,-1.1%
-EC,Retail Sales MoM,11:00,Aug,-0.5%,0.3%
-EC,ECB Publishes Account of September Meeting,13:30,--,--,--
-US,Initial Jobless Claims,14:30,--,--,193k
-07 October 2022,--,--,--,--,--
-JN,Household Spending YoY,01:30,Aug,6.7%,3.4%
-JN,Leading Index CI,07:00,Aug P,--,98.9
-GE,Import Price Index YoY,08:00,Aug,29.6%,28.9%
-GE,Retail Sales MoM,08:00,Aug,-1.0%,1.9%
-GE,Industrial Production SA MoM,08:00,Aug,-0.5%,-0.3%
-FR,Trade Balance,08:45,--,--,-14538m
-IT,Retail Sales MoM,10:00,Aug,--,1.3%
-US,Change in Nonfarm Payrolls,14:30,Sep,250k,315k
-US,Average Hourly Earnings YoY,14:30,Sep,5.1%,5.2%
+08 October 2022,--,--,--,--,--
+CH,Caixin China PMI Services,03:45,Sep,54.4,55.0
+09 October 2022,--,--,--,--,--
+CH,Aggregate Financing CNY,9-15,Sep,2700.0b,2430.0b
+10 October 2022,--,--,--,--,--
+EC,Sentix Investor Confidence,10:30,Oct,-33.0,-31.8
+US,Fed’s Brainard Speaks at NABE Conf.,19:00,--,--,--
+11 October 2022,--,--,--,--,--
+JN,BoP Current Account Adjusted,01:50,Aug,-¥472.2b,-¥629.0b
+UK,Jobless Claims Change,08:00,Sep,--,6.3k
+IT,Industrial Production MoM,10:00,Aug,--,0.4%
+US,NFIB Small Business Optimism,12:00,Sep,91.8,91.8
+UK,BOE Governor Andrew Bailey speaks,20:35,--,--,--
+12 October 2022,--,--,--,--,--
+JN,Core Machine Orders MoM,01:50,Aug,-3.0%,5.3%
+JN,Machine Tool Orders YoY,08:00,Sep P,--,10.7%
+UK,Monthly GDP (MoM),08:00,Aug,--,0.2%
+UK,Industrial Production MoM,08:00,Aug,-0.5%,-0.3%
+UK,Trade Balance GBP/Mn,08:00,Aug,--,-£7793m
+EC,Industrial Production SA MoM,11:00,Aug,1.3%,-2.3%
+UK,BOE Chief Economist Huw Pill speaks,13:35,--,--,--
+US,PPI Final Demand YoY,14:30,Sep,8.4%,8.7%
+EC,ECB's Lagarde Speaks,15:30,--,--,--
+US,STEO Current Yr Crude Forecast,18:00,Oct,--,11.8
+US,FOMC Meeting Minutes,20:00,--,--,--
+13 October 2022,--,--,--,--,--
+UK,RICS House Price Balance,01:01,Sep,--,53.0%
+JN,PPI YoY,01:50,Sep,8.8%,9.0%
+GE,CPI EU Harmonized YoY,08:00,Sep F,10.9%,10.9%
+US,CPI YoY,14:30,Sep,8.1%,8.3%
+US,Initial Jobless Claims,14:30,--,--,219k
+US,DOE U.S. Crude Oil Inventories,17:00,--,--,-1356k
+GE,Current Account Balance,--,Aug,--,5.0b
+14 October 2022,--,--,--,--,--
+JN,Money Stock M2 YoY,01:50,Sep,3.4%,3.4%
+CH,PPI YoY,03:30,Sep,1.0%,2.3%
+CH,CPI YoY,03:30,Sep,2.8%,2.5%
+FR,CPI EU Harmonized YoY,08:45,Sep F,6.2%,6.2%
+EC,Trade Balance SA,11:00,Aug,--,-40.3b
+US,Retail Sales Advance MoM,14:30,Sep,0.2%,0.3%
+US,Import Price Index YoY,14:30,Sep,--,7.8%
+US,Business Inventories,16:00,Aug,0.9%,0.6%
+US,U. of Mich. Sentiment,16:00,Oct P,58.8,58.6
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-CH,Foreign Reserves,--,--,--,$3054.88b
+CH,Trade Balance,--,Sep,$81.20b,$79.39b
+15 October 2022,--,--,--,--,--
+UK,BOE Governor Andrew Bailey speaks,15:00,--,--,--
+US,Fed’s Bullard Discusses Inflation,19:15,--,--,--
+17 October 2022,--,--,--,--,--
+UK,Rightmove House Prices YoY,01:01,Oct,--,8.7%
+US,Empire Manufacturing,14:30,Oct,--,-1.5
+18 October 2022,--,--,--,--,--
+CH,Industrial Production YoY,04:00,Sep,4.8%,4.2%
+CH,GDP YoY,04:00,3Q,3.5%,0.4%
+CH,Retail Sales YoY,04:00,Sep,3.2%,5.4%
+CH,Surveyed Jobless Rate,04:00,Sep,5.2%,5.3%
+EC,EU27 New Car Registrations,08:00,Sep,--,4.4%
+GE,ZEW Survey Expectations,11:00,Oct,--,-61.9
+US,Industrial Production MoM,15:15,Sep,0.0%,-0.2%
+US,NAHB Housing Market Index,16:00,Oct,--,46.0
+US,Net Long-term TIC Flows,22:00,Aug,--,$21.4b
+19 October 2022,--,--,--,--,--
+CH,New Home Prices MoM,03:30,Sep,--,-0.3%
+UK,CPI YoY,08:00,Sep,--,9.9%
+UK,PPI Output NSA YoY,08:00,Sep,--,16.1%
+UK,House Price Index YoY,10:30,Aug,--,15.5%
+EC,Construction Output MoM,11:00,Aug,--,0.3%
+EC,CPI YoY,11:00,Sep F,--,9.1%
+US,Building Permits MoM,14:30,Sep,3.8%,-10.0%
+US,Housing Starts MoM,14:30,Sep,-4.1%,12.2%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+US,U.S. Federal Reserve Releases Beige Book,20:00,--,--,--
+20 October 2022,--,--,--,--,--
+JN,Trade Balance Adjusted,01:50,Sep,--,-¥2371.3b
+CH,1-Year Loan Prime Rate,03:15,,3.65%,3.65%
+GE,PPI YoY,08:00,Sep,--,45.8%
+FR,Business Confidence,08:45,Oct,--,102.0
+EC,ECB Current Account SA,10:00,Aug,--,-19.9b
+US,Initial Jobless Claims,14:30,--,--,--
+US,Philadelphia Fed Business Outlook,14:30,Oct,--,-9.9
+US,Existing Home Sales MoM,16:00,Sep,-2.1%,-0.4%
+US,Leading Index,16:00,Sep,--,-0.3%
+21 October 2022,--,--,--,--,--
+UK,GfK Consumer Confidence,01:01,Oct,--,-49.0
+JN,Natl CPI YoY,01:30,Sep,--,3.0%
+UK,Retail Sales Inc Auto Fuel MoM,08:00,Sep,--,-1.6%
+UK,PSNB ex Banking Groups,08:00,Sep,--,11.8b
+EC,Govt Debt/GDP Ratio,11:00,,--,95.6%
+EC,Consumer Confidence,16:00,Oct P,--,-28.8
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
