@@ -1,56 +1,86 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-31 October 2022,--,--,--,--,--
-JN,Industrial Production MoM,00:50,Sep P,-0.8%,3.4%
-JN,Retail Sales MoM,00:50,Sep,0.8%,1.4%
-CH,Manufacturing PMI,02:30,Oct,49.9,50.1
-CH,Non-manufacturing PMI,02:30,Oct,50.1,50.6
-JN,Consumer Confidence Index,06:00,Oct,30.9,30.8
-JN,Housing Starts YoY,06:00,Sep,2.3%,4.6%
-GE,Import Price Index YoY,08:00,Sep,33.6%,32.7%
-IT,GDP WDA QoQ,10:00,3Q P,-0.2%,1.1%
-UK,Money Supply M4 MoM,10:30,Sep,--,-0.2%
-EC,CPI Estimate YoY,11:00,Oct,9.6%,10.0%
-EC,GDP SA QoQ,11:00,3Q A,-0.1%,0.8%
-US,MNI Chicago PMI,14:45,Oct,47.2,45.7
-US,Dallas Fed Manf. Activity,15:30,Oct,-16.8,-17.2
-GE,Retail Sales MoM,31-02,Sep,-0.5%,-1.3%
-01 November 2022,--,--,--,--,--
-JN,Jibun Bank Japan PMI Mfg,01:30,Oct F,--,50.7
-CH,Caixin China PMI Mfg,02:45,Oct,48.5,48.1
-UK,Nationwide House PX MoM,08:00,Oct,-0.5%,0.0%
-UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Oct F,--,45.8
-US,S&P Global US Manufacturing PMI,14:45,Oct F,49.9,49.9
-US,Construction Spending MoM,15:00,Sep,-0.5%,-0.7%
-US,ISM Manufacturing,15:00,Oct,50.0,50.9
-US,Wards Total Vehicle Sales,,Oct,14.25m,13.49m
-02 November 2022,--,--,--,--,--
-GE,Trade Balance SA,08:00,Sep,2.3b,1.2b
-GE,Unemployment Change (000's),09:55,Oct,15.0k,14.0k
-EC,S&P Global Euro Manuf. PMI,10:00,Oct F,46.6,46.6
-US,ADP Employment Change,13:15,Oct,200k,208k
-US,DOE U.S. Crude Oil Inventories,15:30,--,--,2588k
-US,Fed Rate Decision (Up. Bound),19:00,--,4.00%,3.25%
-03 November 2022,--,--,--,--,--
-CH,Caixin China PMI Services,02:45,Oct,49.2,49.3
-EC,ECB's Lagarde Speaks,08:50,--,--,--
-UK,S&P Global/CIPS UK Services PMI,10:30,Oct F,--,47.5
-EC,Unemployment Rate,11:00,Sep,6.6%,6.6%
-UK,Bank of England Bank Rate,13:00,--,3.00%,2.25%
-US,Trade Balance,13:30,Sep,-$70.2b,-$67.4b
-UK,BOE Governor Bailey press conference,13:30,--,--,--
-US,Unit Labor Costs,13:30,3Q P,3.9%,10.2%
-US,Initial Jobless Claims,13:30,--,--,217k
-US,S&P Global US Services PMI,14:45,Oct F,46.6,46.6
-US,Cap Goods Orders Nondef Ex Air,15:00,Sep F,--,-0.7%
-US,ISM Services Index,15:01,Oct,55.5,56.7
-04 November 2022,--,--,--,--,--
-JN,Jibun Bank Japan PMI Services,01:30,Oct F,--,53.0
-GE,Factory Orders MoM,08:00,Sep,-0.4%,-2.4%
+07 November 2022,--,--,--,--,--
+GE,Industrial Production SA MoM,08:00,Sep,0.2%,-0.8%
+EC,ECB's Lagarde Speaks,09:40,--,--,--
+EC,Sentix Investor Confidence,10:30,Nov,-35.0,-38.3
+CH,Foreign Reserves,--,Oct,$3039.00b,$3028.96b
+CH,Trade Balance,--,Oct,$95.97b,$84.74b
+08 November 2022,--,--,--,--,--
+JN,Household Spending YoY,00:30,Sep,2.7%,5.1%
+JN,Leading Index CI,06:00,Sep P,97.6,101.3
 FR,Private Sector Payrolls QoQ,08:45,3Q P,--,0.5%
-FR,Industrial Production MoM,08:45,Sep,-1.0%,2.4%
-EC,S&P Global Eurozone Services PMI,10:00,Oct F,48.2,48.2
-EC,ECB's Lagarde Speaks,10:30,--,--,--
-EC,PPI YoY,11:00,Sep,--,43.3%
-US,Change in Nonfarm Payrolls,13:30,Oct,200k,263k
-US,Average Hourly Earnings YoY,13:30,Oct,4.7%,5.0%
-US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
+FR,Trade Balance,08:45,Sep,--,-15301m
+EC,Retail Sales MoM,11:00,Sep,0.5%,-0.3%
+US,NFIB Small Business Optimism,12:00,Oct,91.5,92.1
+US,STEO Fwd Yr Crude Forecast,18:00,--,--,12.4
+09 November 2022,--,--,--,--,--
+JN,BoP Current Account Adjusted,00:50,Sep,¥6.3b,-¥530.5b
+CH,PPI YoY,02:30,Oct,-1.6%,0.9%
+CH,CPI YoY,02:30,Oct,2.4%,2.8%
+US,Wholesale Inventories MoM,16:00,Sep F,0.8%,0.8%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-3115k
+US,Fed’s Barkin Discusses the Economic Outlook,17:00,--,--,--
+CH,Aggregate Financing CNY,9-15,Oct,1600.0b,3530.0b
+10 November 2022,--,--,--,--,--
+JN,Machine Tool Orders YoY,07:00,Oct P,--,4.3%
+EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+IT,Industrial Production MoM,10:00,Sep,-1.5%,2.3%
+US,CPI YoY,14:30,Oct,8.0%,8.2%
+US,Initial Jobless Claims,14:30,--,--,217k
+US,Fed’s Mester Discusses the Economic Outlook,18:30,--,--,--
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+11 November 2022,--,--,--,--,--
+UK,Monthly GDP (MoM),08:00,Sep,--,-0.3%
+UK,GDP QoQ,08:00,3Q P,-0.4%,0.2%
+GE,CPI EU Harmonized YoY,08:00,Oct F,11.6%,11.6%
+UK,Industrial Production MoM,08:00,Sep,--,-1.8%
+UK,Trade Balance GBP/Mn,08:00,Sep,--,-£7080m
+EC,EU Commission Economic Forecasts,11:00,--,--,--
+US,U. of Mich. Sentiment,16:00,Nov P,59.6,59.9
+14 November 2022,--,--,--,--,--
+EC,Industrial Production SA MoM,11:00,Sep,--,1.5%
+15 November 2022,--,--,--,--,--
+JN,GDP SA QoQ,00:50,3Q P,0.3%,0.9%
+CH,Industrial Production YoY,03:00,Oct,5.4%,6.3%
+CH,Retail Sales YoY,03:00,Oct,0.9%,2.5%
+CH,Surveyed Jobless Rate,03:00,Oct,5.5%,5.5%
+FR,ILO Unemployment Rate,07:30,3Q,--,7.4%
+UK,Jobless Claims Change,08:00,Oct,--,25.5k
+UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Sep,--,5.4%
+FR,CPI EU Harmonized YoY,08:45,Oct F,--,7.1%
+GE,ZEW Survey Expectations,11:00,Nov,--,-59.2
+EC,Trade Balance SA,11:00,Sep,--,-47.3b
+EC,Employment QoQ,11:00,3Q P,--,0.4%
+EC,GDP SA QoQ,11:00,3Q P,--,0.2%
+US,Empire Manufacturing,14:30,Nov,--,-9.1
+US,PPI Final Demand YoY,14:30,Oct,--,8.5%
+16 November 2022,--,--,--,--,--
+JN,Core Machine Orders MoM,00:50,Sep,--,-5.8%
+CH,New Home Prices MoM,02:30,Oct,--,-0.3%
+UK,CPI YoY,08:00,Oct,--,10.1%
+UK,PPI Output NSA YoY,08:00,Oct,--,15.9%
+IT,CPI EU Harmonized YoY,10:00,Oct F,--,12.8%
+UK,House Price Index YoY,10:30,Sep,--,13.6%
+US,Retail Sales Advance MoM,14:30,Oct,0.9%,0.0%
+US,Import Price Index YoY,14:30,Oct,--,6.0%
+US,Industrial Production MoM,15:15,Oct,0.2%,0.4%
+US,Business Inventories,16:00,Sep,0.5%,0.8%
+US,NAHB Housing Market Index,16:00,Nov,--,38.0
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+US,Net Long-term TIC Flows,22:00,Sep,--,$197.9b
+17 November 2022,--,--,--,--,--
+JN,Trade Balance Adjusted,00:50,Oct,--,-¥2009.8b
+EC,EU27 New Car Registrations,08:00,Oct,--,9.6%
+EC,CPI YoY,11:00,Oct F,--,9.9%
+US,Housing Starts MoM,14:30,Oct,-2.7%,-8.1%
+US,Philadelphia Fed Business Outlook,14:30,Nov,--,-8.7
+US,Initial Jobless Claims,14:30,--,--,--
+US,Kansas City Fed Manf. Activity,17:00,Nov,--,-7.0
+18 November 2022,--,--,--,--,--
+JN,Natl CPI YoY,00:30,Oct,--,3.0%
+UK,GfK Consumer Confidence,01:01,Nov,--,-47.0
+UK,Retail Sales Inc Auto Fuel MoM,08:00,Oct,--,-1.4%
+EC,ECB's Lagarde Speaks in Frankfurt,09:00,--,--,--
+US,Existing Home Sales MoM,16:00,Oct,-7.4%,-1.5%
+US,Leading Index,16:00,Oct,--,-0.4%
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
