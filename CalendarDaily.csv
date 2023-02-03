@@ -1,60 +1,56 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2023-01-30,GE,GDP SA QoQ,10:00,4Q P,0.0%,0.4%
-2023-01-30,EC,Economic Confidence,11:00,Jan,97.0,95.8
-2023-01-30,US,Dallas Fed Manf. Activity,16:30,Jan,-15.5,-18.8
-2023-01-31,JN,Jobless Rate,00:30,Dec,2.5%,2.5%
-2023-01-31,JN,Retail Sales MoM,00:50,Dec,0.8%,-1.1%
-2023-01-31,JN,Industrial Production MoM,00:50,Dec P,-1.2%,0.2%
-2023-01-31,CH,Manufacturing PMI,02:30,Jan,50.1,47.0
-2023-01-31,CH,Non-manufacturing PMI,02:30,Jan,52.0,41.6
-2023-01-31,CH,Industrial Profits YoY,02:30,Dec,--,0.8%
-2023-01-31,US,IMF World Economic Outlook Update,02:30,--,--,--
-2023-01-31,FR,Consumer Spending MoM,07:30,Dec,0.3%,0.5%
-2023-01-31,FR,GDP QoQ,07:30,4Q P,0.0%,0.2%
-2023-01-31,GE,Import Price Index YoY,08:00,Dec,11.5%,14.5%
-2023-01-31,GE,Retail Sales MoM,08:00,Dec,0.2%,1.1%
-2023-01-31,FR,PPI YoY,08:45,Dec,--,21.5%
-2023-01-31,FR,CPI EU Harmonized YoY,08:45,Jan P,7.0%,6.7%
-2023-01-31,GE,Unemployment Change (000's),09:55,Jan,5.0k,-13.0k
-2023-01-31,EC,Euro Area Bank Lending Survey,10:00,--,--,--
-2023-01-31,UK,Mortgage Approvals,10:30,Dec,44.0k,46.1k
-2023-01-31,EC,GDP SA QoQ,11:00,4Q A,0.0%,0.3%
-2023-01-31,IT,GDP WDA QoQ,11:00,4Q P,-0.1%,0.5%
-2023-01-31,GE,CPI EU Harmonized YoY,14:00,Jan P,10.2%,9.6%
-2023-01-31,US,FHFA House Price Index MoM,15:00,Nov,-0.5%,0.0%
-2023-01-31,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Nov,6.8%,8.6%
-2023-01-31,US,MNI Chicago PMI,15:45,Jan,45.3,44.9
-2023-01-31,US,Conf. Board Consumer Confidence,16:00,Jan,108.9,108.3
-2023-01-31,US,Dallas Fed Services Activity,16:30,Jan,--,--
-2023-02-01,JN,Jibun Bank Japan PMI Mfg,01:30,Jan F,--,48.9
-2023-02-01,CH,Caixin China PMI Mfg,02:45,Jan,49.8,49.0
-2023-02-01,UK,Nationwide House Px NSA YoY,08:00,Jan,1.8%,2.8%
-2023-02-01,EC,S&P Global Eurozone Manufacturing PMI,10:00,Jan F,48.8,48.8
-2023-02-01,UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Jan F,46.7,46.7
-2023-02-01,EC,Unemployment Rate,11:00,Dec,6.5%,6.5%
-2023-02-01,EC,CPI Estimate YoY,11:00,Jan,9.0%,9.2%
-2023-02-01,US,ADP Employment Change,14:15,Jan,160k,235k
-2023-02-01,US,S&P Global US Manufacturing PMI,15:45,Jan F,--,46.8
-2023-02-01,US,Construction Spending MoM,16:00,Dec,0.0%,0.2%
-2023-02-01,US,ISM Manufacturing,16:00,Jan,48.1,48.4
-2023-02-01,US,DOE U.S. Crude Oil Inventories,16:30,--,--,533k
-2023-02-01,US,FOMC Rate Decision (Upper Bound),20:00,--,4.75%,4.50%
-2023-02-01,US,Fed Chair Holds Press Conference Following FOMC Meeting,20:30,--,--,--
-2023-02-01,US,Wards Total Vehicle Sales,--,Jan,14.30m,13.31m
-2023-02-02,GE,Trade Balance SA,08:00,Dec,8.0b,10.8b
-2023-02-02,UK,Bank of England Bank Rate,13:00,--,4.0%,3.5%
-2023-02-02,EC,ECB Deposit Facility Rate,14:15,--,2.5%,2.0%
-2023-02-02,US,Unit Labor Costs,14:30,4Q P,1.5%,2.4%
-2023-02-02,US,Initial Jobless Claims,14:30,--,--,186k
-2023-02-02,EC,ECB President Holds Press Conference,14:45,--,--,--
-2023-02-03,JN,Jibun Bank Japan PMI Services,01:30,Jan F,--,52.4
-2023-02-03,CH,Caixin China PMI Services,02:45,Jan,51.6,48.0
-2023-02-03,FR,Industrial Production MoM,08:45,Dec,0.3%,2.0%
-2023-02-03,EC,S&P Global Eurozone Services PMI,10:00,Jan F,50.7,50.7
-2023-02-03,UK,S&P Global/CIPS UK Services PMI,10:30,Jan F,48.0,48.0
-2023-02-03,EC,PPI YoY,11:00,Dec,22.6%,27.1%
-2023-02-03,US,Change in Nonfarm Payrolls,14:30,Jan,175k,223k
-2023-02-03,US,Average Hourly Earnings YoY,14:30,Jan,4.3%,4.6%
-2023-02-03,US,S&P Global US Services PMI,15:45,Jan F,--,46.6
-2023-02-03,US,ISM Services Index,16:00,Jan,50.4,49.6
-2023-02-03,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2023-02-06,GE,Factory Orders MoM,08:00,Dec,2.0%,-5.3%
+2023-02-06,EC,Sentix Investor Confidence,10:30,Feb,-13.0,-17.5
+2023-02-06,EC,Retail Sales MoM,11:00,Dec,-2.5%,0.8%
+2023-02-07,JN,Labor Cash Earnings YoY,00:30,Dec,2.5%,0.5%
+2023-02-07,JN,Household Spending YoY,00:30,Dec,-0.4%,-1.2%
+2023-02-07,JN,Leading Index CI,06:00,Dec P,97.0,97.4
+2023-02-07,GE,Industrial Production SA MoM,08:00,Dec,-0.8%,0.2%
+2023-02-07,FR,Trade Balance,08:45,Dec,--,-13766m
+2023-02-07,US,Trade Balance,14:30,Dec,-$68.5b,-$61.5b
+2023-02-07,US,STEO Fwd Yr Crude Forecast,18:00,Feb,--,12.8
+2023-02-07,US,Fed Chair Powell Speaks in Washington,18:00,--,--,--
+2023-02-07,CH,Foreign Reserves,--,Jan,$3155.00b,$3127.69b
+2023-02-08,JN,Trade Balance BoP Basis,00:50,Dec,-¥1114.8b,-¥1537.8b
+2023-02-08,FR,Private Sector Payrolls QoQ,08:45,4Q P,--,0.6%
+2023-02-08,US,DOE U.S. Crude Oil Inventories,16:30,--,--,4140k
+2023-02-09,JN,Money Stock M2 YoY,00:50,Jan,--,2.9%
+2023-02-09,JN,Machine Tool Orders YoY,07:00,Jan P,--,0.9%
+2023-02-09,GE,CPI EU Harmonized YoY,08:00,Jan P,10.1%,9.6%
+2023-02-09,US,Initial Jobless Claims,14:30,--,--,183k
+2023-02-09,CH,Aggregate Financing CNY,09-15,Jan,5400.0b,1310.0b
+2023-02-10,JN,PPI YoY,00:50,Jan,9.7%,10.2%
+2023-02-10,CH,CPI YoY,02:30,Jan,2.2%,1.8%
+2023-02-10,CH,PPI YoY,02:30,Jan,-0.5%,-0.7%
+2023-02-10,UK,Monthly GDP (MoM),08:00,Dec,-0.2%,0.1%
+2023-02-10,UK,Industrial Production MoM,08:00,Dec,-0.1%,-0.2%
+2023-02-10,UK,Visible Trade Balance GBP/Mn,08:00,Dec,--,-£15623m
+2023-02-10,UK,GDP QoQ,08:00,4Q P,-0.1%,-0.3%
+2023-02-10,FR,Wages QoQ,08:45,4Q P,--,1.0%
+2023-02-10,IT,Industrial Production MoM,10:00,Dec,-0.7%,-0.3%
+2023-02-10,US,U. of Mich. Sentiment,16:00,Feb P,64.9,64.9
+2023-02-10,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
