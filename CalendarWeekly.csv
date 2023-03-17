@@ -1,85 +1,45 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-06 March 2023,--,--,--,--,--
-EC,Sentix Investor Confidence,10:30,Mar,-7.5,-8.0
-EC,Retail Sales MoM,11:00,Jan,1.5%,-2.7%
-US,Cap Goods Orders Nondef Ex Air,16:00,Jan F,--,0.8%
-07 March 2023,--,--,--,--,--
-GE,Factory Orders MoM,08:00,Jan,-0.4%,3.2%
-US,Powell Appears Before Senate Banking Panel,16:00,--,--,--
-US,Wholesale Inventories MoM,16:00,Jan F,--,-0.4%
-US,STEO Current Yr Crude Forecast,18:00,Mar,--,12.5
-CH,Trade Balance YTD,--,Feb,$81.80b,--
-08 March 2023,--,--,--,--,--
-JN,BoP Current Account Adjusted,00:50,Jan,¥853.4b,¥1182.1b
-JN,Leading Index CI,06:00,Jan P,96.9,97.2
-GE,Retail Sales MoM,08:00,Jan,2.5%,-5.3%
-GE,Industrial Production SA MoM,08:00,Jan,1.5%,-3.1%
-EC,GDP SA QoQ,11:00,4Q F,0.0%,0.1%
-EC,ECB's Lagarde Speaks,11:00,--,--,--
-US,ADP Employment Change,14:15,Feb,200k,106k
-US,Trade Balance,14:30,Jan,-$69.0b,-$67.4b
-CA,Bank of Canada Rate Decision,16:00,--,4.5%,4.5%
-US,Powell Appears Before House Committee,16:00,--,--,--
-US,JOLTS Job Openings,16:00,Jan,--,11012k
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,1166k
-09 March 2023,--,--,--,--,--
-JN,Money Stock M2 YoY,00:50,Feb,--,2.7%
-JN,GDP SA QoQ,00:50,4Q F,0.2%,0.2%
-CH,CPI YoY,02:30,Feb,1.9%,2.1%
-CH,PPI YoY,02:30,Feb,-1.3%,-0.8%
-JN,Machine Tool Orders YoY,07:00,Feb P,--,-9.7%
-FR,Total Payrolls,07:30,1Q,--,0.4%
-US,Initial Jobless Claims,14:30,--,--,190k
-US,Household Change in Net Worth,18:00,4Q,--,-$392b
-CH,Aggregate Financing CNY,9-15,Feb,2200.0b,5980.0b
-10 March 2023,--,--,--,--,--
-JN,Household Spending YoY,00:30,Jan,-0.1%,-1.3%
-JN,PPI YoY,00:50,Feb,8.5%,9.5%
-UK,Monthly GDP (MoM),08:00,Jan,0.1%,-0.5%
-UK,Industrial Production MoM,08:00,Jan,0.1%,0.3%
-UK,Trade Balance GBP/Mn,08:00,Jan,--,-£7150m
-GE,CPI EU Harmonized YoY,08:00,Feb F,9.3%,9.3%
-FR,Trade Balance,08:45,Jan,--,-14934m
-US,Average Hourly Earnings YoY,14:30,Feb,4.8%,4.4%
-US,Change in Nonfarm Payrolls,14:30,Feb,215k,517k
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-JN,BOJ Policy Balance Rate,--,--,-0.1%,-0.1%
-JN,BOJ 10-Yr Yield Target,--,--,0.0%,0.0%
-14 March 2023,--,--,--,--,--
-UK,Jobless Claims Change,08:00,Feb,--,-12.9k
-UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Jan,--,6.7%
-IT,Industrial Production MoM,10:00,Jan,--,1.6%
-US,NFIB Small Business Optimism,11:00,Feb,--,90.3
-US,CPI YoY,13:30,Feb,5.9%,6.4%
-15 March 2023,--,--,--,--,--
-CH,Surveyed Jobless Rate,03:00,Feb,5.4%,5.5%
-CH,Retail Sales YoY,03:00,Feb,3.5%,-1.8%
-CH,Industrial Production YoY,03:00,Feb,3.2%,1.3%
-FR,CPI EU Harmonized YoY,08:45,Feb F,--,7.2%
-EC,Industrial Production SA MoM,11:00,Jan,--,-1.1%
-US,Empire Manufacturing,13:30,Mar,--,-5.8
-US,Retail Sales Advance MoM,13:30,Feb,-0.30%,3.00%
-US,PPI Final Demand YoY,13:30,Feb,--,6.0%
-US,Business Inventories,15:00,Jan,-0.1%,0.3%
-US,NAHB Housing Market Index,15:00,Mar,--,42.0
-US,DOE U.S. Crude Oil Inventories,15:30,--,--,--
-US,Net Long-term TIC Flows,21:00,--,--,$152.8b
-GE,Current Account Balance,--,Jan,--,24.3b
-UK,UK Chancellor Presents Spring Budget to Parliament,,,,
-16 March 2023,--,--,--,--,--
-JN,Trade Balance Adjusted,00:50,Feb,--,-¥1821.3b
-JN,Core Machine Orders MoM,00:50,Jan,--,1.6%
-CH,New Home Prices MoM,02:30,Feb,--,0.0%
-US,Initial Jobless Claims,13:30,--,--,--
-US,Import Price Index YoY,13:30,Feb,--,0.8%
-US,Housing Starts MoM,13:30,Feb,--,-4.5%
-US,Philadelphia Fed Business Outlook,13:30,Mar,--,-24.3
-EC,ECB Deposit Facility Rate,14:15,--,--,2.5%
-EC,ECB President Holds Press Conference,14:45,--,--,--
-17 March 2023,--,--,--,--,--
-EC,CPI YoY,11:00,Feb F,--,8.6%
-US,Industrial Production MoM,14:15,Feb,0.5%,0.0%
-US,Leading Index,15:00,Feb,--,-0.3%
-US,U. of Mich. Sentiment,15:00,Mar P,--,67.0
+20 March 2023,--,--,--,--,--
+UK,Rightmove House Prices YoY,01:01,Mar,--,3.9%
+CH,5-Year Loan Prime Rate,02:15,--,4.30%,4.30%
+CH,1-Year Loan Prime Rate,02:15,--,3.65%,3.65%
+GE,PPI YoY,08:00,Feb,14.3%,17.8%
+EC,Trade Balance SA,11:00,Jan,--,-18.1b
+21 March 2023,--,--,--,--,--
+UK,PSNB ex Banking Groups,08:00,Feb,11.4b,-5.4b
+EC,EU27 New Car Registrations,08:00,Feb,--,11.3%
+GE,ZEW Survey Expectations,11:00,Mar,17.8,28.1
+EC,Construction Output MoM,11:00,Jan,--,-2.5%
+EC,"ECB's Lagarde, Villeroy Speak",13:30,--,--,--
+US,Existing Home Sales MoM,15:00,Feb,4.8%,-0.7%
+22 March 2023,--,--,--,--,--
+UK,CPI YoY,08:00,Feb,9.8%,10.1%
+UK,PPI Output NSA YoY,08:00,Feb,--,13.5%
+EC,ECB's Lagarde Speaks,09:45,--,--,--
+EC,ECB Current Account SA,10:00,Jan,--,15.9b
+UK,House Price Index YoY,10:30,Jan,--,9.8%
+UK,CBI Trends Total Orders,12:00,Mar,-15.0,-16.0
+US,DOE U.S. Crude Oil Inventories,15:30,--,--,1550k
+US,FOMC Rate Decision (Upper Bound),19:00,--,5.00%,4.75%
+US,Fed Chair Holds Press Conference,19:30,--,--,--
+23 March 2023,--,--,--,--,--
+JN,Nationwide Dept Sales YoY,06:30,Feb,--,15.1%
+UK,Bank of England Bank Rate,13:00,--,4.25%,4.00%
+US,Current Account Balance,13:30,4Q,-$213.6b,-$217.1b
+US,Initial Jobless Claims,13:30,,--,192k
+US,Chicago Fed Nat Activity Index,13:30,Feb,--,23.0%
+US,New Home Sales MoM,15:00,Feb,-3.0%,7.2%
+US,Kansas City Fed Manf. Activity,16:00,Mar,--,0.0
+EC,Consumer Confidence,16:00,Mar P,-18.2,-19.0
+24 March 2023,--,--,--,--,--
+JN,Natl CPI YoY,00:30,Feb,3.3%,4.3%
+UK,GfK Consumer Confidence,01:01,Mar,-35.0,-38.0
+JN,Jibun Bank Japan PMI Composite,01:30,Mar P,--,51.1
+UK,Retail Sales Inc Auto Fuel MoM,08:00,Feb,0.2%,0.5%
+FR,S&P Global France Composite PMI,09:15,Mar P,51.0,51.7
+GE,S&P Global Germany Composite PMI,09:30,Mar P,51.0,50.7
+EC,S&P Global Eurozone Composite PMI,10:00,Mar P,51.9,52.0
+UK,S&P Global/CIPS UK Composite PMI,10:30,Mar P,52.7,53.1
+US,Cap Goods Orders Nondef Ex Air,13:30,Feb P,0.0%,0.8%
+US,S&P Global US Composite PMI,14:45,Mar P,--,50.1
 US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
-EC,OECD Publishes Interim Economic Outlook,--,--,--,--
