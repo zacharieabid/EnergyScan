@@ -1,34 +1,36 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2023-04-03,JN,Tankan Large Mfg Index,01:50,1Q,3.0,7.0
-2023-04-03,JN,Jibun Bank Japan PMI Mfg,02:30,Mar F,--,48.6
-2023-04-03,CH,Caixin China PMI Mfg,03:45,Mar,51.4,51.6
-2023-04-03,EC,S&P Global Eurozone Manufacturing PMI,10:00,Mar F,47.1,47.1
-2023-04-03,UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Mar F,48.0,48.0
-2023-04-03,US,S&P Global US Manufacturing PMI,15:45,Mar F,--,49.3
-2023-04-03,US,Construction Spending MoM,16:00,Feb,0.0%,-0.1%
-2023-04-03,US,ISM Manufacturing,16:00,Mar,47.5,47.7
-2023-04-03,US,Wards Total Vehicle Sales,--,Mar,14.85m,14.89m
-2023-04-04,GE,Trade Balance SA,08:00,Feb,16.6b,16.7b
-2023-04-04,EC,PPI YoY,11:00,Feb,12.9%,15.0%
-2023-04-04,US,Cap Goods Orders Nondef Ex Air,16:00,Feb F,--,0.2%
-2023-04-05,JN,Jibun Bank Japan PMI Services,02:30,Mar F,--,54.2
-2023-04-05,GE,Factory Orders MoM,08:00,Feb,-0.6%,1.0%
-2023-04-05,FR,Manufacturing Production MoM,08:45,Feb,--,-1.8%
-2023-04-05,EC,S&P Global Eurozone Services PMI,10:00,Mar F,55.6,55.6
-2023-04-05,UK,S&P Global/CIPS UK Services PMI,10:30,Mar F,52.6,52.8
-2023-04-05,US,ADP Employment Change,14:15,Mar,205k,242k
-2023-04-05,US,Trade Balance,14:30,Feb,-$68.5b,-$68.3b
-2023-04-05,US,S&P Global US Services PMI,15:45,Mar F,--,53.8
-2023-04-05,US,ISM Services Index,16:00,Mar,54.6,55.1
-2023-04-05,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-7489k
-2023-04-06,CH,Caixin China PMI Services,03:45,Mar,55.0,55.0
-2023-04-06,GE,Industrial Production SA MoM,08:00,Feb,0.0%,3.5%
-2023-04-06,US,Challenger Job Cuts YoY,13:30,Mar,--,410.1%
-2023-04-06,US,Initial Jobless Claims,14:30,--,--,198k
-2023-04-06,US,Fed’s Bullard Discusses the Economic Outlook,16:00,--,--,--
-2023-04-06,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2023-04-07,JN,Household Spending YoY,01:30,Feb,4.8%,-0.3%
-2023-04-07,JN,Leading Index CI,07:00,Feb P,97.5,96.6
-2023-04-07,FR,Trade Balance,08:45,Feb,--,-12939m
-2023-04-07,US,Change in Nonfarm Payrolls,14:30,Mar,240k,311k
-2023-04-07,US,Average Hourly Earnings YoY,14:30,Mar,4.3%,4.6%
+2023-04-10,JN,BoP Current Account Adjusted,01:50,Feb,¥1452.4b,¥216.3b
+2023-04-10,JN,Consumer Confidence Index,07:00,Mar,31.8,31.1
+2023-04-10,CH,Aggregate Financing CNY,10-15,Mar,4500.0b,3160.0b
+2023-04-11,CH,CPI YoY,03:30,Mar,1.0%,1.0%
+2023-04-11,CH,PPI YoY,03:30,Mar,-2.5%,-1.4%
+2023-04-11,JN,Machine Tool Orders YoY,08:00,Mar P,--,-10.7%
+2023-04-11,EC,Sentix Investor Confidence,10:30,Apr,-15.0,-11.1
+2023-04-11,EC,Retail Sales MoM,11:00,Feb,-0.8%,0.3%
+2023-04-11,US,NFIB Small Business Optimism,12:00,Mar,89.5,90.9
+2023-04-11,US,STEO Current Yr Crude Forecast,18:00,Apr,--,12.4
+2023-04-12,JN,PPI YoY,01:50,Mar,7.1%,8.2%
+2023-04-12,JN,Core Machine Orders MoM,01:50,Feb,-6.7%,9.5%
+2023-04-12,US,CPI YoY,14:30,Mar,5.2%,6.0%
+2023-04-12,US,CPI Ex Food and Energy YoY,14:30,Mar,5.6%,5.5%
+2023-04-12,CA,Bank of Canada Rate Decision,16:00,--,4.5%,4.5%
+2023-04-12,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-3739k
+2023-04-12,US,FOMC Meeting Minutes,20:00,--,--,--
+2023-04-13,UK,RICS House Price Balance,01:01,Mar,-48.0%,-48.0%
+2023-04-13,JN,Money Stock M2 YoY,01:50,Mar,--,2.6%
+2023-04-13,UK,Monthly GDP (MoM),08:00,Feb,0.1%,0.3%
+2023-04-13,UK,Industrial Production MoM,08:00,Feb,0.2%,-0.3%
+2023-04-13,UK,Trade Balance GBP/Mn,08:00,Feb,-£4800m,-£5861m
+2023-04-13,GE,CPI EU Harmonized YoY,08:00,Mar F,7.8%,7.8%
+2023-04-13,EC,Industrial Production SA MoM,11:00,Feb,1.0%,0.7%
+2023-04-13,US,Initial Jobless Claims,14:30,--,--,228k
+2023-04-13,US,PPI Final Demand YoY,14:30,Mar,3.1%,4.6%
+2023-04-13,GE,Current Account Balance,--,Feb,--,16.2b
+2023-04-13,CH,Trade Balance,--,Mar,$39.95b,$78.01b
+2023-04-14,FR,CPI EU Harmonized YoY,08:45,Mar F,6.6%,6.6%
+2023-04-14,US,Import Price Index YoY,14:30,Mar,--,-1.1%
+2023-04-14,US,Retail Sales Control Group,14:30,Mar,-0.5%,0.5%
+2023-04-14,US,Industrial Production MoM,15:15,Mar,0.3%,0.0%
+2023-04-14,US,Business Inventories,16:00,Feb,0.3%,-0.1%
+2023-04-14,US,U. of Mich. Sentiment,16:00,Apr P,61.8,62.0
+2023-04-14,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,590.0
