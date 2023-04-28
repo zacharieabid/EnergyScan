@@ -1,50 +1,49 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2023-04-24,GE,IFO Business Climate,10:00,Apr,93.4,93.3
-2023-04-24,EC,ECB's Villeroy Speaks,10:35,--,--,--
-2023-04-24,US,Chicago Fed Nat Activity Index,14:30,Mar,-0.20,-0.19
-2023-04-24,US,Dallas Fed Manf. Activity,16:30,Apr,-11.0,-15.7
-2023-04-25,JN,Nationwide Dept Sales YoY,07:30,Mar,--,20.4%
-2023-04-25,UK,PSNB ex Banking Groups,08:00,Mar,22.8b,16.7b
-2023-04-25,UK,CBI Trends Total Orders,12:00,Apr,-22.0,-20.0
-2023-04-25,US,FHFA House Price Index MoM,15:00,Feb,-0.2%,0.2%
-2023-04-25,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Feb,-0.1%,2.6%
-2023-04-25,US,New Home Sales MoM,16:00,Mar,-1.6%,1.1%
-2023-04-25,US,Conf. Board Consumer Confidence,16:00,Apr,104.0,104.2
-2023-04-25,US,Richmond Fed Manufact. Index,16:00,Apr,-8.0,-5.0
-2023-04-26,GE,GfK Consumer Confidence,08:00,May,-28.0,-29.5
-2023-04-26,FR,Consumer Confidence,08:45,Apr,81.0,81.0
-2023-04-26,UK,CBI Total Dist. Reported Sales,12:00,Apr,--,8.0
-2023-04-26,FR,Total Jobseekers,12:00,1Q,--,2834.0k
-2023-04-26,US,Wholesale Inventories MoM,14:30,Mar P,0.1%,0.1%
-2023-04-26,US,Advance Goods Trade Balance,14:30,Mar,-$90.0b,-$91.6b
-2023-04-26,US,Cap Goods Orders Nondef Ex Air,14:30,Mar P,0.1%,-0.1%
-2023-04-26,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-4581k
-2023-04-27,CH,Industrial Profits YTD YoY,03:30,Mar,--,-22.9%
-2023-04-27,IT,Consumer Confidence Index,10:00,Apr,105.0,105.1
-2023-04-27,IT,Manufacturing Confidence,10:00,Apr,103.8,104.2
-2023-04-27,EC,Economic Confidence,11:00,Apr,99.9,99.3
-2023-04-27,US,Initial Jobless Claims,14:30,--,250k,245k
-2023-04-27,US,GDP Annualized QoQ,14:30,1Q A,2.0%,2.6%
-2023-04-27,US,Pending Home Sales MoM,16:00,Mar,1.0%,0.8%
-2023-04-27,US,Kansas City Fed Manf. Activity,17:00,Apr,-2.0,0.0
-2023-04-28,JN,Jobless Rate,01:30,Mar,2.5%,2.6%
-2023-04-28,JN,Tokyo CPI YoY,01:30,Apr,3.3%,3.3%
-2023-04-28,JN,Retail Sales MoM,01:50,Mar,0.3%,1.4%
-2023-04-28,JN,Industrial Production MoM,01:50,Mar P,0.4%,4.6%
-2023-04-28,JN,Housing Starts YoY,07:00,Mar,-3.8%,-0.3%
-2023-04-28,FR,GDP QoQ,07:30,1Q P,0.2%,0.1%
-2023-04-28,GE,Import Price Index YoY,08:00,Mar,-3.9%,2.8%
-2023-04-28,FR,CPI EU Harmonized YoY,08:45,Apr P,6.7%,6.7%
-2023-04-28,FR,Consumer Spending MoM,08:45,Mar,0.6%,-0.8%
-2023-04-28,FR,PPI YoY,08:45,Mar,--,15.7%
-2023-04-28,GE,Unemployment Change (000's),09:55,Apr,9.0k,16.0k
-2023-04-28,GE,GDP SA QoQ,10:00,1Q P,0.2%,-0.4%
-2023-04-28,IT,GDP WDA QoQ,10:00,--,0.2%,-0.1%
-2023-04-28,EC,GDP SA QoQ,11:00,--,0.2%,0.0%
-2023-04-28,GE,CPI EU Harmonized YoY,14:00,Apr P,7.8%,7.8%
-2023-04-28,US,Personal Spending,14:30,Mar,-0.1%,0.2%
-2023-04-28,US,MNI Chicago PMI,15:45,Apr,43.5,43.8
-2023-04-28,US,U. of Mich. Sentiment,16:00,Apr F,63.5,63.5
-2023-04-28,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,591.0
-2023-04-28,EC,ECB's Lagarde Speaks at Eurogroup Press Conference,--,--,--,--
-2023-04-28,JN,BOJ Policy Balance Rate,--,--,-0.1%,-0.1%
+2023-04-30,CH,Manufacturing PMI,03:30,Apr,51.5,51.9
+2023-04-30,CH,Non-manufacturing PMI,03:30,Apr,57.0,58.2
+2023-05-01,JN,Jibun Bank Japan PMI Mfg,02:30,Apr F,--,49.5
+2023-05-01,JN,Consumer Confidence Index,07:00,Apr,35.0,33.9
+2023-05-01,US,S&P Global US Manufacturing PMI,15:45,Apr F,50.4,50.4
+2023-05-01,US,Construction Spending MoM,16:00,Mar,0.2%,-0.1%
+2023-05-01,US,ISM Manufacturing,16:00,Apr,46.8,46.3
+2023-05-02,JN,Monetary Base YoY,01:50,Apr,-1.3%,-1.0%
+2023-05-02,UK,Nationwide House PX MoM,08:00,Apr,-0.6%,-0.8%
+2023-05-02,EC,Eurozone Manuf. PMI,10:00,Apr F,45.5,45.5
+2023-05-02,EC,M3 Money Supply YoY,10:00,Mar,--,2.9%
+2023-05-02,EC,Euro Area Bank Lending Survey,10:00,--,--,--
+2023-05-02,UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Apr F,46.6,46.6
+2023-05-02,EC,CPI Estimate YoY,11:00,Apr,7.0%,6.9%
+2023-05-02,EC,CPI Core YoY,11:00,Apr P,5.7%,5.7%
+2023-05-02,US,JOLTS Job Openings,16:00,Mar,--,9931k
+2023-05-02,US,Cap Goods Orders Nondef Ex Air,16:00,Mar F,--,-0.4%
+2023-05-02,US,Wards Total Vehicle Sales,,Apr,14.75m,14.82m
+2023-05-02,GE,Retail Sales MoM,02-03,Mar,0.4%,-1.3%
+2023-05-03,EC,Unemployment Rate,11:00,Mar,6.6%,6.6%
+2023-05-03,US,ADP Employment Change,14:15,Apr,143k,145k
+2023-05-03,US,S&P Global US Services PMI,15:45,Apr F,--,53.7
+2023-05-03,US,ISM Services Index,16:00,Apr,52.0,51.2
+2023-05-03,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-5054k
+2023-05-03,US,FOMC Rate Decision (Up. Bound),20:00,--,5.25%,5.00%
+2023-05-03,US,Fed Chair Holds Press Conference ,20:30,--,--,--
+2023-05-04,CH,Caixin China PMI Mfg,03:45,Apr,50.3,50.0
+2023-05-04,GE,Trade Balance SA,08:00,Mar,--,16.0b
+2023-05-04,EC,Eurozone Services PMI,10:00,Apr F,56.6,56.6
+2023-05-04,UK,Net Lending Sec. on Dwellings,10:30,Mar,1.7b,0.7b
+2023-05-04,UK,S&P Global/CIPS UK Services PMI,10:30,Apr F,54.9,54.9
+2023-05-04,EC,PPI YoY,11:00,Mar,--,13.2%
+2023-05-04,US,Challenger Job Cuts YoY,13:30,Apr,--,319.4%
+2023-05-04,EC,ECB Main Refinancing Rate,14:15,--,4.0%,3.5%
+2023-05-04,US,Trade Balance,14:30,Mar,-$68.9b,-$70.5b
+2023-05-04,US,Initial Jobless Claims,14:30,--,--,230k
+2023-05-04,US,Unit Labor Costs,14:30,1Q P,3.6%,3.2%
+2023-05-05,CH,Caixin China PMI Services,03:45,Apr,57.3,57.8
+2023-05-05,GE,Factory Orders MoM,08:00,Mar,-2.5%,4.8%
+2023-05-05,FR,Private Sector Payrolls QoQ,08:45,1Q P,--,0.2%
+2023-05-05,FR,Wages QoQ,08:45,1Q P,--,0.7%
+2023-05-05,FR,Industrial Production MoM,08:45,Mar,--,1.2%
+2023-05-05,EC,Retail Sales MoM,11:00,Mar,--,-0.8%
+2023-05-05,US,Change in Nonfarm Payrolls,14:30,Apr,175k,236k
+2023-05-05,US,Average Hourly Earnings YoY,14:30,Apr,4.2%,4.2%
+2023-05-05,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2023-05-05,US,Fed’s Bullard Discusses the Economic Outlook,19:00,--,--,--
+2023-05-05,US,Consumer Credit,21:00,--,$17.250b,$15.290b
